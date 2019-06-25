@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2project>
+    <name>lineaTiempo</name>
+    <description></description>
+    <version>1.0.0.0</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website>http://</author-website>
+    <app-id>com.mycompany.myapp</app-id>
+    <unique-id>3cw3akxfgh2d0</unique-id>
+    <saved-with-version>23300</saved-with-version>
+    <used-plugins>
+        <plugin author="Scirra" id="Browser" version="1">Browser</plugin>
+        <plugin author="Scirra" id="Function" version="1">Function</plugin>
+        <plugin author="Scirra" id="Mouse" version="1">Mouse</plugin>
+        <plugin author="Scirra" id="Sprite" version="1">Sprite</plugin>
+        <plugin author="Scirra" id="Touch" version="1">Touch</plugin>
+    </used-plugins>
+    <used-behaviors />
+    <used-effects />
+    <configurations>
+        <configuration exporter-descname="HTML5" exporter-id="html5" name="HTML5" />
+    </configurations>
+    <window-size>
+        <width>1280</width>
+        <height>720</height>
+    </window-size>
+    <pixel-rounding>0</pixel-rounding>
+    <preview-effects>1</preview-effects>
+    <use-loader-layout>0</use-loader-layout>
+    <configuration-settings>
+        <prop name="Clear background">Yes</prop>
+        <prop name="Downscaling">Medium quality</prop>
+        <prop name="Enable WebGL">On</prop>
+        <prop name="Fullscreen in browser">Letterbox scale</prop>
+        <prop name="Fullscreen scaling">High quality</prop>
+        <prop name="Loader style">Construct 2 splash</prop>
+        <prop name="Orientations">Landscape</prop>
+        <prop name="Pause on unfocus">No</prop>
+        <prop name="Physics engine">Box2D asm.js</prop>
+        <prop name="Preload sounds">Yes</prop>
+        <prop name="Preview browser">Firefox</prop>
+        <prop name="Sampling">Linear</prop>
+        <prop name="Use high-DPI display">Yes</prop>
+    </configuration-settings>
+    <object-folder>
+        <object-folder name="Fondos">
+            <object-type name="Principal" sid="544258362794395">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="352131915719937" speed="5">
+                        <frame duration="1" hotspotX="0" hotspotY="0" original-source="D:\Users\phernandezc\Desktop\linea-tiempo\linea.jpg" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="FondoModal" sid="161811830722576">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="347184825962568" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+        </object-folder>
+        <object-folder name="Sistema">
+            <object-type name="Touch" sid="781856359497621">
+                <plugin id="Touch" />
+            </object-type>
+            <object-type name="Browser" sid="432373295067972">
+                <plugin id="Browser" />
+            </object-type>
+            <object-type name="Function" sid="401183870791700">
+                <plugin id="Function" />
+            </object-type>
+            <object-type name="Mouse" sid="520411265458906">
+                <plugin id="Mouse" />
+            </object-type>
+        </object-folder>
+        <object-folder name="Vinculos">
+            <object-type name="v1988" sid="897310979882716">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="809133923425931" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="D:\Users\phernandezc\Desktop\linea-tiempo\img_1988.JPG" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Mas1988" sid="903807017644439">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="446401284244736" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="D:\Users\phernandezc\Desktop\linea-tiempo\img_1988_M.JPG" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Mas1994" sid="419540898024347">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="493923948546850" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.516129" original-source="D:\Users\phernandezc\Desktop\linea-tiempo\img_1994_M.JPG" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+        </object-folder>
+        <object-folder name="Textos">
+            <object-type name="txt1988" sid="964349943077080">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="486890090450277" speed="5">
+                        <frame duration="1" hotspotX="0.50063" hotspotY="0.5" original-source="D:\Users\phernandezc\Desktop\linea-tiempo\img_1988_textos.JPG" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="txt1994" sid="153610188170150">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="130485065321582" speed="5">
+                        <frame duration="1" hotspotX="0.50063" hotspotY="0.503185" original-source="D:\Users\phernandezc\Desktop\linea-tiempo\img_1994_textos.JPG" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+        </object-folder>
+        <object-folder name="Botones">
+            <object-type name="btnCerrar" sid="291510718890953">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="522486713507362" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+        </object-folder>
+    </object-folder>
+    <families />
+    <layout-folder>
+        <layout>Principal.xml</layout>
+    </layout-folder>
+    <event-folder>
+        <event-sheet>Event sheet 1.xml</event-sheet>
+    </event-folder>
+    <global-instances>
+        <global-instance type="Touch" uid="1">
+            <properties>
+                <use-mouse-input>Yes</use-mouse-input>
+            </properties>
+        </global-instance>
+        <global-instance type="Browser" uid="2" />
+        <global-instance type="Function" uid="10" />
+        <global-instance type="Mouse" uid="11" />
+    </global-instances>
+    <sounds-folder />
+    <music-folder />
+    <files-folder>
+        <file-folder name="Icons">
+            <file name="icon-16.png" />
+            <file name="icon-32.png" />
+            <file name="icon-114.png" />
+            <file name="icon-128.png" />
+            <file name="icon-256.png" />
+            <file name="loading-logo.png" />
+        </file-folder>
+    </files-folder>
+</c2project>

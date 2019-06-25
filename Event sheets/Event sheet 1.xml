@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Event sheet 1</name>
+    <events>
+        <event-group description="" sid="287386454427066" title="vinculosFechas">
+            <sub-events>
+                <event-block sid="507752833922809">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="463608765483023" type="Touch">
+                            <param id="0" name="Object">v1988</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="8" name="Open URL in new window" sid="278708562153406" type="Browser">
+                            <param id="0" name="URL">&quot;http://www.fod.ac.cr/index.php?option=com_content&amp;view=article&amp;id=124&amp;Itemid=249&quot;</param>
+                            <param id="1" name="Tag">&quot;_blank&quot;</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-group>
+        <event-group description="" sid="807105211513286" title="vinculosTextos">
+            <sub-events>
+                <event-block sid="959364722594253">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="491497109895178" type="Touch">
+                            <param id="0" name="Object">Mas1988</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="149652423395374" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="482363372187038" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="0" name="Call function" sid="350040691752873" type="Function">
+                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
+                            <param id="1" name="Parameter {n}"></param>
+                        </action>
+                        <action id="-3" name="Set position" sid="195282596614299" type="txt1988">
+                            <param id="0" name="X">640</param>
+                            <param id="1" name="Y">360</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="675102976849305">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="142677242848519" type="Touch">
+                            <param id="0" name="Object">Mas1994</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="290016646097835" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="773489915757487" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="0" name="Call function" sid="557809937780182" type="Function">
+                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
+                            <param id="1" name="Parameter {n}"></param>
+                        </action>
+                        <action id="-3" name="Set position" sid="133122248741012" type="txt1994">
+                            <param id="0" name="X">640</param>
+                            <param id="1" name="Y">360</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-group>
+        <event-group description="" sid="644491272739932" title="eventosBotones">
+            <sub-events>
+                <event-block sid="864318375231798">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="294115259638653" type="Touch">
+                            <param id="0" name="Object">btnCerrar</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="554525088481466" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">0</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="862179470753114" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">0</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-group>
+        <event-group description="" sid="324582517427530" title="AcomodarTextosOrigen">
+            <sub-events>
+                <event-block sid="227592555559760">
+                    <conditions>
+                        <condition id="0" name="On function" sid="750148591892994" type="Function">
+                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-3" name="Set position" sid="436117615919975" type="txt1994">
+                            <param id="0" name="X">-600</param>
+                            <param id="1" name="Y">-600</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="796309362620453" type="txt1988">
+                            <param id="0" name="X">-600</param>
+                            <param id="1" name="Y">-600</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-group>
+        <event-group description="" sid="390863294813223" title="Efectos">
+            <sub-events>
+                <event-block sid="282585202338215">
+                    <conditions>
+                        <condition id="7" name="Cursor is over object" sid="664828962146357" type="Mouse">
+                            <param id="0" name="Object">v1988</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="9" name="Set scale" sid="105895642676116" type="v1988">
+                            <param id="0" name="Scale">1.4</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="986953773618022">
+                    <conditions>
+                        <condition id="-22" name="Else" sid="131341928330720" type="System" />
+                    </conditions>
+                    <actions>
+                        <action id="9" name="Set scale" sid="891274548099696" type="v1988">
+                            <param id="0" name="Scale">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-group>
+    </events>
+</c2eventsheet>
