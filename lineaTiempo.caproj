@@ -77,14 +77,6 @@
             </object-type>
         </object-folder>
         <object-folder name="Vinculos">
-            <object-type name="bonon_1986" sid="897310979882716">
-                <plugin id="Sprite" />
-                <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="809133923425931" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="D:\Users\phernandezc\Desktop\linea-tiempo\img_1988.JPG" />
-                    </animation>
-                </animation-folder>
-            </object-type>
             <object-type name="Mas1988" sid="903807017644439">
                 <plugin id="Sprite" />
                 <animation-folder>
@@ -98,6 +90,120 @@
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="493923948546850" speed="5">
                         <frame duration="1" hotspotX="0.5" hotspotY="0.516129" original-source="D:\Users\phernandezc\Desktop\linea-tiempo\img_1994_M.JPG" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="1986_www" sid="338979704875463">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="991388955980877" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.v.png">
+                            <collision-poly>
+                                <point x="0.142857" y="0.192308" />
+                                <point x="0.5" y="0.153846" />
+                                <point x="0.885714" y="0.153846" />
+                                <point x="1" y="0.5" />
+                                <point x="0.885714" y="0.846154" />
+                                <point x="0.5" y="0.846154" />
+                                <point x="0.142857" y="0.807692" />
+                                <point x="0.0285714" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="1986_info" sid="712294508185966">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="137204150257741" speed="5">
+                        <frame duration="1" hotspotX="0.506494" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.v.png">
+                            <collision-poly>
+                                <point x="0.103896" y="0.153846" />
+                                <point x="0.493506" y="0.153846" />
+                                <point x="0.87013" y="0.192308" />
+                                <point x="1" y="0.5" />
+                                <point x="0.87013" y="0.807692" />
+                                <point x="0.493506" y="0.846154" />
+                                <point x="0.103896" y="0.846154" />
+                                <point x="0" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="1988_www" sid="504070891424139">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="657652829684859" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.n.png">
+                            <collision-poly>
+                                <point x="0.142857" y="0.192308" />
+                                <point x="0.5" y="0.153846" />
+                                <point x="0.885714" y="0.153846" />
+                                <point x="1" y="0.5" />
+                                <point x="0.885714" y="0.846154" />
+                                <point x="0.5" y="0.846154" />
+                                <point x="0.142857" y="0.807692" />
+                                <point x="0.0285714" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="1988_info" sid="540490038108784">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="180180532415475" speed="5">
+                        <frame duration="1" hotspotX="0.506494" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.n.png">
+                            <collision-poly>
+                                <point x="0.103896" y="0.153846" />
+                                <point x="0.493506" y="0.153846" />
+                                <point x="0.87013" y="0.192308" />
+                                <point x="1" y="0.5" />
+                                <point x="0.87013" y="0.807692" />
+                                <point x="0.493506" y="0.846154" />
+                                <point x="0.103896" y="0.846154" />
+                                <point x="0" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="1994_www" sid="432782912928342">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="521529793135142" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.a.png">
+                            <collision-poly>
+                                <point x="0.142857" y="0.192308" />
+                                <point x="0.5" y="0.153846" />
+                                <point x="0.885714" y="0.153846" />
+                                <point x="1" y="0.5" />
+                                <point x="0.885714" y="0.846154" />
+                                <point x="0.5" y="0.846154" />
+                                <point x="0.142857" y="0.807692" />
+                                <point x="0.0285714" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="1994_info" sid="767026278661965">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="364849360144280" speed="5">
+                        <frame duration="1" hotspotX="0.506494" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.a.png">
+                            <collision-poly>
+                                <point x="0.103896" y="0.153846" />
+                                <point x="0.493506" y="0.153846" />
+                                <point x="0.87013" y="0.192308" />
+                                <point x="1" y="0.5" />
+                                <point x="0.87013" y="0.807692" />
+                                <point x="0.493506" y="0.846154" />
+                                <point x="0.103896" y="0.846154" />
+                                <point x="0" y="0.5" />
+                            </collision-poly>
+                        </frame>
                     </animation>
                 </animation-folder>
             </object-type>
@@ -800,6 +906,14 @@
                                 <point x="0.0128205" y="0.5" />
                             </collision-poly>
                         </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="bonon_1986" sid="897310979882716">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="809133923425931" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="D:\Users\phernandezc\Desktop\linea-tiempo\img_1988.JPG" />
                     </animation>
                 </animation-folder>
             </object-type>

@@ -26,7 +26,7 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="0" path="object-folder/Sistema/" />
         <folder expanded="1" path="object-folder/Vinculos/" />
         <folder expanded="0" path="object-folder/Textos/" />
-        <folder expanded="1" path="object-folder/Botones/" />
+        <folder expanded="0" path="object-folder/Botones/" />
         <folder expanded="1" path="layout-folder/" />
         <folder expanded="1" path="event-folder/" />
         <folder expanded="1" path="file-folder/" />
@@ -35,9 +35,14 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="0" path="file-folder/Icons/" />
         <folder expanded="1" path="animation-folder/Principal/" />
         <folder expanded="1" path="animation-folder/FondoModal/" />
-        <folder expanded="1" path="animation-folder/bonon_1986/" />
         <folder expanded="1" path="animation-folder/Mas1988/" />
         <folder expanded="1" path="animation-folder/Mas1994/" />
+        <folder expanded="1" path="animation-folder/1986_www/" />
+        <folder expanded="1" path="animation-folder/1986_info/" />
+        <folder expanded="1" path="animation-folder/1988_www/" />
+        <folder expanded="1" path="animation-folder/1988_info/" />
+        <folder expanded="1" path="animation-folder/1994_www/" />
+        <folder expanded="1" path="animation-folder/1994_info/" />
         <folder expanded="1" path="animation-folder/txt1988/" />
         <folder expanded="1" path="animation-folder/txt1994/" />
         <folder expanded="1" path="animation-folder/text_1994/" />
@@ -77,5 +82,6 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="1" path="animation-folder/btn_2015_pres/" />
         <folder expanded="1" path="animation-folder/btn_2016_pres/" />
         <folder expanded="1" path="animation-folder/btn_2019_pres/" />
+        <folder expanded="1" path="animation-folder/bonon_1986/" />
     </folders-expanded>
 </c2uistate>
