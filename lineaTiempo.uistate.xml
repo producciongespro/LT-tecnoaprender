@@ -35,11 +35,26 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="0" path="file-folder/Icons/" />
         <folder expanded="1" path="animation-folder/Principal/" />
         <folder expanded="1" path="animation-folder/FondoModal/" />
-        <folder expanded="1" path="animation-folder/v1988/" />
+        <folder expanded="1" path="animation-folder/bonon_1986/" />
         <folder expanded="1" path="animation-folder/Mas1988/" />
         <folder expanded="1" path="animation-folder/Mas1994/" />
+        <folder expanded="1" path="animation-folder/btn_1986/" />
+        <folder expanded="1" path="animation-folder/btn_1988/" />
+        <folder expanded="1" path="animation-folder/btn_1994/" />
+        <folder expanded="1" path="animation-folder/btn_1995/" />
+        <folder expanded="1" path="animation-folder/btn_2002/" />
+        <folder expanded="1" path="animation-folder/btn_2004/" />
+        <folder expanded="1" path="animation-folder/btn_2007/" />
+        <folder expanded="1" path="animation-folder/Sprite/" />
+        <folder expanded="1" path="animation-folder/btn_2008/" />
+        <folder expanded="1" path="animation-folder/btn_2011/" />
+        <folder expanded="1" path="animation-folder/btn_2015/" />
+        <folder expanded="1" path="animation-folder/btn_2016/" />
+        <folder expanded="1" path="animation-folder/Sprite2/" />
+        <folder expanded="1" path="animation-folder/btn_2019/" />
         <folder expanded="1" path="animation-folder/txt1988/" />
         <folder expanded="1" path="animation-folder/txt1994/" />
         <folder expanded="1" path="animation-folder/btnCerrar/" />
+        <folder expanded="1" path="animation-folder/btn_1986_presio/" />
     </folders-expanded>
 </c2uistate>

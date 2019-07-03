@@ -8,7 +8,7 @@
                 <event-block sid="507752833922809">
                     <conditions>
                         <condition id="3" name="On touched object" sid="463608765483023" type="Touch">
-                            <param id="0" name="Object">v1988</param>
+                            <param id="0" name="Object">bonon_1986</param>
                         </condition>
                     </conditions>
                     <actions>
@@ -93,6 +93,30 @@
                         </action>
                     </actions>
                 </event-block>
+                <event-block sid="494836905737641">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="511492633113967" type="Touch">
+                            <param id="0" name="Object">btn_1986</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="4" name="Set animation" sid="880924049418824" type="btn_1986_presio">
+                            <param id="0" name="Animation">&quot;press&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="762215645703577">
+                    <conditions>
+                        <condition id="-1" name="Every tick" sid="710303824027184" type="System" />
+                    </conditions>
+                    <actions>
+                        <action id="4" name="Set animation" sid="118963809063433" type="btn_1986">
+                            <param id="0" name="Animation">&quot;unpress&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                    </actions>
+                </event-block>
             </sub-events>
         </event-group>
         <event-group description="" sid="324582517427530" title="AcomodarTextosOrigen">
@@ -121,11 +145,11 @@
                 <event-block sid="282585202338215">
                     <conditions>
                         <condition id="7" name="Cursor is over object" sid="664828962146357" type="Mouse">
-                            <param id="0" name="Object">v1988</param>
+                            <param id="0" name="Object">bonon_1986</param>
                         </condition>
                     </conditions>
                     <actions>
-                        <action id="9" name="Set scale" sid="105895642676116" type="v1988">
+                        <action id="9" name="Set scale" sid="105895642676116" type="bonon_1986">
                             <param id="0" name="Scale">1.4</param>
                         </action>
                     </actions>
@@ -135,7 +159,7 @@
                         <condition id="-22" name="Else" sid="131341928330720" type="System" />
                     </conditions>
                     <actions>
-                        <action id="9" name="Set scale" sid="891274548099696" type="v1988">
+                        <action id="9" name="Set scale" sid="891274548099696" type="bonon_1986">
                             <param id="0" name="Scale">1</param>
                         </action>
                     </actions>

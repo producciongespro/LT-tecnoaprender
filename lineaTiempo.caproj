@@ -49,7 +49,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="352131915719937" speed="5">
-                        <frame duration="1" hotspotX="0" hotspotY="0" original-source="D:\Users\phernandezc\Desktop\linea-tiempo\linea.jpg" />
+                        <frame duration="1" hotspotX="0" hotspotY="0" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Fondos\()_fondo.jpg" />
                     </animation>
                 </animation-folder>
             </object-type>
@@ -77,7 +77,7 @@
             </object-type>
         </object-folder>
         <object-folder name="Vinculos">
-            <object-type name="v1988" sid="897310979882716">
+            <object-type name="bonon_1986" sid="897310979882716">
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="809133923425931" speed="5">
@@ -98,6 +98,264 @@
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="493923948546850" speed="5">
                         <frame duration="1" hotspotX="0.5" hotspotY="0.516129" original-source="D:\Users\phernandezc\Desktop\linea-tiempo\img_1994_M.JPG" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="btn_1986" sid="604746343181584">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="unpress" pingpong="0" repeatcount="1" repeatto="0" sid="315717245712547" speed="5">
+                        <frame duration="1" hotspotX="0.436681" hotspotY="0.445833" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_1986.png">
+                            <collision-poly>
+                                <point x="0.438095" y="0.936893" />
+                                <point x="0.271429" y="0.592233" />
+                                <point x="0.314286" y="0.451456" />
+                                <point x="0.357143" y="0.393204" />
+                                <point x="0.438095" y="0.320388" />
+                                <point x="0.647619" y="0.262136" />
+                                <point x="0.947619" y="0.451456" />
+                                <point x="0.890476" y="0.883495" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="press" pingpong="0" repeatcount="1" repeatto="0" sid="336427912282127" speed="5">
+                        <frame duration="1" hotspotX="0.435897" hotspotY="0.448718" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones B\()_estado_1986.png">
+                            <collision-poly>
+                                <point x="0.438095" y="0.936893" />
+                                <point x="0.271429" y="0.592233" />
+                                <point x="0.314286" y="0.451456" />
+                                <point x="0.357143" y="0.393204" />
+                                <point x="0.438095" y="0.320388" />
+                                <point x="0.647619" y="0.262136" />
+                                <point x="0.947619" y="0.451456" />
+                                <point x="0.890476" y="0.883495" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="btn_1988" sid="100449507841334">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="786172358870951" speed="5">
+                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_1988.png">
+                            <collision-poly>
+                                <point x="0.113537" y="0.108333" />
+                                <point x="0.497817" y="0.0583333" />
+                                <point x="0.672489" y="0.3125" />
+                                <point x="0.624454" y="0.5" />
+                                <point x="0.554585" y="0.575" />
+                                <point x="0.497817" y="0.6125" />
+                                <point x="0.366812" y="0.65" />
+                                <point x="0.0655022" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="btn_1994" sid="642041573093785">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="246222347136782" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_1994.png">
+                            <collision-poly>
+                                <point x="0.114035" y="0.108333" />
+                                <point x="0.5" y="0.0583333" />
+                                <point x="0.675439" y="0.308333" />
+                                <point x="0.627193" y="0.5" />
+                                <point x="0.557018" y="0.579167" />
+                                <point x="0.5" y="0.6125" />
+                                <point x="0.368421" y="0.65" />
+                                <point x="0.0614035" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="btn_1995" sid="768999320087435">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="850353324661503" speed="5">
+                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_1995.png">
+                            <collision-poly>
+                                <point x="0.113537" y="0.108333" />
+                                <point x="0.497817" y="0.0541667" />
+                                <point x="0.672489" y="0.3125" />
+                                <point x="0.620087" y="0.5" />
+                                <point x="0.554585" y="0.575" />
+                                <point x="0.497817" y="0.608333" />
+                                <point x="0.371179" y="0.645833" />
+                                <point x="0.0655022" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="btn_2002" sid="837327701650447">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="758558842037064" speed="5">
+                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_2002.png">
+                            <collision-poly>
+                                <point x="0.10917" y="0.104167" />
+                                <point x="0.497817" y="0.0541667" />
+                                <point x="0.668122" y="0.316667" />
+                                <point x="0.615721" y="0.5" />
+                                <point x="0.550218" y="0.570833" />
+                                <point x="0.497817" y="0.608333" />
+                                <point x="0.371179" y="0.645833" />
+                                <point x="0.0611354" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="btn_2004" sid="921964314140391">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="683275727801544" speed="5">
+                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_2004.png">
+                            <collision-poly>
+                                <point x="0.113537" y="0.108333" />
+                                <point x="0.497817" y="0.0583333" />
+                                <point x="0.672489" y="0.3125" />
+                                <point x="0.624454" y="0.5" />
+                                <point x="0.554585" y="0.575" />
+                                <point x="0.497817" y="0.6125" />
+                                <point x="0.366812" y="0.65" />
+                                <point x="0.0655022" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="btn_2007" sid="335669177204940">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="684600872342524" speed="5">
+                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_2007.png">
+                            <collision-poly>
+                                <point x="0.113537" y="0.108333" />
+                                <point x="0.497817" y="0.0583333" />
+                                <point x="0.672489" y="0.3125" />
+                                <point x="0.624454" y="0.5" />
+                                <point x="0.554585" y="0.575" />
+                                <point x="0.497817" y="0.6125" />
+                                <point x="0.366812" y="0.65" />
+                                <point x="0.0611354" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Sprite" sid="169619741308531">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="513904698914436" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="btn_2008" sid="507094041535435">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="994885876662371" speed="5">
+                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_2008.png">
+                            <collision-poly>
+                                <point x="0.113537" y="0.108333" />
+                                <point x="0.497817" y="0.0541667" />
+                                <point x="0.672489" y="0.3125" />
+                                <point x="0.620087" y="0.5" />
+                                <point x="0.554585" y="0.575" />
+                                <point x="0.497817" y="0.608333" />
+                                <point x="0.371179" y="0.645833" />
+                                <point x="0.0655022" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="btn_2011" sid="594680109311497">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="459112249376953" speed="5">
+                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_2011.png">
+                            <collision-poly>
+                                <point x="0.10917" y="0.104167" />
+                                <point x="0.497817" y="0.0541667" />
+                                <point x="0.668122" y="0.316667" />
+                                <point x="0.615721" y="0.5" />
+                                <point x="0.550218" y="0.570833" />
+                                <point x="0.497817" y="0.608333" />
+                                <point x="0.371179" y="0.645833" />
+                                <point x="0.0611354" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="btn_2015" sid="757649964372763">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="576921775774706" speed="5">
+                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_2015.png">
+                            <collision-poly>
+                                <point x="0.113537" y="0.108333" />
+                                <point x="0.497817" y="0.0583333" />
+                                <point x="0.672489" y="0.3125" />
+                                <point x="0.624454" y="0.5" />
+                                <point x="0.554585" y="0.575" />
+                                <point x="0.497817" y="0.6125" />
+                                <point x="0.366812" y="0.65" />
+                                <point x="0.0655022" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="btn_2016" sid="870477501742524">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="484807733683251" speed="5">
+                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_2016.png">
+                            <collision-poly>
+                                <point x="0.113537" y="0.108333" />
+                                <point x="0.497817" y="0.0583333" />
+                                <point x="0.672489" y="0.3125" />
+                                <point x="0.624454" y="0.5" />
+                                <point x="0.554585" y="0.575" />
+                                <point x="0.497817" y="0.6125" />
+                                <point x="0.366812" y="0.65" />
+                                <point x="0.0611354" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Sprite2" sid="704115712635798">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="179874824279545" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="btn_2019" sid="728248680369923">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="993865032484849" speed="5">
+                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_2019.png">
+                            <collision-poly>
+                                <point x="0.113537" y="0.108333" />
+                                <point x="0.497817" y="0.0541667" />
+                                <point x="0.672489" y="0.3125" />
+                                <point x="0.620087" y="0.5" />
+                                <point x="0.554585" y="0.575" />
+                                <point x="0.497817" y="0.608333" />
+                                <point x="0.371179" y="0.645833" />
+                                <point x="0.0655022" y="0.5" />
+                            </collision-poly>
+                        </frame>
                     </animation>
                 </animation-folder>
             </object-type>
@@ -126,6 +384,25 @@
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="522486713507362" speed="5">
                         <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="btn_1986_presio" sid="267298453472312">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="889391880949371" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones B\()_estado_1986.png">
+                            <collision-poly>
+                                <point x="0.160256" y="0.160256" />
+                                <point x="0.5" y="0.0128205" />
+                                <point x="0.846154" y="0.153846" />
+                                <point x="0.987179" y="0.5" />
+                                <point x="0.846154" y="0.846154" />
+                                <point x="0.5" y="0.987179" />
+                                <point x="0.153846" y="0.846154" />
+                                <point x="0.0128205" y="0.5" />
+                            </collision-poly>
+                        </frame>
                     </animation>
                 </animation-folder>
             </object-type>
