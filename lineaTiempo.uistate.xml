@@ -22,10 +22,10 @@ you probably do not want to add any .uistate.xml files to the repository.-->
     <families-expanded root="1" />
     <folders-expanded>
         <folder expanded="1" path="object-folder/" />
-        <folder expanded="1" path="object-folder/Fondos/" />
-        <folder expanded="1" path="object-folder/Sistema/" />
+        <folder expanded="0" path="object-folder/Fondos/" />
+        <folder expanded="0" path="object-folder/Sistema/" />
         <folder expanded="1" path="object-folder/Vinculos/" />
-        <folder expanded="1" path="object-folder/Textos/" />
+        <folder expanded="0" path="object-folder/Textos/" />
         <folder expanded="1" path="object-folder/Botones/" />
         <folder expanded="1" path="layout-folder/" />
         <folder expanded="1" path="event-folder/" />
@@ -38,20 +38,6 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="1" path="animation-folder/bonon_1986/" />
         <folder expanded="1" path="animation-folder/Mas1988/" />
         <folder expanded="1" path="animation-folder/Mas1994/" />
-        <folder expanded="1" path="animation-folder/btn_1986/" />
-        <folder expanded="1" path="animation-folder/btn_1988/" />
-        <folder expanded="1" path="animation-folder/btn_1994/" />
-        <folder expanded="1" path="animation-folder/btn_1995/" />
-        <folder expanded="1" path="animation-folder/btn_2002/" />
-        <folder expanded="1" path="animation-folder/btn_2004/" />
-        <folder expanded="1" path="animation-folder/btn_2007/" />
-        <folder expanded="1" path="animation-folder/Sprite/" />
-        <folder expanded="1" path="animation-folder/btn_2008/" />
-        <folder expanded="1" path="animation-folder/btn_2011/" />
-        <folder expanded="1" path="animation-folder/btn_2015/" />
-        <folder expanded="1" path="animation-folder/btn_2016/" />
-        <folder expanded="1" path="animation-folder/Sprite2/" />
-        <folder expanded="1" path="animation-folder/btn_2019/" />
         <folder expanded="1" path="animation-folder/txt1988/" />
         <folder expanded="1" path="animation-folder/txt1994/" />
         <folder expanded="1" path="animation-folder/text_1994/" />
@@ -67,6 +53,29 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="1" path="animation-folder/text_2002/" />
         <folder expanded="1" path="animation-folder/text_2011/" />
         <folder expanded="1" path="animation-folder/btnCerrar/" />
-        <folder expanded="1" path="animation-folder/btn_1986_presio/" />
+        <folder expanded="1" path="animation-folder/btn_1986_pres/" />
+        <folder expanded="1" path="animation-folder/btn_1986/" />
+        <folder expanded="1" path="animation-folder/btn_1988/" />
+        <folder expanded="1" path="animation-folder/btn_1994/" />
+        <folder expanded="1" path="animation-folder/btn_1995/" />
+        <folder expanded="1" path="animation-folder/btn_2002/" />
+        <folder expanded="1" path="animation-folder/btn_2004/" />
+        <folder expanded="1" path="animation-folder/btn_2007/" />
+        <folder expanded="1" path="animation-folder/btn_2008/" />
+        <folder expanded="1" path="animation-folder/btn_2011/" />
+        <folder expanded="1" path="animation-folder/btn_2015/" />
+        <folder expanded="1" path="animation-folder/btn_2016/" />
+        <folder expanded="1" path="animation-folder/btn_2019/" />
+        <folder expanded="1" path="animation-folder/btn_1988_pres/" />
+        <folder expanded="1" path="animation-folder/btn_1994_pres/" />
+        <folder expanded="1" path="animation-folder/btn_1995_pres/" />
+        <folder expanded="1" path="animation-folder/btn_2002_pres/" />
+        <folder expanded="1" path="animation-folder/btn_2004_pres/" />
+        <folder expanded="1" path="animation-folder/btn_2007_pres/" />
+        <folder expanded="1" path="animation-folder/btn_2008_pres/" />
+        <folder expanded="1" path="animation-folder/btn_2011_pres/" />
+        <folder expanded="1" path="animation-folder/btn_2015_pres/" />
+        <folder expanded="1" path="animation-folder/btn_2016_pres/" />
+        <folder expanded="1" path="animation-folder/btn_2019_pres/" />
     </folders-expanded>
 </c2uistate>

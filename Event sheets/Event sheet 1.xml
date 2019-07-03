@@ -125,7 +125,7 @@
                         </condition>
                     </conditions>
                     <actions>
-                        <action id="4" name="Set animation" sid="880924049418824" type="btn_1986_presio">
+                        <action id="4" name="Set animation" sid="880924049418824" type="btn_1986_pres">
                             <param id="0" name="Animation">&quot;press&quot;</param>
                             <param id="1" name="From">1</param>
                         </action>
