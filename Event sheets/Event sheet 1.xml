@@ -41,7 +41,7 @@
                             <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
                             <param id="1" name="Parameter {n}"></param>
                         </action>
-                        <action id="-3" name="Set position" sid="195282596614299" type="txt1988">
+                        <action id="-3" name="Set position" sid="195282596614299" type="text_1994">
                             <param id="0" name="X">640</param>
                             <param id="1" name="Y">360</param>
                         </action>
@@ -67,6 +67,31 @@
                             <param id="1" name="Parameter {n}"></param>
                         </action>
                         <action id="-3" name="Set position" sid="133122248741012" type="txt1994">
+                            <param id="0" name="X">640</param>
+                            <param id="1" name="Y">360</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="253183571645014">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="491771667273965" type="Touch">
+                            <param id="0" name="Object">Mas1994</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="554940111444371" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="957895731905937" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="0" name="Call function" sid="607760552546546" type="Function">
+                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
+                            <param id="1" name="Parameter {n}"></param>
+                        </action>
+                        <action id="-3" name="Set position" sid="901370995066784" type="txt1994">
                             <param id="0" name="X">640</param>
                             <param id="1" name="Y">360</param>
                         </action>

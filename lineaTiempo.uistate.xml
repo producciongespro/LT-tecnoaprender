@@ -54,6 +54,18 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="1" path="animation-folder/btn_2019/" />
         <folder expanded="1" path="animation-folder/txt1988/" />
         <folder expanded="1" path="animation-folder/txt1994/" />
+        <folder expanded="1" path="animation-folder/text_1994/" />
+        <folder expanded="1" path="animation-folder/text_2007/" />
+        <folder expanded="1" path="animation-folder/text_2016/" />
+        <folder expanded="1" path="animation-folder/text_1995/" />
+        <folder expanded="1" path="animation-folder/text_2008/" />
+        <folder expanded="1" path="animation-folder/text_2019/" />
+        <folder expanded="1" path="animation-folder/text_1988/" />
+        <folder expanded="1" path="animation-folder/text_2004/" />
+        <folder expanded="1" path="animation-folder/text_2015/" />
+        <folder expanded="1" path="animation-folder/text_1986/" />
+        <folder expanded="1" path="animation-folder/text_2002/" />
+        <folder expanded="1" path="animation-folder/text_2011/" />
         <folder expanded="1" path="animation-folder/btnCerrar/" />
         <folder expanded="1" path="animation-folder/btn_1986_presio/" />
     </folders-expanded>
