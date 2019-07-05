@@ -75,7 +75,7 @@
                 <event-block sid="253183571645014">
                     <conditions>
                         <condition id="3" name="On touched object" sid="491771667273965" type="Touch">
-                            <param id="0" name="Object">Mas1994</param>
+                            <param id="0" name="Object">1988_info</param>
                         </condition>
                     </conditions>
                     <actions>

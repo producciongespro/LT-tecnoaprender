@@ -24,7 +24,7 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="1" path="object-folder/" />
         <folder expanded="0" path="object-folder/Fondos/" />
         <folder expanded="0" path="object-folder/Sistema/" />
-        <folder expanded="1" path="object-folder/Vinculos/" />
+        <folder expanded="0" path="object-folder/Vinculos/" />
         <folder expanded="0" path="object-folder/Textos/" />
         <folder expanded="0" path="object-folder/Botones/" />
         <folder expanded="1" path="layout-folder/" />
@@ -43,6 +43,24 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="1" path="animation-folder/1988_info/" />
         <folder expanded="1" path="animation-folder/1994_www/" />
         <folder expanded="1" path="animation-folder/1994_info/" />
+        <folder expanded="1" path="animation-folder/2002_info/" />
+        <folder expanded="1" path="animation-folder/2002_www/" />
+        <folder expanded="1" path="animation-folder/2007_www/" />
+        <folder expanded="1" path="animation-folder/2007_info/" />
+        <folder expanded="1" path="animation-folder/2011_info/" />
+        <folder expanded="1" path="animation-folder/2011_www/" />
+        <folder expanded="1" path="animation-folder/2016_info/" />
+        <folder expanded="1" path="animation-folder/2016_www/" />
+        <folder expanded="1" path="animation-folder/2015_www/" />
+        <folder expanded="1" path="animation-folder/2015_info/" />
+        <folder expanded="1" path="animation-folder/2004_info/" />
+        <folder expanded="1" path="animation-folder/2004_www/" />
+        <folder expanded="1" path="animation-folder/1995_info/" />
+        <folder expanded="1" path="animation-folder/1995_www/" />
+        <folder expanded="1" path="animation-folder/2008_info/" />
+        <folder expanded="1" path="animation-folder/2008_www/" />
+        <folder expanded="1" path="animation-folder/2019_info/" />
+        <folder expanded="1" path="animation-folder/2019_www/" />
         <folder expanded="1" path="animation-folder/txt1988/" />
         <folder expanded="1" path="animation-folder/txt1994/" />
         <folder expanded="1" path="animation-folder/text_1994/" />
