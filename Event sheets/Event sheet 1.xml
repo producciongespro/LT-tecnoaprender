@@ -118,25 +118,44 @@
                         </action>
                     </actions>
                 </event-block>
-                <event-block sid="494836905737641">
+                <event-block sid="722521318604543">
                     <conditions>
-                        <condition id="3" name="On touched object" sid="511492633113967" type="Touch">
-                            <param id="0" name="Object">btn_1986</param>
+                        <condition id="3" name="On touched object" sid="538259785177490" type="Touch">
+                            <param id="0" name="Object">btn_1988</param>
                         </condition>
                     </conditions>
                     <actions>
-                        <action id="4" name="Set animation" sid="880924049418824" type="btn_1986_pres">
+                        <action id="4" name="Set animation" sid="640962271583396" type="btn_1988">
                             <param id="0" name="Animation">&quot;press&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="279755704921719" type="System">
+                            <param id="0" name="Seconds">1.0</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="983643372295170" type="btn_1988">
+                            <param id="0" name="Animation">&quot;unpress&quot;</param>
                             <param id="1" name="From">1</param>
                         </action>
                     </actions>
                 </event-block>
-                <event-block sid="762215645703577">
+                <event-block sid="885504646608842">
                     <conditions>
-                        <condition id="-1" name="Every tick" sid="710303824027184" type="System" />
+                        <condition id="3" name="On touched object" sid="887262718063915" type="Touch">
+                            <param id="0" name="Object">btn_1986</param>
+                        </condition>
                     </conditions>
                     <actions>
-                        <action id="4" name="Set animation" sid="118963809063433" type="btn_1986">
+                        <action id="4" name="Set animation" sid="719371878430260" type="btn_1986">
+                            <param id="0" name="Animation">&quot;press&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="295008760608800" type="1986_info">
+                            <param id="0" name="Mode">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="558266358105409" type="System">
+                            <param id="0" name="Seconds">1.0</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="161128940098125" type="btn_1986">
                             <param id="0" name="Animation">&quot;unpress&quot;</param>
                             <param id="1" name="From">1</param>
                         </action>
@@ -186,6 +205,22 @@
                     <actions>
                         <action id="9" name="Set scale" sid="891274548099696" type="bonon_1986">
                             <param id="0" name="Scale">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-group>
+        <event-group description="" sid="832874026761669" title="Colisiones">
+            <sub-events>
+                <event-block sid="614399640327982">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="312770124863020" type="1986_info">
+                            <param id="0" name="Object">Topeinferior1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="215756670842363" type="1986_info">
+                            <param id="0" name="Mode">0</param>
                         </action>
                     </actions>
                 </event-block>
