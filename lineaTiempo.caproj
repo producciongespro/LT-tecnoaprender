@@ -104,7 +104,7 @@
                 </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="991388955980877" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.v.png" />
+                        <frame duration="1" hotspotX="0.492958" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.v.png" />
                     </animation>
                 </animation-folder>
             </object-type>
@@ -117,16 +117,16 @@
                 </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="137204150257741" speed="5">
-                        <frame duration="1" hotspotX="0.506494" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.v.png">
+                        <frame duration="1" hotspotX="0.506329" hotspotY="1" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.v.png">
                             <collision-poly>
-                                <point x="0.103896" y="0.153846" />
-                                <point x="0.493506" y="0.153846" />
-                                <point x="0.87013" y="0.192308" />
-                                <point x="1" y="0.5" />
-                                <point x="0.87013" y="0.807692" />
-                                <point x="0.493506" y="0.846154" />
-                                <point x="0.103896" y="0.846154" />
-                                <point x="0" y="0.5" />
+                                <point x="0.113924" y="0.0499998" />
+                                <point x="0.49367" y="0.0499998" />
+                                <point x="0.86076" y="0.1" />
+                                <point x="0.987342" y="0.5" />
+                                <point x="0.911393" y="1" />
+                                <point x="0.49367" y="1" />
+                                <point x="0.101266" y="0.975" />
+                                <point x="0.0126582" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -134,18 +134,23 @@
             </object-type>
             <object-type name="1988_www" sid="504070891424139">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="689822199679219">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="657652829684859" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.n.png">
+                        <frame duration="1" hotspotX="0.492958" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.n.png">
                             <collision-poly>
-                                <point x="0.142857" y="0.192308" />
-                                <point x="0.5" y="0.153846" />
-                                <point x="0.885714" y="0.153846" />
-                                <point x="1" y="0.5" />
-                                <point x="0.885714" y="0.846154" />
-                                <point x="0.5" y="0.846154" />
-                                <point x="0.142857" y="0.807692" />
-                                <point x="0.0285714" y="0.5" />
+                                <point x="0.140845" y="0.1" />
+                                <point x="0.492958" y="0.0499998" />
+                                <point x="0.873239" y="0.0499998" />
+                                <point x="0.985915" y="0.5" />
+                                <point x="0.873239" y="0.95" />
+                                <point x="0.492958" y="0.95" />
+                                <point x="0.140845" y="0.9" />
+                                <point x="0.028169" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -153,18 +158,23 @@
             </object-type>
             <object-type name="1988_info" sid="540490038108784">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="551994895370974">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="180180532415475" speed="5">
-                        <frame duration="1" hotspotX="0.506494" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.n.png">
+                        <frame duration="1" hotspotX="0.506329" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.n.png">
                             <collision-poly>
-                                <point x="0.103896" y="0.153846" />
-                                <point x="0.493506" y="0.153846" />
-                                <point x="0.87013" y="0.192308" />
-                                <point x="1" y="0.5" />
-                                <point x="0.87013" y="0.807692" />
-                                <point x="0.493506" y="0.846154" />
-                                <point x="0.103896" y="0.846154" />
-                                <point x="0" y="0.5" />
+                                <point x="0.113924" y="0.0499998" />
+                                <point x="0.49367" y="0.0499998" />
+                                <point x="0.86076" y="0.1" />
+                                <point x="0.987342" y="0.5" />
+                                <point x="0.86076" y="0.9" />
+                                <point x="0.49367" y="0.95" />
+                                <point x="0.113924" y="0.95" />
+                                <point x="0.0126582" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -172,18 +182,23 @@
             </object-type>
             <object-type name="1994_www" sid="432782912928342">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="169315421583131">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="521529793135142" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.a.png">
+                        <frame duration="1" hotspotX="0.492958" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.a.png">
                             <collision-poly>
-                                <point x="0.142857" y="0.192308" />
-                                <point x="0.5" y="0.153846" />
-                                <point x="0.885714" y="0.153846" />
-                                <point x="1" y="0.5" />
-                                <point x="0.885714" y="0.846154" />
-                                <point x="0.5" y="0.846154" />
-                                <point x="0.142857" y="0.807692" />
-                                <point x="0.0285714" y="0.5" />
+                                <point x="0.140845" y="0.1" />
+                                <point x="0.492958" y="0.0499998" />
+                                <point x="0.873239" y="0.0499998" />
+                                <point x="0.985915" y="0.5" />
+                                <point x="0.873239" y="0.95" />
+                                <point x="0.492958" y="0.95" />
+                                <point x="0.140845" y="0.9" />
+                                <point x="0.028169" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -191,18 +206,23 @@
             </object-type>
             <object-type name="1994_info" sid="767026278661965">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="589447063928919">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="364849360144280" speed="5">
-                        <frame duration="1" hotspotX="0.506494" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.a.png">
+                        <frame duration="1" hotspotX="0.506329" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.a.png">
                             <collision-poly>
-                                <point x="0.103896" y="0.153846" />
-                                <point x="0.493506" y="0.153846" />
-                                <point x="0.87013" y="0.192308" />
-                                <point x="1" y="0.5" />
-                                <point x="0.87013" y="0.807692" />
-                                <point x="0.493506" y="0.846154" />
-                                <point x="0.103896" y="0.846154" />
-                                <point x="0" y="0.5" />
+                                <point x="0.113924" y="0.0499998" />
+                                <point x="0.49367" y="0.0499998" />
+                                <point x="0.86076" y="0.1" />
+                                <point x="0.987342" y="0.5" />
+                                <point x="0.86076" y="0.9" />
+                                <point x="0.49367" y="0.95" />
+                                <point x="0.113924" y="0.95" />
+                                <point x="0.0126582" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -210,18 +230,23 @@
             </object-type>
             <object-type name="2002_info" sid="376295046171193">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="169536232535836">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="307848136648359" speed="5">
-                        <frame duration="1" hotspotX="0.506494" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.v.png">
+                        <frame duration="1" hotspotX="0.506329" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.v.png">
                             <collision-poly>
-                                <point x="0.103896" y="0.153846" />
-                                <point x="0.493506" y="0.153846" />
-                                <point x="0.87013" y="0.192308" />
-                                <point x="1" y="0.5" />
-                                <point x="0.87013" y="0.807692" />
-                                <point x="0.493506" y="0.846154" />
-                                <point x="0.103896" y="0.846154" />
-                                <point x="0" y="0.5" />
+                                <point x="0.113924" y="0.0499998" />
+                                <point x="0.49367" y="0.0499998" />
+                                <point x="0.86076" y="0.1" />
+                                <point x="0.987342" y="0.5" />
+                                <point x="0.86076" y="0.9" />
+                                <point x="0.49367" y="0.95" />
+                                <point x="0.113924" y="0.95" />
+                                <point x="0.0126582" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -229,18 +254,23 @@
             </object-type>
             <object-type name="2002_www" sid="514797739552998">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="749906629004378">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="246768596082034" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.v.png">
+                        <frame duration="1" hotspotX="0.492958" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.v.png">
                             <collision-poly>
-                                <point x="0.142857" y="0.192308" />
-                                <point x="0.5" y="0.153846" />
-                                <point x="0.885714" y="0.153846" />
-                                <point x="1" y="0.5" />
-                                <point x="0.885714" y="0.846154" />
-                                <point x="0.5" y="0.846154" />
-                                <point x="0.142857" y="0.807692" />
-                                <point x="0.0285714" y="0.5" />
+                                <point x="0.140845" y="0.1" />
+                                <point x="0.492958" y="0.0499998" />
+                                <point x="0.873239" y="0.0499998" />
+                                <point x="0.985915" y="0.5" />
+                                <point x="0.873239" y="0.95" />
+                                <point x="0.492958" y="0.95" />
+                                <point x="0.140845" y="0.9" />
+                                <point x="0.028169" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -248,18 +278,23 @@
             </object-type>
             <object-type name="2007_www" sid="883526522250407">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="416673323734076">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="830123151976202" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.a.png">
+                        <frame duration="1" hotspotX="0.492958" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.a.png">
                             <collision-poly>
-                                <point x="0.142857" y="0.192308" />
-                                <point x="0.5" y="0.153846" />
-                                <point x="0.885714" y="0.153846" />
-                                <point x="1" y="0.5" />
-                                <point x="0.885714" y="0.846154" />
-                                <point x="0.5" y="0.846154" />
-                                <point x="0.142857" y="0.807692" />
-                                <point x="0.0285714" y="0.5" />
+                                <point x="0.140845" y="0.1" />
+                                <point x="0.492958" y="0.0499998" />
+                                <point x="0.873239" y="0.0499998" />
+                                <point x="0.985915" y="0.5" />
+                                <point x="0.873239" y="0.95" />
+                                <point x="0.492958" y="0.95" />
+                                <point x="0.140845" y="0.9" />
+                                <point x="0.028169" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -267,18 +302,23 @@
             </object-type>
             <object-type name="2007_info" sid="617641024476367">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="186464471120266">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="757959597136569" speed="5">
-                        <frame duration="1" hotspotX="0.506494" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.a.png">
+                        <frame duration="1" hotspotX="0.506329" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.a.png">
                             <collision-poly>
-                                <point x="0.103896" y="0.153846" />
-                                <point x="0.493506" y="0.153846" />
-                                <point x="0.87013" y="0.192308" />
-                                <point x="1" y="0.5" />
-                                <point x="0.87013" y="0.807692" />
-                                <point x="0.493506" y="0.846154" />
-                                <point x="0.103896" y="0.846154" />
-                                <point x="0" y="0.5" />
+                                <point x="0.113924" y="0.0499998" />
+                                <point x="0.49367" y="0.0499998" />
+                                <point x="0.86076" y="0.1" />
+                                <point x="0.987342" y="0.5" />
+                                <point x="0.86076" y="0.9" />
+                                <point x="0.49367" y="0.95" />
+                                <point x="0.113924" y="0.95" />
+                                <point x="0.0126582" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -286,18 +326,23 @@
             </object-type>
             <object-type name="2011_info" sid="104426768203518">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="172097280027042">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="953483081217382" speed="5">
-                        <frame duration="1" hotspotX="0.506494" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.v.png">
+                        <frame duration="1" hotspotX="0.506329" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.v.png">
                             <collision-poly>
-                                <point x="0.103896" y="0.153846" />
-                                <point x="0.493506" y="0.153846" />
-                                <point x="0.87013" y="0.192308" />
-                                <point x="1" y="0.5" />
-                                <point x="0.87013" y="0.807692" />
-                                <point x="0.493506" y="0.846154" />
-                                <point x="0.103896" y="0.846154" />
-                                <point x="0" y="0.5" />
+                                <point x="0.113924" y="0.0499998" />
+                                <point x="0.49367" y="0.0499998" />
+                                <point x="0.86076" y="0.1" />
+                                <point x="0.987342" y="0.5" />
+                                <point x="0.86076" y="0.9" />
+                                <point x="0.49367" y="0.95" />
+                                <point x="0.113924" y="0.95" />
+                                <point x="0.0126582" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -305,18 +350,23 @@
             </object-type>
             <object-type name="2011_www" sid="911224900768031">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="319374222262123">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="113811542258348" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.v.png">
+                        <frame duration="1" hotspotX="0.492958" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.v.png">
                             <collision-poly>
-                                <point x="0.142857" y="0.192308" />
-                                <point x="0.5" y="0.153846" />
-                                <point x="0.885714" y="0.153846" />
-                                <point x="1" y="0.5" />
-                                <point x="0.885714" y="0.846154" />
-                                <point x="0.5" y="0.846154" />
-                                <point x="0.142857" y="0.807692" />
-                                <point x="0.0285714" y="0.5" />
+                                <point x="0.140845" y="0.1" />
+                                <point x="0.492958" y="0.0499998" />
+                                <point x="0.873239" y="0.0499998" />
+                                <point x="0.985915" y="0.5" />
+                                <point x="0.873239" y="0.95" />
+                                <point x="0.492958" y="0.95" />
+                                <point x="0.140845" y="0.9" />
+                                <point x="0.028169" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -324,18 +374,23 @@
             </object-type>
             <object-type name="2016_info" sid="370950253650005">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="555818030143981">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="332588210307811" speed="5">
-                        <frame duration="1" hotspotX="0.506494" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.a.png">
+                        <frame duration="1" hotspotX="0.506329" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.a.png">
                             <collision-poly>
-                                <point x="0.103896" y="0.153846" />
-                                <point x="0.493506" y="0.153846" />
-                                <point x="0.87013" y="0.192308" />
-                                <point x="1" y="0.5" />
-                                <point x="0.87013" y="0.807692" />
-                                <point x="0.493506" y="0.846154" />
-                                <point x="0.103896" y="0.846154" />
-                                <point x="0" y="0.5" />
+                                <point x="0.113924" y="0.0499998" />
+                                <point x="0.49367" y="0.0499998" />
+                                <point x="0.86076" y="0.1" />
+                                <point x="0.987342" y="0.5" />
+                                <point x="0.86076" y="0.9" />
+                                <point x="0.49367" y="0.95" />
+                                <point x="0.113924" y="0.95" />
+                                <point x="0.0126582" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -343,18 +398,23 @@
             </object-type>
             <object-type name="2016_www" sid="763739334500150">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="969646199018629">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="270594790866556" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.a.png">
+                        <frame duration="1" hotspotX="0.492958" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.a.png">
                             <collision-poly>
-                                <point x="0.142857" y="0.192308" />
-                                <point x="0.5" y="0.153846" />
-                                <point x="0.885714" y="0.153846" />
-                                <point x="1" y="0.5" />
-                                <point x="0.885714" y="0.846154" />
-                                <point x="0.5" y="0.846154" />
-                                <point x="0.142857" y="0.807692" />
-                                <point x="0.0285714" y="0.5" />
+                                <point x="0.140845" y="0.1" />
+                                <point x="0.492958" y="0.0499998" />
+                                <point x="0.873239" y="0.0499998" />
+                                <point x="0.985915" y="0.5" />
+                                <point x="0.873239" y="0.95" />
+                                <point x="0.492958" y="0.95" />
+                                <point x="0.140845" y="0.9" />
+                                <point x="0.028169" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -362,18 +422,23 @@
             </object-type>
             <object-type name="2015_www" sid="941455529995015">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="787626159067253">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="164628342103032" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.n.png">
+                        <frame duration="1" hotspotX="0.492958" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.n.png">
                             <collision-poly>
-                                <point x="0.142857" y="0.192308" />
-                                <point x="0.5" y="0.153846" />
-                                <point x="0.885714" y="0.153846" />
-                                <point x="1" y="0.5" />
-                                <point x="0.885714" y="0.846154" />
-                                <point x="0.5" y="0.846154" />
-                                <point x="0.142857" y="0.807692" />
-                                <point x="0.0285714" y="0.5" />
+                                <point x="0.140845" y="0.1" />
+                                <point x="0.492958" y="0.0499998" />
+                                <point x="0.873239" y="0.0499998" />
+                                <point x="0.985915" y="0.5" />
+                                <point x="0.873239" y="0.95" />
+                                <point x="0.492958" y="0.95" />
+                                <point x="0.140845" y="0.9" />
+                                <point x="0.028169" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -381,18 +446,23 @@
             </object-type>
             <object-type name="2015_info" sid="991102543527756">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="234356989172732">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="455491000042879" speed="5">
-                        <frame duration="1" hotspotX="0.506494" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.n.png">
+                        <frame duration="1" hotspotX="0.506329" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.n.png">
                             <collision-poly>
-                                <point x="0.103896" y="0.153846" />
-                                <point x="0.493506" y="0.153846" />
-                                <point x="0.87013" y="0.192308" />
-                                <point x="1" y="0.5" />
-                                <point x="0.87013" y="0.807692" />
-                                <point x="0.493506" y="0.846154" />
-                                <point x="0.103896" y="0.846154" />
-                                <point x="0" y="0.5" />
+                                <point x="0.113924" y="0.0499998" />
+                                <point x="0.49367" y="0.0499998" />
+                                <point x="0.86076" y="0.1" />
+                                <point x="0.987342" y="0.5" />
+                                <point x="0.86076" y="0.9" />
+                                <point x="0.49367" y="0.95" />
+                                <point x="0.113924" y="0.95" />
+                                <point x="0.0126582" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -400,18 +470,23 @@
             </object-type>
             <object-type name="2004_info" sid="500888929704968">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="905923822990463">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="175532623867572" speed="5">
-                        <frame duration="1" hotspotX="0.506494" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.n.png">
+                        <frame duration="1" hotspotX="0.506329" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.n.png">
                             <collision-poly>
-                                <point x="0.103896" y="0.153846" />
-                                <point x="0.493506" y="0.153846" />
-                                <point x="0.87013" y="0.192308" />
-                                <point x="1" y="0.5" />
-                                <point x="0.87013" y="0.807692" />
-                                <point x="0.493506" y="0.846154" />
-                                <point x="0.103896" y="0.846154" />
-                                <point x="0" y="0.5" />
+                                <point x="0.113924" y="0.0499998" />
+                                <point x="0.49367" y="0.0499998" />
+                                <point x="0.86076" y="0.1" />
+                                <point x="0.987342" y="0.5" />
+                                <point x="0.86076" y="0.9" />
+                                <point x="0.49367" y="0.95" />
+                                <point x="0.113924" y="0.95" />
+                                <point x="0.0126582" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -419,6 +494,11 @@
             </object-type>
             <object-type name="2004_www" sid="764062287300244">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="846627756848427">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="953511643114263" speed="5">
                         <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.n.png">
@@ -438,18 +518,23 @@
             </object-type>
             <object-type name="1995_info" sid="674866158062501">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="810526155290991">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="495752317589467" speed="5">
-                        <frame duration="1" hotspotX="0.506494" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.m.png">
+                        <frame duration="1" hotspotX="0.512821" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.m.png">
                             <collision-poly>
-                                <point x="0.103896" y="0.153846" />
-                                <point x="0.493506" y="0.153846" />
-                                <point x="0.87013" y="0.192308" />
-                                <point x="0.987013" y="0.5" />
-                                <point x="0.87013" y="0.807692" />
-                                <point x="0.493506" y="0.846154" />
-                                <point x="0.103896" y="0.846154" />
-                                <point x="0" y="0.5" />
+                                <point x="0.115385" y="0.0499998" />
+                                <point x="0.5" y="0.0499998" />
+                                <point x="0.871795" y="0.1" />
+                                <point x="0.987179" y="0.5" />
+                                <point x="0.871795" y="0.9" />
+                                <point x="0.5" y="0.95" />
+                                <point x="0.115385" y="0.95" />
+                                <point x="0.0128205" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -457,18 +542,23 @@
             </object-type>
             <object-type name="1995_www" sid="719738051561966">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="622317528586198">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="551721972943901" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.m.png">
+                        <frame duration="1" hotspotX="0.492958" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.m.png">
                             <collision-poly>
-                                <point x="0.142857" y="0.192308" />
-                                <point x="0.5" y="0.153846" />
-                                <point x="0.885714" y="0.153846" />
-                                <point x="1" y="0.5" />
-                                <point x="0.885714" y="0.846154" />
-                                <point x="0.5" y="0.846154" />
-                                <point x="0.142857" y="0.807692" />
-                                <point x="0.0285714" y="0.5" />
+                                <point x="0.140845" y="0.1" />
+                                <point x="0.492958" y="0.0499998" />
+                                <point x="0.873239" y="0.0499998" />
+                                <point x="0.985915" y="0.5" />
+                                <point x="0.873239" y="0.95" />
+                                <point x="0.492958" y="0.95" />
+                                <point x="0.140845" y="0.9" />
+                                <point x="0.028169" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -476,18 +566,23 @@
             </object-type>
             <object-type name="2008_info" sid="492280566311026">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="258522470263261">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="454136217624289" speed="5">
-                        <frame duration="1" hotspotX="0.506494" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.m.png">
+                        <frame duration="1" hotspotX="0.512821" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.m.png">
                             <collision-poly>
-                                <point x="0.103896" y="0.153846" />
-                                <point x="0.493506" y="0.153846" />
-                                <point x="0.87013" y="0.192308" />
-                                <point x="0.987013" y="0.5" />
-                                <point x="0.87013" y="0.807692" />
-                                <point x="0.493506" y="0.846154" />
-                                <point x="0.103896" y="0.846154" />
-                                <point x="0" y="0.5" />
+                                <point x="0.115385" y="0.0499998" />
+                                <point x="0.5" y="0.0499998" />
+                                <point x="0.871795" y="0.1" />
+                                <point x="0.987179" y="0.5" />
+                                <point x="0.871795" y="0.9" />
+                                <point x="0.5" y="0.95" />
+                                <point x="0.115385" y="0.95" />
+                                <point x="0.0128205" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -495,18 +590,23 @@
             </object-type>
             <object-type name="2008_www" sid="355459290486314">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="596387019342588">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="774660819004359" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.m.png">
+                        <frame duration="1" hotspotX="0.492958" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.m.png">
                             <collision-poly>
-                                <point x="0.142857" y="0.192308" />
-                                <point x="0.5" y="0.153846" />
-                                <point x="0.885714" y="0.153846" />
-                                <point x="1" y="0.5" />
-                                <point x="0.885714" y="0.846154" />
-                                <point x="0.5" y="0.846154" />
-                                <point x="0.142857" y="0.807692" />
-                                <point x="0.0285714" y="0.5" />
+                                <point x="0.140845" y="0.1" />
+                                <point x="0.492958" y="0.0499998" />
+                                <point x="0.873239" y="0.0499998" />
+                                <point x="0.985915" y="0.5" />
+                                <point x="0.873239" y="0.95" />
+                                <point x="0.492958" y="0.95" />
+                                <point x="0.140845" y="0.9" />
+                                <point x="0.028169" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -514,18 +614,23 @@
             </object-type>
             <object-type name="2019_info" sid="633638906769428">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="528135883308590">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="585370131771326" speed="5">
-                        <frame duration="1" hotspotX="0.506494" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.m.png">
+                        <frame duration="1" hotspotX="0.512821" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.m.png">
                             <collision-poly>
-                                <point x="0.103896" y="0.153846" />
-                                <point x="0.493506" y="0.153846" />
-                                <point x="0.87013" y="0.192308" />
-                                <point x="0.987013" y="0.5" />
-                                <point x="0.87013" y="0.807692" />
-                                <point x="0.493506" y="0.846154" />
-                                <point x="0.103896" y="0.846154" />
-                                <point x="0" y="0.5" />
+                                <point x="0.115385" y="0.0499998" />
+                                <point x="0.5" y="0.0499998" />
+                                <point x="0.871795" y="0.1" />
+                                <point x="0.987179" y="0.5" />
+                                <point x="0.871795" y="0.9" />
+                                <point x="0.5" y="0.95" />
+                                <point x="0.115385" y="0.95" />
+                                <point x="0.0128205" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -533,18 +638,23 @@
             </object-type>
             <object-type name="2019_www" sid="693089597589614">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="190528104502091">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="986271824776596" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.m.png">
+                        <frame duration="1" hotspotX="0.492958" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.m.png">
                             <collision-poly>
-                                <point x="0.142857" y="0.192308" />
-                                <point x="0.5" y="0.153846" />
-                                <point x="0.885714" y="0.153846" />
-                                <point x="1" y="0.5" />
-                                <point x="0.885714" y="0.846154" />
-                                <point x="0.5" y="0.846154" />
-                                <point x="0.142857" y="0.807692" />
-                                <point x="0.0285714" y="0.5" />
+                                <point x="0.140845" y="0.1" />
+                                <point x="0.492958" y="0.0499998" />
+                                <point x="0.873239" y="0.0499998" />
+                                <point x="0.985915" y="0.5" />
+                                <point x="0.873239" y="0.95" />
+                                <point x="0.492958" y="0.95" />
+                                <point x="0.140845" y="0.9" />
+                                <point x="0.028169" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -804,11 +914,22 @@
             <object-type name="btn_1986" sid="604746343181584">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="unpress" pingpong="0" repeatcount="1" repeatto="0" sid="315717245712547" speed="5">
-                        <frame duration="1" hotspotX="0.480583" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_1986.png" />
+                    <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="315717245712547" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.480519" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_1986.png">
+                            <collision-poly>
+                                <point x="0.225249" y="0.219767" />
+                                <point x="1" y="0.0983303" />
+                                <point x="1" y="0.735875" />
+                                <point x="1" y="1" />
+                                <point x="1" y="1" />
+                                <point x="1" y="1" />
+                                <point x="0.804605" y="1" />
+                                <point x="0.119034" y="1" />
+                            </collision-poly>
+                        </frame>
                     </animation>
-                    <animation framecount="1" loop="0" name="press" pingpong="0" repeatcount="1" repeatto="0" sid="336427912282127" speed="5">
-                        <frame duration="1" hotspotX="0.435897" hotspotY="0.448718" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones B\()_estado_1986.png">
+                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="336427912282127" speed="5">
+                        <frame duration="1" hotspotX="0.49359" hotspotY="0.487179" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones B\()_estado_1986.png">
                             <collision-poly>
                                 <point x="0.438095" y="0.936893" />
                                 <point x="0.271429" y="0.592233" />
@@ -826,21 +947,21 @@
             <object-type name="btn_1988" sid="100449507841334">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="unpress" pingpong="0" repeatcount="1" repeatto="0" sid="786172358870951" speed="5">
-                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_1988.png">
+                    <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="786172358870951" speed="5">
+                        <frame duration="1" hotspotX="0.480519" hotspotY="0.493506" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_1988.png">
                             <collision-poly>
-                                <point x="0.113537" y="0.108333" />
-                                <point x="0.497817" y="0.0583333" />
-                                <point x="0.672489" y="0.3125" />
-                                <point x="0.624454" y="0.5" />
-                                <point x="0.554585" y="0.575" />
-                                <point x="0.497817" y="0.6125" />
-                                <point x="0.366812" y="0.65" />
-                                <point x="0.0655022" y="0.5" />
+                                <point x="0.155844" y="0.14935" />
+                                <point x="0.46104" y="0.0584415" />
+                                <point x="0.824675" y="0.162338" />
+                                <point x="0.993506" y="0.525974" />
+                                <point x="0.811688" y="0.876623" />
+                                <point x="0.512988" y="0.954545" />
+                                <point x="0.227272" y="0.876623" />
+                                <point x="0.0324675" y="0.525974" />
                             </collision-poly>
                         </frame>
                     </animation>
-                    <animation framecount="1" loop="0" name="press" pingpong="0" repeatcount="1" repeatto="0" sid="328517143206536" speed="5">
+                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="328517143206536" speed="5">
                         <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones B\()_estado_1988.png">
                             <collision-poly>
                                 <point x="0.160256" y="0.160256" />
@@ -859,190 +980,220 @@
             <object-type name="btn_1994" sid="642041573093785">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="246222347136782" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_1994.png">
+                    <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="246222347136782" speed="5">
+                        <frame duration="1" hotspotX="0.811688" hotspotY="0.850649" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_1994.png">
                             <collision-poly>
-                                <point x="0.114035" y="0.108333" />
-                                <point x="0.5" y="0.0583333" />
-                                <point x="0.675439" y="0.308333" />
-                                <point x="0.627193" y="0.5" />
-                                <point x="0.557018" y="0.579167" />
-                                <point x="0.5" y="0.6125" />
-                                <point x="0.368421" y="0.65" />
-                                <point x="0.0614035" y="0.5" />
+                                <point x="0.103514" y="0.25085" />
+                                <point x="0.385027" y="0.0496784" />
+                                <point x="0.779221" y="0.100995" />
+                                <point x="0.993506" y="0.468478" />
+                                <point x="0.82353" y="0.839491" />
+                                <point x="0.495416" y="0.941558" />
+                                <point x="0.258212" y="0.857143" />
+                                <point x="0.0164247" y="0.643803" />
                             </collision-poly>
                         </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="236781986406786" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
                     </animation>
                 </animation-folder>
             </object-type>
             <object-type name="btn_1995" sid="768999320087435">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="850353324661503" speed="5">
-                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_1995.png">
+                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="850353324661503" speed="5">
+                        <frame duration="1" hotspotX="0.493506" hotspotY="0.474026" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_1995.png">
                             <collision-poly>
-                                <point x="0.113537" y="0.108333" />
-                                <point x="0.497817" y="0.0541667" />
-                                <point x="0.672489" y="0.3125" />
-                                <point x="0.620087" y="0.5" />
-                                <point x="0.554585" y="0.575" />
-                                <point x="0.497817" y="0.608333" />
-                                <point x="0.371179" y="0.645833" />
-                                <point x="0.0655022" y="0.5" />
+                                <point x="0.162337" y="0.14935" />
+                                <point x="0.733767" y="0.0649351" />
+                                <point x="0.993506" y="0.467532" />
+                                <point x="0.915584" y="0.75974" />
+                                <point x="0.818182" y="0.876623" />
+                                <point x="0.733767" y="0.928571" />
+                                <point x="0.545455" y="0.987013" />
+                                <point x="0.0909091" y="0.75974" />
                             </collision-poly>
                         </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="766418144064031" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
                     </animation>
                 </animation-folder>
             </object-type>
             <object-type name="btn_2002" sid="837327701650447">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="758558842037064" speed="5">
-                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_2002.png">
+                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="758558842037064" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.467532" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2002.png">
                             <collision-poly>
-                                <point x="0.10917" y="0.104167" />
-                                <point x="0.497817" y="0.0541667" />
-                                <point x="0.668122" y="0.316667" />
-                                <point x="0.615721" y="0.5" />
-                                <point x="0.550218" y="0.570833" />
-                                <point x="0.497817" y="0.608333" />
-                                <point x="0.371179" y="0.645833" />
-                                <point x="0.0611354" y="0.5" />
+                                <point x="0.155844" y="0.149351" />
+                                <point x="0.733767" y="0.0714286" />
+                                <point x="0.987013" y="0.48052" />
+                                <point x="0.909092" y="0.766234" />
+                                <point x="0.811688" y="0.876623" />
+                                <point x="0.733767" y="0.935064" />
+                                <point x="0.545455" y="0.993506" />
+                                <point x="0.0844156" y="0.766234" />
                             </collision-poly>
                         </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="783518541286295" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
                     </animation>
                 </animation-folder>
             </object-type>
             <object-type name="btn_2004" sid="921964314140391">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="683275727801544" speed="5">
-                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_2004.png">
+                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="683275727801544" speed="5">
+                        <frame duration="1" hotspotX="0.487013" hotspotY="0.487013" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2004.png">
                             <collision-poly>
-                                <point x="0.113537" y="0.108333" />
-                                <point x="0.497817" y="0.0583333" />
-                                <point x="0.672489" y="0.3125" />
-                                <point x="0.624454" y="0.5" />
-                                <point x="0.554585" y="0.575" />
-                                <point x="0.497817" y="0.6125" />
-                                <point x="0.366812" y="0.65" />
-                                <point x="0.0655022" y="0.5" />
+                                <point x="0.161955" y="0.152847" />
+                                <point x="0.433283" y="0.0564435" />
+                                <point x="0.779221" y="0.13037" />
+                                <point x="0.974026" y="0.454545" />
+                                <point x="0.891679" y="0.803696" />
+                                <point x="0.543673" y="1" />
+                                <point x="0.123694" y="0.87013" />
+                                <point x="0" y="0.474026" />
                             </collision-poly>
                         </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="665541365792630" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
                     </animation>
                 </animation-folder>
             </object-type>
             <object-type name="btn_2007" sid="335669177204940">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="684600872342524" speed="5">
-                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_2007.png">
+                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="684600872342524" speed="5">
+                        <frame duration="1" hotspotX="0.512987" hotspotY="0.467532" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2007.png">
                             <collision-poly>
-                                <point x="0.113537" y="0.108333" />
-                                <point x="0.497817" y="0.0583333" />
-                                <point x="0.672489" y="0.3125" />
-                                <point x="0.624454" y="0.5" />
-                                <point x="0.554585" y="0.575" />
-                                <point x="0.497817" y="0.6125" />
-                                <point x="0.366812" y="0.65" />
-                                <point x="0.0611354" y="0.5" />
+                                <point x="0.155844" y="0.142857" />
+                                <point x="0.727273" y="0.064935" />
+                                <point x="0.987013" y="0.461039" />
+                                <point x="0.915584" y="0.753247" />
+                                <point x="0.811688" y="0.87013" />
+                                <point x="0.727273" y="0.928571" />
+                                <point x="0.532467" y="0.987013" />
+                                <point x="0.0779221" y="0.753247" />
                             </collision-poly>
                         </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="463886418999995" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
                     </animation>
                 </animation-folder>
             </object-type>
             <object-type name="btn_2008" sid="507094041535435">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="994885876662371" speed="5">
-                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_2008.png">
+                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="994885876662371" speed="5">
+                        <frame duration="1" hotspotX="0.487013" hotspotY="0.474026" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2008.png">
                             <collision-poly>
-                                <point x="0.113537" y="0.108333" />
-                                <point x="0.497817" y="0.0541667" />
-                                <point x="0.672489" y="0.3125" />
-                                <point x="0.620087" y="0.5" />
-                                <point x="0.554585" y="0.575" />
-                                <point x="0.497817" y="0.608333" />
-                                <point x="0.371179" y="0.645833" />
-                                <point x="0.0655022" y="0.5" />
+                                <point x="0.162337" y="0.14935" />
+                                <point x="0.733767" y="0.0649351" />
+                                <point x="0.993506" y="0.467532" />
+                                <point x="0.915584" y="0.75974" />
+                                <point x="0.818182" y="0.876623" />
+                                <point x="0.733767" y="0.928571" />
+                                <point x="0.545455" y="0.987013" />
+                                <point x="0.0909091" y="0.75974" />
                             </collision-poly>
                         </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="Animation2" pingpong="0" repeatcount="1" repeatto="0" sid="702331979540218" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
                     </animation>
                 </animation-folder>
             </object-type>
             <object-type name="btn_2011" sid="594680109311497">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="459112249376953" speed="5">
-                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_2011.png">
+                    <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="459112249376953" speed="5">
+                        <frame duration="1" hotspotX="1.16234" hotspotY="0.318182" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2011.png">
                             <collision-poly>
-                                <point x="0.10917" y="0.104167" />
-                                <point x="0.497817" y="0.0541667" />
-                                <point x="0.668122" y="0.316667" />
-                                <point x="0.615721" y="0.5" />
-                                <point x="0.550218" y="0.570833" />
-                                <point x="0.497817" y="0.608333" />
-                                <point x="0.371179" y="0.645833" />
-                                <point x="0.0611354" y="0.5" />
+                                <point x="0.155844" y="0.149351" />
+                                <point x="0.733767" y="0.0714286" />
+                                <point x="0.987013" y="0.48052" />
+                                <point x="0.909092" y="0.766234" />
+                                <point x="0.811688" y="0.876623" />
+                                <point x="0.733767" y="0.935064" />
+                                <point x="0.545455" y="0.993506" />
+                                <point x="0.0844156" y="0.766234" />
                             </collision-poly>
                         </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="998003531536523" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
                     </animation>
                 </animation-folder>
             </object-type>
             <object-type name="btn_2015" sid="757649964372763">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="576921775774706" speed="5">
-                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_2015.png">
+                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="576921775774706" speed="5">
+                        <frame duration="1" hotspotX="0.532468" hotspotY="0.474026" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2015.png">
                             <collision-poly>
-                                <point x="0.113537" y="0.108333" />
-                                <point x="0.497817" y="0.0583333" />
-                                <point x="0.672489" y="0.3125" />
-                                <point x="0.624454" y="0.5" />
-                                <point x="0.554585" y="0.575" />
-                                <point x="0.497817" y="0.6125" />
-                                <point x="0.366812" y="0.65" />
-                                <point x="0.0655022" y="0.5" />
+                                <point x="0.155844" y="0.14935" />
+                                <point x="0.727273" y="0.0714285" />
+                                <point x="0.987013" y="0.467532" />
+                                <point x="0.915584" y="0.75974" />
+                                <point x="0.811688" y="0.876623" />
+                                <point x="0.727273" y="0.935065" />
+                                <point x="0.532467" y="0.993506" />
+                                <point x="0.0844156" y="0.75974" />
                             </collision-poly>
                         </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="138523395751766" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
                     </animation>
                 </animation-folder>
             </object-type>
             <object-type name="btn_2016" sid="870477501742524">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="484807733683251" speed="5">
-                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_2016.png">
+                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="484807733683251" speed="5">
+                        <frame duration="1" hotspotX="0.551948" hotspotY="0.467532" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2016.png">
                             <collision-poly>
-                                <point x="0.113537" y="0.108333" />
-                                <point x="0.497817" y="0.0583333" />
-                                <point x="0.672489" y="0.3125" />
-                                <point x="0.624454" y="0.5" />
-                                <point x="0.554585" y="0.575" />
-                                <point x="0.497817" y="0.6125" />
-                                <point x="0.366812" y="0.65" />
-                                <point x="0.0611354" y="0.5" />
+                                <point x="0.155844" y="0.142857" />
+                                <point x="0.727273" y="0.064935" />
+                                <point x="0.987013" y="0.461039" />
+                                <point x="0.915584" y="0.753247" />
+                                <point x="0.811688" y="0.87013" />
+                                <point x="0.727273" y="0.928571" />
+                                <point x="0.532467" y="0.987013" />
+                                <point x="0.0779221" y="0.753247" />
                             </collision-poly>
                         </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="509453520375565" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
                     </animation>
                 </animation-folder>
             </object-type>
             <object-type name="btn_2019" sid="728248680369923">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="993865032484849" speed="5">
-                        <frame duration="1" hotspotX="0.502183" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones\()_circulo_2019.png">
+                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="993865032484849" speed="5">
+                        <frame duration="1" hotspotX="1.5" hotspotY="0.396104" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2019.png">
                             <collision-poly>
-                                <point x="0.113537" y="0.108333" />
-                                <point x="0.497817" y="0.0541667" />
-                                <point x="0.672489" y="0.3125" />
-                                <point x="0.620087" y="0.5" />
-                                <point x="0.554585" y="0.575" />
-                                <point x="0.497817" y="0.608333" />
-                                <point x="0.371179" y="0.645833" />
-                                <point x="0.0655022" y="0.5" />
+                                <point x="0.162337" y="0.14935" />
+                                <point x="0.733767" y="0.0649351" />
+                                <point x="0.993506" y="0.467532" />
+                                <point x="0.915584" y="0.75974" />
+                                <point x="0.818182" y="0.876623" />
+                                <point x="0.733767" y="0.928571" />
+                                <point x="0.545455" y="0.987013" />
+                                <point x="0.0909091" y="0.75974" />
                             </collision-poly>
                         </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="739642921996599" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
                     </animation>
                 </animation-folder>
             </object-type>
@@ -1267,8 +1418,26 @@
         <object-folder name="Topes">
             <object-type name="Topeinferior1" sid="884268754002452">
                 <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="285703806829335">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="374576124873512" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Topesuperior1" sid="173238335339783">
+                <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="550926197191541">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="179182261934837" speed="5">
                         <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
                     </animation>
                 </animation-folder>

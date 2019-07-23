@@ -3,12 +3,12 @@
     <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
     <name>Event sheet 1</name>
     <events>
-        <event-group description="" sid="287386454427066" title="vinculosFechas">
+        <event-group description="" sid="287386454427066" title="vinculos banderines WWW">
             <sub-events>
                 <event-block sid="507752833922809">
                     <conditions>
                         <condition id="3" name="On touched object" sid="463608765483023" type="Touch">
-                            <param id="0" name="Object">bonon_1986</param>
+                            <param id="0" name="Object">1986_www</param>
                         </condition>
                     </conditions>
                     <actions>
@@ -18,60 +18,153 @@
                         </action>
                     </actions>
                 </event-block>
+                <event-block sid="520704614421536">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="492238731301955" type="Touch">
+                            <param id="0" name="Object">1988_www</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="8" name="Open URL in new window" sid="974119649827976" type="Browser">
+                            <param id="0" name="URL">&quot;http://www.fod.ac.cr/index.php?option=com_content&amp;view=article&amp;id=124&amp;Itemid=249&quot;</param>
+                            <param id="1" name="Tag">&quot;_blank&quot;</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="932201020168529">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="483957474091849" type="Touch">
+                            <param id="0" name="Object">1994_www</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="8" name="Open URL in new window" sid="202424340348779" type="Browser">
+                            <param id="0" name="URL">&quot;http://www.cse.go.cr/sites/default/files/files/Politica%20Educativa%20hacia%20el%20Siglo%20XXI.pdf&quot;</param>
+                            <param id="1" name="Tag">&quot;_blank&quot;</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="433698356609696">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="524737713120343" type="Touch">
+                            <param id="0" name="Object">1995_www</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="8" name="Open URL in new window" sid="993305164155267" type="Browser">
+                            <param id="0" name="URL">&quot;http://www.cse.go.cr/sites/default/files/files/Politica%20Educativa%20hacia%20el%20Siglo%20XXI.pdf&quot;</param>
+                            <param id="1" name="Tag">&quot;_blank&quot;</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="332235044868270">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="244198624426839" type="Touch">
+                            <param id="0" name="Object">2002_www</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="8" name="Open URL in new window" sid="262223399851221" type="Browser">
+                            <param id="0" name="URL">&quot;http://cse.go.cr/sites/default/files/acuerdos/acta_14-2002.pdf&quot;</param>
+                            <param id="1" name="Tag">&quot;_blank&quot;</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="774995403596177">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="706638180792401" type="Touch">
+                            <param id="0" name="Object">2004_www</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="8" name="Open URL in new window" sid="378673195239983" type="Browser">
+                            <param id="0" name="URL">&quot;https://www.mep.go.cr/organigrama/promece&quot;</param>
+                            <param id="1" name="Tag">&quot;_blank&quot;</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="127029006680284">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="110956908883503" type="Touch">
+                            <param id="0" name="Object">2007_www</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="8" name="Open URL in new window" sid="493092741199173" type="Browser">
+                            <param id="0" name="URL">&quot;https://www.drea.co.cr/tags/direcci%c3%b3n-de-recursos-tecnol%c3%b3gicos&quot;</param>
+                            <param id="1" name="Tag">&quot;_blank&quot;</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="294563278463183">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="441846030575497" type="Touch">
+                            <param id="0" name="Object">2008_www</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="8" name="Open URL in new window" sid="233571296207027" type="Browser">
+                            <param id="0" name="URL">&quot;https://sutel.go.cr/pagina/que-es-fonatel&quot;</param>
+                            <param id="1" name="Tag">&quot;_blank&quot;</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="455210698117885">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="431245664452277" type="Touch">
+                            <param id="0" name="Object">2011_www</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="8" name="Open URL in new window" sid="361564007065504" type="Browser">
+                            <param id="0" name="URL">&quot;https://www.nacion.com/archivo/acuerdo-social-digital-hacia-una-sociedad-digital-inclusiva/FPQGGGDWXREFRDYO3HWNWVAJNA/story/&quot;</param>
+                            <param id="1" name="Tag">&quot;_blank&quot;</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="975870769432744">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="461359837969028" type="Touch">
+                            <param id="0" name="Object">2015_www</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="8" name="Open URL in new window" sid="985888691740461" type="Browser">
+                            <param id="0" name="URL">&quot;https://www.mep.go.cr/sites/default/files/folleto-pntm.pdf&quot;</param>
+                            <param id="1" name="Tag">&quot;_blank&quot;</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="594200550916581">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="659807853262004" type="Touch">
+                            <param id="0" name="Object">2016_www</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="8" name="Open URL in new window" sid="917532622911748" type="Browser">
+                            <param id="0" name="URL">&quot;https://www.drea.co.cr/sites/default/files/Contenido/2016%2004%2025%20Resoluci%c3%b3n%20Dm-1190-04-2016%20Traslado%20del%20programa%20a%20DRTE.pdf&quot;</param>
+                            <param id="1" name="Tag">&quot;_blank&quot;</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="503127126839946">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="524394525674313" type="Touch">
+                            <param id="0" name="Object">2019_www</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="8" name="Open URL in new window" sid="411637502384550" type="Browser">
+                            <param id="0" name="URL">&quot;https://www.drea.co.cr/sites/default/files/Contenido/2016%2004%2025%20Resoluci%c3%b3n%20Dm-1190-04-2016%20Traslado%20del%20programa%20a%20DRTE.pdf&quot;</param>
+                            <param id="1" name="Tag">&quot;_blank&quot;</param>
+                        </action>
+                    </actions>
+                </event-block>
             </sub-events>
         </event-group>
-        <event-group description="" sid="807105211513286" title="vinculosTextos">
+        <event-group description="" sid="807105211513286" title="vinculos bandines INFO">
             <sub-events>
-                <event-block sid="959364722594253">
-                    <conditions>
-                        <condition id="3" name="On touched object" sid="491497109895178" type="Touch">
-                            <param id="0" name="Object">Mas1988</param>
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action id="-4" name="Set layer visible" sid="149652423395374" type="System">
-                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
-                            <param id="1" name="Visibility">1</param>
-                        </action>
-                        <action id="-4" name="Set layer visible" sid="482363372187038" type="System">
-                            <param id="0" name="Layer">&quot;Modal&quot;</param>
-                            <param id="1" name="Visibility">1</param>
-                        </action>
-                        <action id="0" name="Call function" sid="350040691752873" type="Function">
-                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
-                            <param id="1" name="Parameter {n}"></param>
-                        </action>
-                        <action id="-3" name="Set position" sid="195282596614299" type="text_1994">
-                            <param id="0" name="X">640</param>
-                            <param id="1" name="Y">360</param>
-                        </action>
-                    </actions>
-                </event-block>
-                <event-block sid="675102976849305">
-                    <conditions>
-                        <condition id="3" name="On touched object" sid="142677242848519" type="Touch">
-                            <param id="0" name="Object">Mas1994</param>
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action id="-4" name="Set layer visible" sid="290016646097835" type="System">
-                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
-                            <param id="1" name="Visibility">1</param>
-                        </action>
-                        <action id="-4" name="Set layer visible" sid="773489915757487" type="System">
-                            <param id="0" name="Layer">&quot;Modal&quot;</param>
-                            <param id="1" name="Visibility">1</param>
-                        </action>
-                        <action id="0" name="Call function" sid="557809937780182" type="Function">
-                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
-                            <param id="1" name="Parameter {n}"></param>
-                        </action>
-                        <action id="-3" name="Set position" sid="133122248741012" type="txt1994">
-                            <param id="0" name="X">640</param>
-                            <param id="1" name="Y">360</param>
-                        </action>
-                    </actions>
-                </event-block>
                 <event-block sid="253183571645014">
                     <conditions>
                         <condition id="3" name="On touched object" sid="491771667273965" type="Touch">
@@ -91,7 +184,307 @@
                             <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
                             <param id="1" name="Parameter {n}"></param>
                         </action>
-                        <action id="-3" name="Set position" sid="901370995066784" type="txt1994">
+                        <action id="-3" name="Set position" sid="901370995066784" type="text_1994">
+                            <param id="0" name="X">640</param>
+                            <param id="1" name="Y">360</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="230145506993995">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="904815767983051" type="Touch">
+                            <param id="0" name="Object">1986_info</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="935673238379211" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="717269006330517" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="0" name="Call function" sid="528562144894111" type="Function">
+                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
+                            <param id="1" name="Parameter {n}"></param>
+                        </action>
+                        <action id="-3" name="Set position" sid="881041597364319" type="text_1986">
+                            <param id="0" name="X">640</param>
+                            <param id="1" name="Y">360</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="560108652924418">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="715928371524678" type="Touch">
+                            <param id="0" name="Object">1988_info</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="434732941875434" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="809453718832910" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="0" name="Call function" sid="742955311351086" type="Function">
+                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
+                            <param id="1" name="Parameter {n}"></param>
+                        </action>
+                        <action id="-3" name="Set position" sid="169542574160809" type="text_1988">
+                            <param id="0" name="X">640</param>
+                            <param id="1" name="Y">360</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="330276247226249">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="320786895481014" type="Touch">
+                            <param id="0" name="Object">1994_info</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="328074582611824" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="549853594315504" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="0" name="Call function" sid="644641853303779" type="Function">
+                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
+                            <param id="1" name="Parameter {n}"></param>
+                        </action>
+                        <action id="-3" name="Set position" sid="574879160616405" type="text_1994">
+                            <param id="0" name="X">640</param>
+                            <param id="1" name="Y">360</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="400778186874766">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="908775050162603" type="Touch">
+                            <param id="0" name="Object">1995_info</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="478538387206040" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="897865772267977" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="0" name="Call function" sid="459022464315187" type="Function">
+                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
+                            <param id="1" name="Parameter {n}"></param>
+                        </action>
+                        <action id="-3" name="Set position" sid="387160297161713" type="text_1995">
+                            <param id="0" name="X">640</param>
+                            <param id="1" name="Y">360</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="293448944681854">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="185060601160835" type="Touch">
+                            <param id="0" name="Object">2002_info</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="453535310700989" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="721846999760728" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="0" name="Call function" sid="241994167080627" type="Function">
+                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
+                            <param id="1" name="Parameter {n}"></param>
+                        </action>
+                        <action id="-3" name="Set position" sid="267758143070100" type="text_2002">
+                            <param id="0" name="X">640</param>
+                            <param id="1" name="Y">360</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="788739820099514">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="390040361968025" type="Touch">
+                            <param id="0" name="Object">2004_info</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="248515265568521" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="734288436710992" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="0" name="Call function" sid="601577977326468" type="Function">
+                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
+                            <param id="1" name="Parameter {n}"></param>
+                        </action>
+                        <action id="-3" name="Set position" sid="858354555896965" type="text_2004">
+                            <param id="0" name="X">640</param>
+                            <param id="1" name="Y">360</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="529593436632611">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="957655471480553" type="Touch">
+                            <param id="0" name="Object">2007_info</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="819128107636389" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="383235163885394" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="0" name="Call function" sid="141441671769541" type="Function">
+                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
+                            <param id="1" name="Parameter {n}"></param>
+                        </action>
+                        <action id="-3" name="Set position" sid="449976647625143" type="text_2007">
+                            <param id="0" name="X">640</param>
+                            <param id="1" name="Y">360</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="726536528523056">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="729362307454803" type="Touch">
+                            <param id="0" name="Object">2008_info</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="747879942861147" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="864399226068024" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="0" name="Call function" sid="842034960752016" type="Function">
+                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
+                            <param id="1" name="Parameter {n}"></param>
+                        </action>
+                        <action id="-3" name="Set position" sid="937920969782053" type="text_2008">
+                            <param id="0" name="X">640</param>
+                            <param id="1" name="Y">360</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="610296989989670">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="312673637528478" type="Touch">
+                            <param id="0" name="Object">2011_info</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="873147198233526" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="873042082859305" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="0" name="Call function" sid="810197830417068" type="Function">
+                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
+                            <param id="1" name="Parameter {n}"></param>
+                        </action>
+                        <action id="-3" name="Set position" sid="893212289122011" type="text_2011">
+                            <param id="0" name="X">640</param>
+                            <param id="1" name="Y">360</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="445776280451155">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="431674359360721" type="Touch">
+                            <param id="0" name="Object">2015_info</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="970257097891812" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="418564792285924" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="0" name="Call function" sid="783243888203211" type="Function">
+                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
+                            <param id="1" name="Parameter {n}"></param>
+                        </action>
+                        <action id="-3" name="Set position" sid="733738193358989" type="text_2015">
+                            <param id="0" name="X">640</param>
+                            <param id="1" name="Y">360</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="563354655580290">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="458366022159569" type="Touch">
+                            <param id="0" name="Object">2016_info</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="743671513496397" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="465693286441939" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="0" name="Call function" sid="624963058465693" type="Function">
+                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
+                            <param id="1" name="Parameter {n}"></param>
+                        </action>
+                        <action id="-3" name="Set position" sid="888884795739336" type="text_2016">
+                            <param id="0" name="X">640</param>
+                            <param id="1" name="Y">360</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="615417690485164">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="811333025746805" type="Touch">
+                            <param id="0" name="Object">2019_info</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="922676619324771" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="149240330114272" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="0" name="Call function" sid="410470038253673" type="Function">
+                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
+                            <param id="1" name="Parameter {n}"></param>
+                        </action>
+                        <action id="-3" name="Set position" sid="741419709837357" type="text_2019">
                             <param id="0" name="X">640</param>
                             <param id="1" name="Y">360</param>
                         </action>
@@ -99,7 +492,7 @@
                 </event-block>
             </sub-events>
         </event-group>
-        <event-group description="" sid="644491272739932" title="eventosBotones">
+        <event-group description="" sid="644491272739932" title="eventosBotonAL SER presionado">
             <sub-events>
                 <event-block sid="864318375231798">
                     <conditions>
@@ -118,26 +511,6 @@
                         </action>
                     </actions>
                 </event-block>
-                <event-block sid="722521318604543">
-                    <conditions>
-                        <condition id="3" name="On touched object" sid="538259785177490" type="Touch">
-                            <param id="0" name="Object">btn_1988</param>
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action id="4" name="Set animation" sid="640962271583396" type="btn_1988">
-                            <param id="0" name="Animation">&quot;press&quot;</param>
-                            <param id="1" name="From">1</param>
-                        </action>
-                        <action id="-16" name="Wait" sid="279755704921719" type="System">
-                            <param id="0" name="Seconds">1.0</param>
-                        </action>
-                        <action id="4" name="Set animation" sid="983643372295170" type="btn_1988">
-                            <param id="0" name="Animation">&quot;unpress&quot;</param>
-                            <param id="1" name="From">1</param>
-                        </action>
-                    </actions>
-                </event-block>
                 <event-block sid="885504646608842">
                     <conditions>
                         <condition id="3" name="On touched object" sid="887262718063915" type="Touch">
@@ -146,17 +519,46 @@
                     </conditions>
                     <actions>
                         <action id="4" name="Set animation" sid="719371878430260" type="btn_1986">
-                            <param id="0" name="Animation">&quot;press&quot;</param>
+                            <param id="0" name="Animation">&quot;presionado&quot;</param>
                             <param id="1" name="From">1</param>
                         </action>
                         <action behavior="Physics" id="27" name="Set enabled" sid="295008760608800" type="1986_info">
+                            <param id="0" name="Mode">1</param>
+                        </action>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="275732147201260" type="1986_www">
                             <param id="0" name="Mode">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="558266358105409" type="System">
                             <param id="0" name="Seconds">1.0</param>
                         </action>
                         <action id="4" name="Set animation" sid="161128940098125" type="btn_1986">
-                            <param id="0" name="Animation">&quot;unpress&quot;</param>
+                            <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="570325627673103">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="276785904644035" type="Touch">
+                            <param id="0" name="Object">btn_1994</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="4" name="Set animation" sid="196624906660971" type="btn_1994_pres">
+                            <param id="0" name="Animation">&quot;presionado&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="598604171621374" type="1994_info">
+                            <param id="0" name="Mode">1</param>
+                        </action>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="406358689730595" type="1994_www">
+                            <param id="0" name="Mode">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="466551870114710" type="System">
+                            <param id="0" name="Seconds">1.0</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="757950455442250" type="btn_1994">
+                            <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
                             <param id="1" name="From">1</param>
                         </action>
                     </actions>
@@ -184,32 +586,6 @@
                 </event-block>
             </sub-events>
         </event-group>
-        <event-group description="" sid="390863294813223" title="Efectos">
-            <sub-events>
-                <event-block sid="282585202338215">
-                    <conditions>
-                        <condition id="7" name="Cursor is over object" sid="664828962146357" type="Mouse">
-                            <param id="0" name="Object">bonon_1986</param>
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action id="9" name="Set scale" sid="105895642676116" type="bonon_1986">
-                            <param id="0" name="Scale">1.4</param>
-                        </action>
-                    </actions>
-                </event-block>
-                <event-block sid="986953773618022">
-                    <conditions>
-                        <condition id="-22" name="Else" sid="131341928330720" type="System" />
-                    </conditions>
-                    <actions>
-                        <action id="9" name="Set scale" sid="891274548099696" type="bonon_1986">
-                            <param id="0" name="Scale">1</param>
-                        </action>
-                    </actions>
-                </event-block>
-            </sub-events>
-        </event-group>
         <event-group description="" sid="832874026761669" title="Colisiones">
             <sub-events>
                 <event-block sid="614399640327982">
@@ -221,6 +597,298 @@
                     <actions>
                         <action behavior="Physics" id="27" name="Set enabled" sid="215756670842363" type="1986_info">
                             <param id="0" name="Mode">0</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="214057748172037" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="217914735895993" type="1986_info">
+                            <param id="0" name="X">136</param>
+                            <param id="1" name="Y">478</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="523304373483899">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="704203858366697" type="1986_www">
+                            <param id="0" name="Object">Topeinferior1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="191940868113097" type="1986_www">
+                            <param id="0" name="Mode">0</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="128249495230858" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="336797192451623" type="1986_www">
+                            <param id="0" name="X">94</param>
+                            <param id="1" name="Y">496</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="309834179958588">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="446907764916205" type="1994_info">
+                            <param id="0" name="Object">Topeinferior1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="265711220335647" type="1994_info">
+                            <param id="0" name="Mode">0</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="136444977884231" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="316695648593184" type="1994_info">
+                            <param id="0" name="X">329</param>
+                            <param id="1" name="Y">468</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="110692630178983">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="202475127653901" type="1994_www">
+                            <param id="0" name="Object">Topeinferior1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="671946040129555" type="1994_www">
+                            <param id="0" name="Mode">0</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="100774560814242" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="728505704516169" type="1994_www">
+                            <param id="0" name="X">278</param>
+                            <param id="1" name="Y">492</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="172568306454876">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="705033947117641" type="2002_info">
+                            <param id="0" name="Object">Topeinferior1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="641738359854714" type="2002_info">
+                            <param id="0" name="Mode">0</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="438948008028460" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="949725096102025" type="2002_info">
+                            <param id="0" name="X">524</param>
+                            <param id="1" name="Y">475</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="105105287813653">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="940707860284860" type="2002_www">
+                            <param id="0" name="Object">Topeinferior1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="770931340758632" type="2002_www">
+                            <param id="0" name="Mode">0</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="920406285286691" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="148668725767808" type="2002_www">
+                            <param id="0" name="X">472</param>
+                            <param id="1" name="Y">496</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="733226828164765">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="492223878718841" type="2007_info">
+                            <param id="0" name="Object">Topeinferior1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="962646432383090" type="2007_info">
+                            <param id="0" name="Mode">0</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="605428118905906" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="496930125156367" type="2007_info">
+                            <param id="0" name="X">712</param>
+                            <param id="1" name="Y">473</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="683689400216472">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="312855375256504" type="2007_www">
+                            <param id="0" name="Object">Topeinferior1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="494973542091815" type="2007_www">
+                            <param id="0" name="Mode">0</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="754744064504261" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="725298881841774" type="2007_www">
+                            <param id="0" name="X">661</param>
+                            <param id="1" name="Y">503</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="735053522455274">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="330689894769747" type="2011_info">
+                            <param id="0" name="Object">Topeinferior1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="344469204484150" type="2011_info">
+                            <param id="0" name="Mode">0</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="385219516379335" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="741056206436233" type="2011_info">
+                            <param id="0" name="X">906</param>
+                            <param id="1" name="Y">563</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="634711291272457">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="623924829440671" type="2011_www">
+                            <param id="0" name="Object">Topeinferior1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="892864938702009" type="2011_www">
+                            <param id="0" name="Mode">0</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="191529595468199" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="610770642877166" type="2011_www">
+                            <param id="0" name="X">854</param>
+                            <param id="1" name="Y">562</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="775348691188033">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="618414363678139" type="2016_info">
+                            <param id="0" name="Object">Topeinferior1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="607511650044297" type="2016_info">
+                            <param id="0" name="Mode">0</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="326215755782014" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="475509361439715" type="2016_info">
+                            <param id="0" name="X">1098</param>
+                            <param id="1" name="Y">466</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="832732908978825">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="354387113786983" type="2016_www">
+                            <param id="0" name="Object">Topeinferior1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="949570616782553" type="2016_www">
+                            <param id="0" name="Mode">0</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="785614556491824" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="504612710692117" type="2016_www">
+                            <param id="0" name="X">1046</param>
+                            <param id="1" name="Y">507</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="702189057511640">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="178630032686086" type="1988_info">
+                            <param id="0" name="Object">Topesuperior1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="989447952072778" type="1988_info">
+                            <param id="0" name="Mode">0</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="291247178198842" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="419075700735533" type="1988_info">
+                            <param id="0" name="X">236</param>
+                            <param id="1" name="Y">419</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="705173624734855">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="666846418655212" type="1988_www">
+                            <param id="0" name="Object">Topesuperior1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="260259406891004" type="1988_www">
+                            <param id="0" name="Mode">0</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="941636254111075" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="936118375555327" type="1988_www">
+                            <param id="0" name="X">186</param>
+                            <param id="1" name="Y">384</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="904371360101028">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="654673188834732" type="1988_info">
+                            <param id="0" name="Object">Topesuperior1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="991245345735744" type="1988_info">
+                            <param id="0" name="Mode">0</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="542823135367984" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="174861054763806" type="1988_info">
+                            <param id="0" name="X">236</param>
+                            <param id="1" name="Y">419</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="995695881309602">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="581192897346565" type="1988_www">
+                            <param id="0" name="Object">Topesuperior1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="432378298009632" type="1988_www">
+                            <param id="0" name="Mode">0</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="884656178879547" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="682409323720505" type="1988_www">
+                            <param id="0" name="X">186</param>
+                            <param id="1" name="Y">384</param>
                         </action>
                     </actions>
                 </event-block>

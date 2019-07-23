@@ -10,8 +10,8 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <display name="HTML5" />
     </configurations>
     <open-tabs>
-        <layout active="1" order="0">Principal</layout>
-        <event-sheet order="1">Event sheet 1</event-sheet>
+        <layout order="0">Principal</layout>
+        <event-sheet active="1" order="1">Event sheet 1</event-sheet>
     </open-tabs>
     <properties>
         <property expanded="1" name="About" />
@@ -23,7 +23,7 @@ you probably do not want to add any .uistate.xml files to the repository.-->
     <folders-expanded>
         <folder expanded="1" path="object-folder/" />
         <folder expanded="0" path="object-folder/Fondos/" />
-        <folder expanded="1" path="object-folder/Sistema/" />
+        <folder expanded="0" path="object-folder/Sistema/" />
         <folder expanded="0" path="object-folder/Vinculos/" />
         <folder expanded="0" path="object-folder/Textos/" />
         <folder expanded="0" path="object-folder/Botones/" />
@@ -103,5 +103,6 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="1" path="animation-folder/btn_2019_pres/" />
         <folder expanded="1" path="animation-folder/bonon_1986/" />
         <folder expanded="1" path="animation-folder/Topeinferior1/" />
+        <folder expanded="1" path="animation-folder/Topesuperior1/" />
     </folders-expanded>
 </c2uistate>
