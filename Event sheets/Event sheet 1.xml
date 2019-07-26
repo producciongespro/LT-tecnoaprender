@@ -180,13 +180,9 @@
                             <param id="0" name="Layer">&quot;Modal&quot;</param>
                             <param id="1" name="Visibility">1</param>
                         </action>
-                        <action id="0" name="Call function" sid="528562144894111" type="Function">
-                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
-                            <param id="1" name="Parameter {n}"></param>
-                        </action>
-                        <action id="-3" name="Set position" sid="881041597364319" type="text_1986">
-                            <param id="0" name="X">640</param>
-                            <param id="1" name="Y">360</param>
+                        <action id="4" name="Set animation" sid="374557719755493" type="FondoModal">
+                            <param id="0" name="Animation">&quot;t1986&quot;</param>
+                            <param id="1" name="From">1</param>
                         </action>
                     </actions>
                 </event-block>
@@ -205,38 +201,9 @@
                             <param id="0" name="Layer">&quot;Modal&quot;</param>
                             <param id="1" name="Visibility">1</param>
                         </action>
-                        <action id="0" name="Call function" sid="607760552546546" type="Function">
-                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
-                            <param id="1" name="Parameter {n}"></param>
-                        </action>
-                        <action id="-3" name="Set position" sid="901370995066784" type="text_1994">
-                            <param id="0" name="X">640</param>
-                            <param id="1" name="Y">360</param>
-                        </action>
-                    </actions>
-                </event-block>
-                <event-block sid="560108652924418">
-                    <conditions>
-                        <condition id="3" name="On touched object" sid="715928371524678" type="Touch">
-                            <param id="0" name="Object">1988_info</param>
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action id="-4" name="Set layer visible" sid="434732941875434" type="System">
-                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
-                            <param id="1" name="Visibility">1</param>
-                        </action>
-                        <action id="-4" name="Set layer visible" sid="809453718832910" type="System">
-                            <param id="0" name="Layer">&quot;Modal&quot;</param>
-                            <param id="1" name="Visibility">1</param>
-                        </action>
-                        <action id="0" name="Call function" sid="742955311351086" type="Function">
-                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
-                            <param id="1" name="Parameter {n}"></param>
-                        </action>
-                        <action id="-3" name="Set position" sid="169542574160809" type="text_1988">
-                            <param id="0" name="X">640</param>
-                            <param id="1" name="Y">360</param>
+                        <action id="4" name="Set animation" sid="968245110944503" type="FondoModal">
+                            <param id="0" name="Animation">&quot;t1988&quot;</param>
+                            <param id="1" name="From">1</param>
                         </action>
                     </actions>
                 </event-block>
@@ -255,13 +222,9 @@
                             <param id="0" name="Layer">&quot;Modal&quot;</param>
                             <param id="1" name="Visibility">1</param>
                         </action>
-                        <action id="0" name="Call function" sid="644641853303779" type="Function">
-                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
-                            <param id="1" name="Parameter {n}"></param>
-                        </action>
-                        <action id="-3" name="Set position" sid="574879160616405" type="text_1994">
-                            <param id="0" name="X">640</param>
-                            <param id="1" name="Y">360</param>
+                        <action id="4" name="Set animation" sid="708338885386437" type="FondoModal">
+                            <param id="0" name="Animation">&quot;t1994&quot;</param>
+                            <param id="1" name="From">1</param>
                         </action>
                     </actions>
                 </event-block>
@@ -280,13 +243,9 @@
                             <param id="0" name="Layer">&quot;Modal&quot;</param>
                             <param id="1" name="Visibility">1</param>
                         </action>
-                        <action id="0" name="Call function" sid="459022464315187" type="Function">
-                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
-                            <param id="1" name="Parameter {n}"></param>
-                        </action>
-                        <action id="-3" name="Set position" sid="387160297161713" type="text_1995">
-                            <param id="0" name="X">640</param>
-                            <param id="1" name="Y">360</param>
+                        <action id="4" name="Set animation" sid="942599266259661" type="FondoModal">
+                            <param id="0" name="Animation">&quot;t1995&quot;</param>
+                            <param id="1" name="From">1</param>
                         </action>
                     </actions>
                 </event-block>
@@ -305,13 +264,9 @@
                             <param id="0" name="Layer">&quot;Modal&quot;</param>
                             <param id="1" name="Visibility">1</param>
                         </action>
-                        <action id="0" name="Call function" sid="241994167080627" type="Function">
-                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
-                            <param id="1" name="Parameter {n}"></param>
-                        </action>
-                        <action id="-3" name="Set position" sid="267758143070100" type="text_2002">
-                            <param id="0" name="X">640</param>
-                            <param id="1" name="Y">360</param>
+                        <action id="4" name="Set animation" sid="681266734210987" type="FondoModal">
+                            <param id="0" name="Animation">&quot;t2002&quot;</param>
+                            <param id="1" name="From">1</param>
                         </action>
                     </actions>
                 </event-block>
@@ -330,13 +285,9 @@
                             <param id="0" name="Layer">&quot;Modal&quot;</param>
                             <param id="1" name="Visibility">1</param>
                         </action>
-                        <action id="0" name="Call function" sid="601577977326468" type="Function">
-                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
-                            <param id="1" name="Parameter {n}"></param>
-                        </action>
-                        <action id="-3" name="Set position" sid="858354555896965" type="text_2004">
-                            <param id="0" name="X">640</param>
-                            <param id="1" name="Y">360</param>
+                        <action id="4" name="Set animation" sid="114636359903847" type="FondoModal">
+                            <param id="0" name="Animation">&quot;t2004&quot;</param>
+                            <param id="1" name="From">1</param>
                         </action>
                     </actions>
                 </event-block>
@@ -355,13 +306,9 @@
                             <param id="0" name="Layer">&quot;Modal&quot;</param>
                             <param id="1" name="Visibility">1</param>
                         </action>
-                        <action id="0" name="Call function" sid="141441671769541" type="Function">
-                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
-                            <param id="1" name="Parameter {n}"></param>
-                        </action>
-                        <action id="-3" name="Set position" sid="449976647625143" type="text_2007">
-                            <param id="0" name="X">640</param>
-                            <param id="1" name="Y">360</param>
+                        <action id="4" name="Set animation" sid="367132774260179" type="FondoModal">
+                            <param id="0" name="Animation">&quot;t2007&quot;</param>
+                            <param id="1" name="From">1</param>
                         </action>
                     </actions>
                 </event-block>
@@ -380,13 +327,9 @@
                             <param id="0" name="Layer">&quot;Modal&quot;</param>
                             <param id="1" name="Visibility">1</param>
                         </action>
-                        <action id="0" name="Call function" sid="842034960752016" type="Function">
-                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
-                            <param id="1" name="Parameter {n}"></param>
-                        </action>
-                        <action id="-3" name="Set position" sid="937920969782053" type="text_2008">
-                            <param id="0" name="X">640</param>
-                            <param id="1" name="Y">360</param>
+                        <action id="4" name="Set animation" sid="169261228571624" type="FondoModal">
+                            <param id="0" name="Animation">&quot;t2008&quot;</param>
+                            <param id="1" name="From">1</param>
                         </action>
                     </actions>
                 </event-block>
@@ -405,13 +348,9 @@
                             <param id="0" name="Layer">&quot;Modal&quot;</param>
                             <param id="1" name="Visibility">1</param>
                         </action>
-                        <action id="0" name="Call function" sid="810197830417068" type="Function">
-                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
-                            <param id="1" name="Parameter {n}"></param>
-                        </action>
-                        <action id="-3" name="Set position" sid="893212289122011" type="text_2011">
-                            <param id="0" name="X">640</param>
-                            <param id="1" name="Y">360</param>
+                        <action id="4" name="Set animation" sid="300489899986572" type="FondoModal">
+                            <param id="0" name="Animation">&quot;t2011&quot;</param>
+                            <param id="1" name="From">1</param>
                         </action>
                     </actions>
                 </event-block>
@@ -430,13 +369,9 @@
                             <param id="0" name="Layer">&quot;Modal&quot;</param>
                             <param id="1" name="Visibility">1</param>
                         </action>
-                        <action id="0" name="Call function" sid="783243888203211" type="Function">
-                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
-                            <param id="1" name="Parameter {n}"></param>
-                        </action>
-                        <action id="-3" name="Set position" sid="733738193358989" type="text_2015">
-                            <param id="0" name="X">640</param>
-                            <param id="1" name="Y">360</param>
+                        <action id="4" name="Set animation" sid="518159812491570" type="FondoModal">
+                            <param id="0" name="Animation">&quot;t2015&quot;</param>
+                            <param id="1" name="From">1</param>
                         </action>
                     </actions>
                 </event-block>
@@ -455,13 +390,9 @@
                             <param id="0" name="Layer">&quot;Modal&quot;</param>
                             <param id="1" name="Visibility">1</param>
                         </action>
-                        <action id="0" name="Call function" sid="624963058465693" type="Function">
-                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
-                            <param id="1" name="Parameter {n}"></param>
-                        </action>
-                        <action id="-3" name="Set position" sid="888884795739336" type="text_2016">
-                            <param id="0" name="X">640</param>
-                            <param id="1" name="Y">360</param>
+                        <action id="4" name="Set animation" sid="580662959223751" type="FondoModal">
+                            <param id="0" name="Animation">&quot;t2016&quot;</param>
+                            <param id="1" name="From">1</param>
                         </action>
                     </actions>
                 </event-block>
@@ -480,13 +411,9 @@
                             <param id="0" name="Layer">&quot;Modal&quot;</param>
                             <param id="1" name="Visibility">1</param>
                         </action>
-                        <action id="0" name="Call function" sid="410470038253673" type="Function">
-                            <param id="0" name="Name">&quot;ocultarTexto&quot;</param>
-                            <param id="1" name="Parameter {n}"></param>
-                        </action>
-                        <action id="-3" name="Set position" sid="741419709837357" type="text_2019">
-                            <param id="0" name="X">640</param>
-                            <param id="1" name="Y">360</param>
+                        <action id="4" name="Set animation" sid="148080379424753" type="FondoModal">
+                            <param id="0" name="Animation">&quot;t2019&quot;</param>
+                            <param id="1" name="From">1</param>
                         </action>
                     </actions>
                 </event-block>
@@ -511,6 +438,162 @@
                         </action>
                     </actions>
                 </event-block>
+                <event-block sid="570325627673103">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="276785904644035" type="Touch">
+                            <param id="0" name="Object">btn_1988</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="4" name="Set animation" sid="196624906660971" type="btn_1988">
+                            <param id="0" name="Animation">&quot;presionado&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="826682065879204" type="1988_info">
+                            <param id="0" name="State">1</param>
+                        </action>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="430808225835842" type="1988_www">
+                            <param id="0" name="State">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="466551870114710" type="System">
+                            <param id="0" name="Seconds">1.0</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="757950455442250" type="btn_1988">
+                            <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="181929305217921">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="785156273189250" type="Touch">
+                            <param id="0" name="Object">btn_1995</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="4" name="Set animation" sid="752064046037366" type="btn_1995">
+                            <param id="0" name="Animation">&quot;presionado&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="620070548663610" type="1995_info">
+                            <param id="0" name="State">1</param>
+                        </action>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="757480564204851" type="1995_www">
+                            <param id="0" name="State">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="671577074096962" type="System">
+                            <param id="0" name="Seconds">1.0</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="435960904659613" type="btn_1995">
+                            <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="119654726811093">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="406573219940991" type="Touch">
+                            <param id="0" name="Object">btn_2004</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="4" name="Set animation" sid="568073931951973" type="btn_2004">
+                            <param id="0" name="Animation">&quot;presionado&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="878940674241197" type="2004_info">
+                            <param id="0" name="State">1</param>
+                        </action>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="574180177918321" type="2004_www">
+                            <param id="0" name="State">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="560484368551450" type="System">
+                            <param id="0" name="Seconds">1.0</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="185702155371900" type="btn_2004">
+                            <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="474716235181959">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="369759634366567" type="Touch">
+                            <param id="0" name="Object">btn_2008</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="4" name="Set animation" sid="126148323830702" type="btn_2008">
+                            <param id="0" name="Animation">&quot;presionado&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="600319099033906" type="2008_info">
+                            <param id="0" name="State">1</param>
+                        </action>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="747581375892031" type="2008_www">
+                            <param id="0" name="State">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="373613862158691" type="System">
+                            <param id="0" name="Seconds">1.0</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="287186784641840" type="btn_2008">
+                            <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="364287985164794">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="763446244567911" type="Touch">
+                            <param id="0" name="Object">btn_2015</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="4" name="Set animation" sid="181692570745877" type="btn_2015">
+                            <param id="0" name="Animation">&quot;presionado&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="354847297453827" type="2015_info">
+                            <param id="0" name="State">1</param>
+                        </action>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="626318796432943" type="2015_www">
+                            <param id="0" name="State">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="270736306332225" type="System">
+                            <param id="0" name="Seconds">1.0</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="334356351461661" type="btn_2015">
+                            <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="782596857341824">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="237336764806903" type="Touch">
+                            <param id="0" name="Object">btn_2019</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="4" name="Set animation" sid="834156076807132" type="btn_2019">
+                            <param id="0" name="Animation">&quot;presionado&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="199206566824276" type="2019_info">
+                            <param id="0" name="State">1</param>
+                        </action>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="383024003871076" type="2019_www">
+                            <param id="0" name="State">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="543076601262309" type="System">
+                            <param id="0" name="Seconds">1.0</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="773311824331825" type="btn_2019">
+                            <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                    </actions>
+                </event-block>
                 <event-block sid="885504646608842">
                     <conditions>
                         <condition id="3" name="On touched object" sid="887262718063915" type="Touch">
@@ -532,32 +615,6 @@
                             <param id="0" name="Seconds">1.0</param>
                         </action>
                         <action id="4" name="Set animation" sid="161128940098125" type="btn_1986">
-                            <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
-                            <param id="1" name="From">1</param>
-                        </action>
-                    </actions>
-                </event-block>
-                <event-block sid="570325627673103">
-                    <conditions>
-                        <condition id="3" name="On touched object" sid="276785904644035" type="Touch">
-                            <param id="0" name="Object">btn_1988</param>
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action id="4" name="Set animation" sid="196624906660971" type="btn_1988">
-                            <param id="0" name="Animation">&quot;presionado&quot;</param>
-                            <param id="1" name="From">1</param>
-                        </action>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="598604171621374" type="1988_info">
-                            <param id="0" name="Mode">1</param>
-                        </action>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="406358689730595" type="1988_www">
-                            <param id="0" name="Mode">1</param>
-                        </action>
-                        <action id="-16" name="Wait" sid="466551870114710" type="System">
-                            <param id="0" name="Seconds">1.0</param>
-                        </action>
-                        <action id="4" name="Set animation" sid="757950455442250" type="btn_1988">
                             <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
                             <param id="1" name="From">1</param>
                         </action>
@@ -589,32 +646,6 @@
                         </action>
                     </actions>
                 </event-block>
-                <event-block sid="672942553576370">
-                    <conditions>
-                        <condition id="3" name="On touched object" sid="634234719921651" type="Touch">
-                            <param id="0" name="Object">btn_1995</param>
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action id="4" name="Set animation" sid="118363485734724" type="btn_1995">
-                            <param id="0" name="Animation">&quot;presionado&quot;</param>
-                            <param id="1" name="From">1</param>
-                        </action>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="853997324645376" type="1995_info">
-                            <param id="0" name="Mode">1</param>
-                        </action>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="889251923876899" type="1995_www">
-                            <param id="0" name="Mode">1</param>
-                        </action>
-                        <action id="-16" name="Wait" sid="161371667424489" type="System">
-                            <param id="0" name="Seconds">1.0</param>
-                        </action>
-                        <action id="4" name="Set animation" sid="434581832192744" type="btn_1995">
-                            <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
-                            <param id="1" name="From">1</param>
-                        </action>
-                    </actions>
-                </event-block>
                 <event-block sid="399374987693046">
                     <conditions>
                         <condition id="3" name="On touched object" sid="165128815985714" type="Touch">
@@ -636,32 +667,6 @@
                             <param id="0" name="Seconds">1.0</param>
                         </action>
                         <action id="4" name="Set animation" sid="666665528611246" type="btn_2002">
-                            <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
-                            <param id="1" name="From">1</param>
-                        </action>
-                    </actions>
-                </event-block>
-                <event-block sid="758982062398703">
-                    <conditions>
-                        <condition id="3" name="On touched object" sid="965621364688035" type="Touch">
-                            <param id="0" name="Object">btn_2004</param>
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action id="4" name="Set animation" sid="816263568925917" type="btn_2004">
-                            <param id="0" name="Animation">&quot;presionado&quot;</param>
-                            <param id="1" name="From">1</param>
-                        </action>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="828246922988489" type="2004_info">
-                            <param id="0" name="Mode">1</param>
-                        </action>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="964842826933561" type="2004_www">
-                            <param id="0" name="Mode">1</param>
-                        </action>
-                        <action id="-16" name="Wait" sid="184290709080931" type="System">
-                            <param id="0" name="Seconds">1.0</param>
-                        </action>
-                        <action id="4" name="Set animation" sid="223284523520691" type="btn_2004">
                             <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
                             <param id="1" name="From">1</param>
                         </action>
@@ -693,32 +698,6 @@
                         </action>
                     </actions>
                 </event-block>
-                <event-block sid="878670676402125">
-                    <conditions>
-                        <condition id="3" name="On touched object" sid="622016198510649" type="Touch">
-                            <param id="0" name="Object">btn_2008</param>
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action id="4" name="Set animation" sid="747724358704085" type="btn_2008">
-                            <param id="0" name="Animation">&quot;presionado&quot;</param>
-                            <param id="1" name="From">1</param>
-                        </action>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="251657786143340" type="2008_info">
-                            <param id="0" name="Mode">1</param>
-                        </action>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="190860481037503" type="2008_www">
-                            <param id="0" name="Mode">1</param>
-                        </action>
-                        <action id="-16" name="Wait" sid="263474088865131" type="System">
-                            <param id="0" name="Seconds">1.0</param>
-                        </action>
-                        <action id="4" name="Set animation" sid="922521961230399" type="btn_2008">
-                            <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
-                            <param id="1" name="From">1</param>
-                        </action>
-                    </actions>
-                </event-block>
                 <event-block sid="486127712907320">
                     <conditions>
                         <condition id="3" name="On touched object" sid="262982462362937" type="Touch">
@@ -745,32 +724,6 @@
                         </action>
                     </actions>
                 </event-block>
-                <event-block sid="563579797560974">
-                    <conditions>
-                        <condition id="3" name="On touched object" sid="206775712967549" type="Touch">
-                            <param id="0" name="Object">btn_2015</param>
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action id="4" name="Set animation" sid="576183894799899" type="btn_2015">
-                            <param id="0" name="Animation">&quot;presionado&quot;</param>
-                            <param id="1" name="From">1</param>
-                        </action>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="130664177407919" type="2015_info">
-                            <param id="0" name="Mode">1</param>
-                        </action>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="784357370846330" type="2015_www">
-                            <param id="0" name="Mode">1</param>
-                        </action>
-                        <action id="-16" name="Wait" sid="544265469981467" type="System">
-                            <param id="0" name="Seconds">1.0</param>
-                        </action>
-                        <action id="4" name="Set animation" sid="476146422374727" type="btn_2015">
-                            <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
-                            <param id="1" name="From">1</param>
-                        </action>
-                    </actions>
-                </event-block>
                 <event-block sid="882377832430459">
                     <conditions>
                         <condition id="3" name="On touched object" sid="168332435002217" type="Touch">
@@ -792,32 +745,6 @@
                             <param id="0" name="Seconds">1.0</param>
                         </action>
                         <action id="4" name="Set animation" sid="170587138095785" type="btn_2016">
-                            <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
-                            <param id="1" name="From">1</param>
-                        </action>
-                    </actions>
-                </event-block>
-                <event-block sid="715179032214016">
-                    <conditions>
-                        <condition id="3" name="On touched object" sid="921608676290883" type="Touch">
-                            <param id="0" name="Object">btn_2019</param>
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action id="4" name="Set animation" sid="127672070475961" type="btn_2019">
-                            <param id="0" name="Animation">&quot;presionado&quot;</param>
-                            <param id="1" name="From">1</param>
-                        </action>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="916635745123623" type="2019_info">
-                            <param id="0" name="Mode">1</param>
-                        </action>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="840949353819605" type="2019_www">
-                            <param id="0" name="Mode">1</param>
-                        </action>
-                        <action id="-16" name="Wait" sid="355800365335698" type="System">
-                            <param id="0" name="Seconds">1.0</param>
-                        </action>
-                        <action id="4" name="Set animation" sid="495156882656428" type="btn_2019">
                             <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
                             <param id="1" name="From">1</param>
                         </action>
@@ -1062,8 +989,8 @@
                         </condition>
                     </conditions>
                     <actions>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="989447952072778" type="1988_info">
-                            <param id="0" name="Mode">0</param>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="291250769340101" type="1988_info">
+                            <param id="0" name="State">0</param>
                         </action>
                         <action id="-16" name="Wait" sid="291247178198842" type="System">
                             <param id="0" name="Seconds">4.0</param>
@@ -1081,8 +1008,8 @@
                         </condition>
                     </conditions>
                     <actions>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="260259406891004" type="1988_www">
-                            <param id="0" name="Mode">0</param>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="582467555812737" type="1988_www">
+                            <param id="0" name="State">0</param>
                         </action>
                         <action id="-16" name="Wait" sid="941636254111075" type="System">
                             <param id="0" name="Seconds">4.0</param>
@@ -1100,8 +1027,8 @@
                         </condition>
                     </conditions>
                     <actions>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="991245345735744" type="1995_info">
-                            <param id="0" name="Mode">0</param>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="823643297645941" type="1995_info">
+                            <param id="0" name="State">0</param>
                         </action>
                         <action id="-16" name="Wait" sid="542823135367984" type="System">
                             <param id="0" name="Seconds">4.0</param>
@@ -1119,8 +1046,8 @@
                         </condition>
                     </conditions>
                     <actions>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="432378298009632" type="1995_www">
-                            <param id="0" name="Mode">0</param>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="773090390016464" type="1995_www">
+                            <param id="0" name="State">0</param>
                         </action>
                         <action id="-16" name="Wait" sid="884656178879547" type="System">
                             <param id="0" name="Seconds">4.0</param>
@@ -1138,8 +1065,8 @@
                         </condition>
                     </conditions>
                     <actions>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="851445553627389" type="2004_info">
-                            <param id="0" name="Mode">0</param>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="620686716301474" type="2004_info">
+                            <param id="0" name="State">0</param>
                         </action>
                         <action id="-16" name="Wait" sid="694642906276869" type="System">
                             <param id="0" name="Seconds">4.0</param>
@@ -1157,8 +1084,8 @@
                         </condition>
                     </conditions>
                     <actions>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="109086137622902" type="2004_www">
-                            <param id="0" name="Mode">0</param>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="486562970046848" type="2004_www">
+                            <param id="0" name="State">0</param>
                         </action>
                         <action id="-16" name="Wait" sid="974958962618491" type="System">
                             <param id="0" name="Seconds">4.0</param>
@@ -1176,8 +1103,8 @@
                         </condition>
                     </conditions>
                     <actions>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="147682155570792" type="2008_info">
-                            <param id="0" name="Mode">0</param>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="660773823190287" type="2008_info">
+                            <param id="0" name="State">0</param>
                         </action>
                         <action id="-16" name="Wait" sid="426656758871779" type="System">
                             <param id="0" name="Seconds">4.0</param>
@@ -1195,8 +1122,8 @@
                         </condition>
                     </conditions>
                     <actions>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="399922104411908" type="2008_www">
-                            <param id="0" name="Mode">0</param>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="460242991587599" type="2008_www">
+                            <param id="0" name="State">0</param>
                         </action>
                         <action id="-16" name="Wait" sid="114159213539118" type="System">
                             <param id="0" name="Seconds">4.0</param>
@@ -1214,8 +1141,8 @@
                         </condition>
                     </conditions>
                     <actions>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="584969037929783" type="2015_info">
-                            <param id="0" name="Mode">0</param>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="757920778042033" type="2015_info">
+                            <param id="0" name="State">0</param>
                         </action>
                         <action id="-16" name="Wait" sid="610632340040422" type="System">
                             <param id="0" name="Seconds">4.0</param>
@@ -1233,8 +1160,8 @@
                         </condition>
                     </conditions>
                     <actions>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="611352567450304" type="2015_www">
-                            <param id="0" name="Mode">0</param>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="339335296737836" type="2015_www">
+                            <param id="0" name="State">0</param>
                         </action>
                         <action id="-16" name="Wait" sid="881060994024114" type="System">
                             <param id="0" name="Seconds">4.0</param>
@@ -1252,8 +1179,8 @@
                         </condition>
                     </conditions>
                     <actions>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="573743879032714" type="2019_info">
-                            <param id="0" name="Mode">0</param>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="323269845052548" type="2019_info">
+                            <param id="0" name="State">0</param>
                         </action>
                         <action id="-16" name="Wait" sid="517653928328867" type="System">
                             <param id="0" name="Seconds">4.0</param>
@@ -1271,8 +1198,8 @@
                         </condition>
                     </conditions>
                     <actions>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="216329087751045" type="2019_www">
-                            <param id="0" name="Mode">0</param>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="947492644357121" type="2019_www">
+                            <param id="0" name="State">0</param>
                         </action>
                         <action id="-16" name="Wait" sid="421080612354581" type="System">
                             <param id="0" name="Seconds">4.0</param>

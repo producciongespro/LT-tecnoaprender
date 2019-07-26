@@ -17,6 +17,7 @@
         <plugin author="Scirra" id="Touch" version="1">Touch</plugin>
     </used-plugins>
     <used-behaviors>
+        <behavior author="Scirra" id="Bullet" version="1">Bullet</behavior>
         <behavior author="Scirra" id="Physics" version="1">Physics</behavior>
     </used-behaviors>
     <used-effects />
@@ -58,8 +59,149 @@
             <object-type name="FondoModal" sid="161811830722576">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="347184825962568" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    <animation framecount="1" loop="0" name="t1986" pingpong="0" repeatcount="1" repeatto="0" sid="552961396178954" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Verde_1986.png">
+                            <collision-poly>
+                                <point x="0.0124008" y="0.0259875" />
+                                <point x="0.5" y="0.00727651" />
+                                <point x="0.987599" y="0.0259875" />
+                                <point x="0.987599" y="0.974012" />
+                                <point x="0.5" y="0.992723" />
+                                <point x="0.0124008" y="0.974012" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="t1988" pingpong="0" repeatcount="1" repeatto="0" sid="347184825962568" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Naranja_1988.png">
+                            <collision-poly>
+                                <point x="0.0124008" y="0.0259875" />
+                                <point x="0.5" y="0.00727651" />
+                                <point x="0.987599" y="0.0259875" />
+                                <point x="0.987599" y="0.974012" />
+                                <point x="0.5" y="0.992723" />
+                                <point x="0.0124008" y="0.974012" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="t1994" pingpong="0" repeatcount="1" repeatto="0" sid="770369942721118" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Azul_1994.png">
+                            <collision-poly>
+                                <point x="0.0124008" y="0.0259875" />
+                                <point x="0.5" y="0.00727651" />
+                                <point x="0.987599" y="0.0259875" />
+                                <point x="0.987599" y="0.974012" />
+                                <point x="0.5" y="0.992723" />
+                                <point x="0.0124008" y="0.974012" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="t1995" pingpong="0" repeatcount="1" repeatto="0" sid="380257376494644" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Morado_1995.png">
+                            <collision-poly>
+                                <point x="0.0124008" y="0.0259875" />
+                                <point x="0.5" y="0.00727651" />
+                                <point x="0.987599" y="0.0259875" />
+                                <point x="0.987599" y="0.974012" />
+                                <point x="0.5" y="0.992723" />
+                                <point x="0.0124008" y="0.974012" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="t2002" pingpong="0" repeatcount="1" repeatto="0" sid="119820097918809" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Verde_2002.png">
+                            <collision-poly>
+                                <point x="0.0124008" y="0.0259875" />
+                                <point x="0.5" y="0.00727651" />
+                                <point x="0.987599" y="0.0259875" />
+                                <point x="0.987599" y="0.974012" />
+                                <point x="0.5" y="0.992723" />
+                                <point x="0.0124008" y="0.974012" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="t2004" pingpong="0" repeatcount="1" repeatto="0" sid="608020063450585" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Naranja_2004.png">
+                            <collision-poly>
+                                <point x="0.0124008" y="0.0259875" />
+                                <point x="0.5" y="0.00727651" />
+                                <point x="0.987599" y="0.0259875" />
+                                <point x="0.987599" y="0.974012" />
+                                <point x="0.5" y="0.992723" />
+                                <point x="0.0124008" y="0.974012" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="t2007" pingpong="0" repeatcount="1" repeatto="0" sid="850239258248982" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Azul_2007.png">
+                            <collision-poly>
+                                <point x="0.0124008" y="0.0259875" />
+                                <point x="0.5" y="0.00727651" />
+                                <point x="0.987599" y="0.0259875" />
+                                <point x="0.987599" y="0.974012" />
+                                <point x="0.5" y="0.992723" />
+                                <point x="0.0124008" y="0.974012" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="t2008" pingpong="0" repeatcount="1" repeatto="0" sid="435058456877945" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Morado_2008.png">
+                            <collision-poly>
+                                <point x="0.0114087" y="0.0239085" />
+                                <point x="0.5" y="0.00727651" />
+                                <point x="0.986607" y="0.0280665" />
+                                <point x="0.986607" y="0.971933" />
+                                <point x="0.5" y="0.992723" />
+                                <point x="0.0114087" y="0.976092" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="t2011" pingpong="0" repeatcount="1" repeatto="0" sid="281103434624350" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Verde_2011.png">
+                            <collision-poly>
+                                <point x="0.0124008" y="0.0259875" />
+                                <point x="0.5" y="0.00727651" />
+                                <point x="0.987599" y="0.0259875" />
+                                <point x="0.987599" y="0.974012" />
+                                <point x="0.5" y="0.992723" />
+                                <point x="0.0124008" y="0.974012" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="t2015" pingpong="0" repeatcount="1" repeatto="0" sid="521586950742963" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Verde_2011.png">
+                            <collision-poly>
+                                <point x="0.0124008" y="0.0259875" />
+                                <point x="0.5" y="0.00727651" />
+                                <point x="0.987599" y="0.0259875" />
+                                <point x="0.987599" y="0.974012" />
+                                <point x="0.5" y="0.992723" />
+                                <point x="0.0124008" y="0.974012" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="t2016" pingpong="0" repeatcount="1" repeatto="0" sid="257078132511920" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Azul_2016.png">
+                            <collision-poly>
+                                <point x="0.0124008" y="0.0259875" />
+                                <point x="0.5" y="0.00727651" />
+                                <point x="0.987599" y="0.0259875" />
+                                <point x="0.987599" y="0.974012" />
+                                <point x="0.5" y="0.992723" />
+                                <point x="0.0124008" y="0.974012" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="t2019" pingpong="0" repeatcount="1" repeatto="0" sid="604594434309688" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Morado_2019.png">
+                            <collision-poly>
+                                <point x="0.0114087" y="0.0239085" />
+                                <point x="0.5" y="0.00727651" />
+                                <point x="0.986607" y="0.0280665" />
+                                <point x="0.986607" y="0.971933" />
+                                <point x="0.5" y="0.992723" />
+                                <point x="0.0114087" y="0.976092" />
+                            </collision-poly>
+                        </frame>
                     </animation>
                 </animation-folder>
             </object-type>
@@ -119,22 +261,22 @@
             <object-type name="1988_www" sid="504070891424139">
                 <plugin id="Sprite" />
                 <behaviors>
-                    <behavior-type name="Physics" sid="689822199679219">
-                        <behavior id="Physics" />
+                    <behavior-type name="Bullet" sid="352634650336934">
+                        <behavior id="Bullet" />
                     </behavior-type>
                 </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="657652829684859" speed="5">
-                        <frame duration="1" hotspotX="0.492958" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.n.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.507042" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.n.png">
                             <collision-poly>
-                                <point x="0.140845" y="0.1" />
-                                <point x="0.492958" y="0.0499998" />
-                                <point x="0.873239" y="0.0499998" />
-                                <point x="0.985915" y="0.5" />
-                                <point x="0.873239" y="0.95" />
-                                <point x="0.492958" y="0.95" />
-                                <point x="0.140845" y="0.9" />
-                                <point x="0.028169" y="0.5" />
+                                <point x="0.1" y="0.859155" />
+                                <point x="0.0499998" y="0.507042" />
+                                <point x="0.0499998" y="0.126761" />
+                                <point x="0.5" y="0.014085" />
+                                <point x="0.95" y="0.126761" />
+                                <point x="0.95" y="0.507042" />
+                                <point x="0.9" y="0.859155" />
+                                <point x="0.5" y="0.971831" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -143,22 +285,22 @@
             <object-type name="1988_info" sid="540490038108784">
                 <plugin id="Sprite" />
                 <behaviors>
-                    <behavior-type name="Physics" sid="551994895370974">
-                        <behavior id="Physics" />
+                    <behavior-type name="Bullet" sid="128955246092592">
+                        <behavior id="Bullet" />
                     </behavior-type>
                 </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="180180532415475" speed="5">
-                        <frame duration="1" hotspotX="0.506329" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.n.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.493671" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.n.png">
                             <collision-poly>
-                                <point x="0.113924" y="0.0499998" />
-                                <point x="0.49367" y="0.0499998" />
-                                <point x="0.86076" y="0.1" />
-                                <point x="0.987342" y="0.5" />
-                                <point x="0.86076" y="0.9" />
-                                <point x="0.49367" y="0.95" />
-                                <point x="0.113924" y="0.95" />
-                                <point x="0.0126582" y="0.5" />
+                                <point x="0.0499998" y="0.886076" />
+                                <point x="0.0499998" y="0.50633" />
+                                <point x="0.1" y="0.13924" />
+                                <point x="0.5" y="0.012658" />
+                                <point x="0.9" y="0.13924" />
+                                <point x="0.95" y="0.50633" />
+                                <point x="0.95" y="0.886076" />
+                                <point x="0.5" y="0.987342" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -408,22 +550,22 @@
             <object-type name="2015_www" sid="941455529995015">
                 <plugin id="Sprite" />
                 <behaviors>
-                    <behavior-type name="Physics" sid="787626159067253">
-                        <behavior id="Physics" />
+                    <behavior-type name="Bullet" sid="686283012204775">
+                        <behavior id="Bullet" />
                     </behavior-type>
                 </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="164628342103032" speed="5">
-                        <frame duration="1" hotspotX="0.492958" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.n.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.507042" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.n.png">
                             <collision-poly>
-                                <point x="0.140845" y="0.1" />
-                                <point x="0.492958" y="0.0499998" />
-                                <point x="0.873239" y="0.0499998" />
-                                <point x="0.985915" y="0.5" />
-                                <point x="0.873239" y="0.95" />
-                                <point x="0.492958" y="0.95" />
-                                <point x="0.140845" y="0.9" />
-                                <point x="0.028169" y="0.5" />
+                                <point x="0.1" y="0.859155" />
+                                <point x="0.0499998" y="0.507042" />
+                                <point x="0.0499998" y="0.126761" />
+                                <point x="0.5" y="0.014085" />
+                                <point x="0.95" y="0.126761" />
+                                <point x="0.95" y="0.507042" />
+                                <point x="0.9" y="0.859155" />
+                                <point x="0.5" y="0.971831" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -432,22 +574,22 @@
             <object-type name="2015_info" sid="991102543527756">
                 <plugin id="Sprite" />
                 <behaviors>
-                    <behavior-type name="Physics" sid="234356989172732">
-                        <behavior id="Physics" />
+                    <behavior-type name="Bullet" sid="625082967777445">
+                        <behavior id="Bullet" />
                     </behavior-type>
                 </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="455491000042879" speed="5">
-                        <frame duration="1" hotspotX="0.506329" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.n.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.493671" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.n.png">
                             <collision-poly>
-                                <point x="0.113924" y="0.0499998" />
-                                <point x="0.49367" y="0.0499998" />
-                                <point x="0.86076" y="0.1" />
-                                <point x="0.987342" y="0.5" />
-                                <point x="0.86076" y="0.9" />
-                                <point x="0.49367" y="0.95" />
-                                <point x="0.113924" y="0.95" />
-                                <point x="0.0126582" y="0.5" />
+                                <point x="0.0499998" y="0.886076" />
+                                <point x="0.0499998" y="0.50633" />
+                                <point x="0.1" y="0.13924" />
+                                <point x="0.5" y="0.012658" />
+                                <point x="0.9" y="0.13924" />
+                                <point x="0.95" y="0.50633" />
+                                <point x="0.95" y="0.886076" />
+                                <point x="0.5" y="0.987342" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -456,22 +598,22 @@
             <object-type name="2004_info" sid="500888929704968">
                 <plugin id="Sprite" />
                 <behaviors>
-                    <behavior-type name="Physics" sid="905923822990463">
-                        <behavior id="Physics" />
+                    <behavior-type name="Bullet" sid="380280598336224">
+                        <behavior id="Bullet" />
                     </behavior-type>
                 </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="175532623867572" speed="5">
-                        <frame duration="1" hotspotX="0.506329" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.n.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.493671" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.n.png">
                             <collision-poly>
-                                <point x="0.113924" y="0.0499998" />
-                                <point x="0.49367" y="0.0499998" />
-                                <point x="0.86076" y="0.1" />
-                                <point x="0.987342" y="0.5" />
-                                <point x="0.86076" y="0.9" />
-                                <point x="0.49367" y="0.95" />
-                                <point x="0.113924" y="0.95" />
-                                <point x="0.0126582" y="0.5" />
+                                <point x="0.0499998" y="0.886076" />
+                                <point x="0.0499998" y="0.50633" />
+                                <point x="0.1" y="0.13924" />
+                                <point x="0.5" y="0.012658" />
+                                <point x="0.9" y="0.13924" />
+                                <point x="0.95" y="0.50633" />
+                                <point x="0.95" y="0.886076" />
+                                <point x="0.5" y="0.987342" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -480,22 +622,22 @@
             <object-type name="2004_www" sid="764062287300244">
                 <plugin id="Sprite" />
                 <behaviors>
-                    <behavior-type name="Physics" sid="846627756848427">
-                        <behavior id="Physics" />
+                    <behavior-type name="Bullet" sid="548763988385490">
+                        <behavior id="Bullet" />
                     </behavior-type>
                 </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="953511643114263" speed="5">
-                        <frame duration="1" hotspotX="0.492958" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.n.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.507042" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.n.png">
                             <collision-poly>
-                                <point x="0.140845" y="0.1" />
-                                <point x="0.492958" y="0.0499998" />
-                                <point x="0.873239" y="0.0499998" />
-                                <point x="0.985915" y="0.5" />
-                                <point x="0.873239" y="0.95" />
-                                <point x="0.492958" y="0.95" />
-                                <point x="0.140845" y="0.9" />
-                                <point x="0.028169" y="0.5" />
+                                <point x="0.1" y="0.859155" />
+                                <point x="0.0499998" y="0.507042" />
+                                <point x="0.0499998" y="0.126761" />
+                                <point x="0.5" y="0.014085" />
+                                <point x="0.95" y="0.126761" />
+                                <point x="0.95" y="0.507042" />
+                                <point x="0.9" y="0.859155" />
+                                <point x="0.5" y="0.971831" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -504,22 +646,22 @@
             <object-type name="1995_info" sid="674866158062501">
                 <plugin id="Sprite" />
                 <behaviors>
-                    <behavior-type name="Physics" sid="810526155290991">
-                        <behavior id="Physics" />
+                    <behavior-type name="Bullet" sid="253013090099495">
+                        <behavior id="Bullet" />
                     </behavior-type>
                 </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="495752317589467" speed="5">
-                        <frame duration="1" hotspotX="0.512821" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.m.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.487179" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.m.png">
                             <collision-poly>
-                                <point x="0.115385" y="0.0499998" />
-                                <point x="0.5" y="0.0499998" />
-                                <point x="0.871795" y="0.1" />
-                                <point x="0.987179" y="0.5" />
-                                <point x="0.871795" y="0.9" />
-                                <point x="0.5" y="0.95" />
-                                <point x="0.115385" y="0.95" />
-                                <point x="0.0128205" y="0.5" />
+                                <point x="0.0499998" y="0.884615" />
+                                <point x="0.0499998" y="0.5" />
+                                <point x="0.1" y="0.128205" />
+                                <point x="0.5" y="0.012821" />
+                                <point x="0.9" y="0.128205" />
+                                <point x="0.95" y="0.5" />
+                                <point x="0.95" y="0.884615" />
+                                <point x="0.5" y="0.98718" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -528,22 +670,22 @@
             <object-type name="1995_www" sid="719738051561966">
                 <plugin id="Sprite" />
                 <behaviors>
-                    <behavior-type name="Physics" sid="622317528586198">
-                        <behavior id="Physics" />
+                    <behavior-type name="Bullet" sid="390042684105832">
+                        <behavior id="Bullet" />
                     </behavior-type>
                 </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="551721972943901" speed="5">
-                        <frame duration="1" hotspotX="0.492958" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.m.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.507042" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.m.png">
                             <collision-poly>
-                                <point x="0.140845" y="0.1" />
-                                <point x="0.492958" y="0.0499998" />
-                                <point x="0.873239" y="0.0499998" />
-                                <point x="0.985915" y="0.5" />
-                                <point x="0.873239" y="0.95" />
-                                <point x="0.492958" y="0.95" />
-                                <point x="0.140845" y="0.9" />
-                                <point x="0.028169" y="0.5" />
+                                <point x="0.1" y="0.859155" />
+                                <point x="0.0499998" y="0.507042" />
+                                <point x="0.0499998" y="0.126761" />
+                                <point x="0.5" y="0.014085" />
+                                <point x="0.95" y="0.126761" />
+                                <point x="0.95" y="0.507042" />
+                                <point x="0.9" y="0.859155" />
+                                <point x="0.5" y="0.971831" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -552,22 +694,22 @@
             <object-type name="2008_info" sid="492280566311026">
                 <plugin id="Sprite" />
                 <behaviors>
-                    <behavior-type name="Physics" sid="258522470263261">
-                        <behavior id="Physics" />
+                    <behavior-type name="Bullet" sid="303397780427116">
+                        <behavior id="Bullet" />
                     </behavior-type>
                 </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="454136217624289" speed="5">
-                        <frame duration="1" hotspotX="0.512821" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.m.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.487179" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.m.png">
                             <collision-poly>
-                                <point x="0.115385" y="0.0499998" />
-                                <point x="0.5" y="0.0499998" />
-                                <point x="0.871795" y="0.1" />
-                                <point x="0.987179" y="0.5" />
-                                <point x="0.871795" y="0.9" />
-                                <point x="0.5" y="0.95" />
-                                <point x="0.115385" y="0.95" />
-                                <point x="0.0128205" y="0.5" />
+                                <point x="0.0499998" y="0.884615" />
+                                <point x="0.0499998" y="0.5" />
+                                <point x="0.1" y="0.128205" />
+                                <point x="0.5" y="0.012821" />
+                                <point x="0.9" y="0.128205" />
+                                <point x="0.95" y="0.5" />
+                                <point x="0.95" y="0.884615" />
+                                <point x="0.5" y="0.98718" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -576,22 +718,22 @@
             <object-type name="2008_www" sid="355459290486314">
                 <plugin id="Sprite" />
                 <behaviors>
-                    <behavior-type name="Physics" sid="596387019342588">
-                        <behavior id="Physics" />
+                    <behavior-type name="Bullet" sid="346712879780852">
+                        <behavior id="Bullet" />
                     </behavior-type>
                 </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="774660819004359" speed="5">
-                        <frame duration="1" hotspotX="0.492958" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.m.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.507042" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.m.png">
                             <collision-poly>
-                                <point x="0.140845" y="0.1" />
-                                <point x="0.492958" y="0.0499998" />
-                                <point x="0.873239" y="0.0499998" />
-                                <point x="0.985915" y="0.5" />
-                                <point x="0.873239" y="0.95" />
-                                <point x="0.492958" y="0.95" />
-                                <point x="0.140845" y="0.9" />
-                                <point x="0.028169" y="0.5" />
+                                <point x="0.1" y="0.859155" />
+                                <point x="0.0499998" y="0.507042" />
+                                <point x="0.0499998" y="0.126761" />
+                                <point x="0.5" y="0.014085" />
+                                <point x="0.95" y="0.126761" />
+                                <point x="0.95" y="0.507042" />
+                                <point x="0.9" y="0.859155" />
+                                <point x="0.5" y="0.971831" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -600,22 +742,22 @@
             <object-type name="2019_info" sid="633638906769428">
                 <plugin id="Sprite" />
                 <behaviors>
-                    <behavior-type name="Physics" sid="528135883308590">
-                        <behavior id="Physics" />
+                    <behavior-type name="Bullet" sid="231697619017467">
+                        <behavior id="Bullet" />
                     </behavior-type>
                 </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="585370131771326" speed="5">
-                        <frame duration="1" hotspotX="0.512821" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.m.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.487179" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.m.png">
                             <collision-poly>
-                                <point x="0.115385" y="0.0499998" />
-                                <point x="0.5" y="0.0499998" />
-                                <point x="0.871795" y="0.1" />
-                                <point x="0.987179" y="0.5" />
-                                <point x="0.871795" y="0.9" />
-                                <point x="0.5" y="0.95" />
-                                <point x="0.115385" y="0.95" />
-                                <point x="0.0128205" y="0.5" />
+                                <point x="0.0499998" y="0.884615" />
+                                <point x="0.0499998" y="0.5" />
+                                <point x="0.1" y="0.128205" />
+                                <point x="0.5" y="0.012821" />
+                                <point x="0.9" y="0.128205" />
+                                <point x="0.95" y="0.5" />
+                                <point x="0.95" y="0.884615" />
+                                <point x="0.5" y="0.98718" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -624,22 +766,22 @@
             <object-type name="2019_www" sid="693089597589614">
                 <plugin id="Sprite" />
                 <behaviors>
-                    <behavior-type name="Physics" sid="190528104502091">
-                        <behavior id="Physics" />
+                    <behavior-type name="Bullet" sid="328396283930195">
+                        <behavior id="Bullet" />
                     </behavior-type>
                 </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="986271824776596" speed="5">
-                        <frame duration="1" hotspotX="0.492958" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.m.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.507042" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.m.png">
                             <collision-poly>
-                                <point x="0.140845" y="0.1" />
-                                <point x="0.492958" y="0.0499998" />
-                                <point x="0.873239" y="0.0499998" />
-                                <point x="0.985915" y="0.5" />
-                                <point x="0.873239" y="0.95" />
-                                <point x="0.492958" y="0.95" />
-                                <point x="0.140845" y="0.9" />
-                                <point x="0.028169" y="0.5" />
+                                <point x="0.1" y="0.859155" />
+                                <point x="0.0499998" y="0.507042" />
+                                <point x="0.0499998" y="0.126761" />
+                                <point x="0.5" y="0.014085" />
+                                <point x="0.95" y="0.126761" />
+                                <point x="0.95" y="0.507042" />
+                                <point x="0.9" y="0.859155" />
+                                <point x="0.5" y="0.971831" />
                             </collision-poly>
                         </frame>
                     </animation>
