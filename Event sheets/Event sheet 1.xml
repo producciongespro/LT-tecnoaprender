@@ -10,6 +10,9 @@
                         <condition id="3" name="On touched object" sid="463608765483023" type="Touch">
                             <param id="0" name="Object">1986_www</param>
                         </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="663190192553841" type="1986_www">
+                            <param id="0" name="Instance variable">activo</param>
+                        </condition>
                     </conditions>
                     <actions>
                         <action id="8" name="Open URL in new window" sid="278708562153406" type="Browser">
@@ -22,6 +25,9 @@
                     <conditions>
                         <condition id="3" name="On touched object" sid="492238731301955" type="Touch">
                             <param id="0" name="Object">1988_www</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="637226839009177" type="1988_www">
+                            <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
@@ -36,6 +42,9 @@
                         <condition id="3" name="On touched object" sid="483957474091849" type="Touch">
                             <param id="0" name="Object">1994_www</param>
                         </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="584949214841160" type="1994_www">
+                            <param id="0" name="Instance variable">activo</param>
+                        </condition>
                     </conditions>
                     <actions>
                         <action id="8" name="Open URL in new window" sid="202424340348779" type="Browser">
@@ -48,6 +57,9 @@
                     <conditions>
                         <condition id="3" name="On touched object" sid="524737713120343" type="Touch">
                             <param id="0" name="Object">1995_www</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="409135736347280" type="1995_www">
+                            <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
@@ -62,6 +74,9 @@
                         <condition id="3" name="On touched object" sid="244198624426839" type="Touch">
                             <param id="0" name="Object">2002_www</param>
                         </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="707942699510963" type="2002_www">
+                            <param id="0" name="Instance variable">activo</param>
+                        </condition>
                     </conditions>
                     <actions>
                         <action id="8" name="Open URL in new window" sid="262223399851221" type="Browser">
@@ -74,6 +89,9 @@
                     <conditions>
                         <condition id="3" name="On touched object" sid="706638180792401" type="Touch">
                             <param id="0" name="Object">2004_www</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="624888221286591" type="2004_www">
+                            <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
@@ -88,6 +106,9 @@
                         <condition id="3" name="On touched object" sid="110956908883503" type="Touch">
                             <param id="0" name="Object">2007_www</param>
                         </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="973493714503493" type="2007_www">
+                            <param id="0" name="Instance variable">activo</param>
+                        </condition>
                     </conditions>
                     <actions>
                         <action id="8" name="Open URL in new window" sid="493092741199173" type="Browser">
@@ -100,6 +121,9 @@
                     <conditions>
                         <condition id="3" name="On touched object" sid="441846030575497" type="Touch">
                             <param id="0" name="Object">2008_www</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="173008885435905" type="2008_www">
+                            <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
@@ -114,6 +138,9 @@
                         <condition id="3" name="On touched object" sid="431245664452277" type="Touch">
                             <param id="0" name="Object">2011_www</param>
                         </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="975871645448433" type="2011_www">
+                            <param id="0" name="Instance variable">activo</param>
+                        </condition>
                     </conditions>
                     <actions>
                         <action id="8" name="Open URL in new window" sid="361564007065504" type="Browser">
@@ -126,6 +153,9 @@
                     <conditions>
                         <condition id="3" name="On touched object" sid="461359837969028" type="Touch">
                             <param id="0" name="Object">2015_www</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="450280493008893" type="2015_www">
+                            <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
@@ -140,6 +170,9 @@
                         <condition id="3" name="On touched object" sid="659807853262004" type="Touch">
                             <param id="0" name="Object">2016_www</param>
                         </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="439130895704410" type="2016_www">
+                            <param id="0" name="Instance variable">activo</param>
+                        </condition>
                     </conditions>
                     <actions>
                         <action id="8" name="Open URL in new window" sid="917532622911748" type="Browser">
@@ -152,6 +185,9 @@
                     <conditions>
                         <condition id="3" name="On touched object" sid="524394525674313" type="Touch">
                             <param id="0" name="Object">2019_www</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="844867451116066" type="2019_www">
+                            <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
@@ -169,6 +205,9 @@
                     <conditions>
                         <condition id="3" name="On touched object" sid="904815767983051" type="Touch">
                             <param id="0" name="Object">1986_info</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="355862961482599" type="1986_info">
+                            <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
@@ -191,6 +230,9 @@
                         <condition id="3" name="On touched object" sid="491771667273965" type="Touch">
                             <param id="0" name="Object">1988_info</param>
                         </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="311744457908052" type="1988_info">
+                            <param id="0" name="Instance variable">activo</param>
+                        </condition>
                     </conditions>
                     <actions>
                         <action id="-4" name="Set layer visible" sid="554940111444371" type="System">
@@ -211,6 +253,9 @@
                     <conditions>
                         <condition id="3" name="On touched object" sid="320786895481014" type="Touch">
                             <param id="0" name="Object">1994_info</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="572335937624846" type="1994_info">
+                            <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
@@ -233,6 +278,9 @@
                         <condition id="3" name="On touched object" sid="908775050162603" type="Touch">
                             <param id="0" name="Object">1995_info</param>
                         </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="748361152989334" type="1995_info">
+                            <param id="0" name="Instance variable">activo</param>
+                        </condition>
                     </conditions>
                     <actions>
                         <action id="-4" name="Set layer visible" sid="478538387206040" type="System">
@@ -253,6 +301,9 @@
                     <conditions>
                         <condition id="3" name="On touched object" sid="185060601160835" type="Touch">
                             <param id="0" name="Object">2002_info</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="315527484611296" type="2002_info">
+                            <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
@@ -275,6 +326,9 @@
                         <condition id="3" name="On touched object" sid="390040361968025" type="Touch">
                             <param id="0" name="Object">2004_info</param>
                         </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="930188619982179" type="2004_info">
+                            <param id="0" name="Instance variable">activo</param>
+                        </condition>
                     </conditions>
                     <actions>
                         <action id="-4" name="Set layer visible" sid="248515265568521" type="System">
@@ -295,6 +349,9 @@
                     <conditions>
                         <condition id="3" name="On touched object" sid="957655471480553" type="Touch">
                             <param id="0" name="Object">2007_info</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="758622436771407" type="2007_info">
+                            <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
@@ -317,6 +374,9 @@
                         <condition id="3" name="On touched object" sid="729362307454803" type="Touch">
                             <param id="0" name="Object">2008_info</param>
                         </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="313359992869456" type="2008_info">
+                            <param id="0" name="Instance variable">activo</param>
+                        </condition>
                     </conditions>
                     <actions>
                         <action id="-4" name="Set layer visible" sid="747879942861147" type="System">
@@ -337,6 +397,9 @@
                     <conditions>
                         <condition id="3" name="On touched object" sid="312673637528478" type="Touch">
                             <param id="0" name="Object">2011_info</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="837115405549547" type="2011_info">
+                            <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
@@ -359,6 +422,9 @@
                         <condition id="3" name="On touched object" sid="431674359360721" type="Touch">
                             <param id="0" name="Object">2015_info</param>
                         </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="568181093838703" type="2015_info">
+                            <param id="0" name="Instance variable">activo</param>
+                        </condition>
                     </conditions>
                     <actions>
                         <action id="-4" name="Set layer visible" sid="970257097891812" type="System">
@@ -380,6 +446,9 @@
                         <condition id="3" name="On touched object" sid="458366022159569" type="Touch">
                             <param id="0" name="Object">2016_info</param>
                         </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="833148802326888" type="2016_info">
+                            <param id="0" name="Instance variable">activo</param>
+                        </condition>
                     </conditions>
                     <actions>
                         <action id="-4" name="Set layer visible" sid="743671513496397" type="System">
@@ -400,6 +469,9 @@
                     <conditions>
                         <condition id="3" name="On touched object" sid="811333025746805" type="Touch">
                             <param id="0" name="Object">2019_info</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="514044701702638" type="2019_info">
+                            <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
@@ -764,8 +836,16 @@
                         <action behavior="Physics" id="27" name="Set enabled" sid="215756670842363" type="1986_info">
                             <param id="0" name="Mode">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="476719674709366" type="1986_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="214057748172037" type="System">
                             <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="331571272119567" type="1986_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                         <action id="-3" name="Set position" sid="217914735895993" type="1986_info">
                             <param id="0" name="X">136</param>
@@ -783,12 +863,20 @@
                         <action behavior="Physics" id="27" name="Set enabled" sid="191940868113097" type="1986_www">
                             <param id="0" name="Mode">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="323295000920907" type="1986_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="128249495230858" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="336797192451623" type="1986_www">
                             <param id="0" name="X">94</param>
                             <param id="1" name="Y">496</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="584433011201297" type="1986_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -802,12 +890,20 @@
                         <action behavior="Physics" id="27" name="Set enabled" sid="265711220335647" type="1994_info">
                             <param id="0" name="Mode">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="811311438055821" type="1994_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="136444977884231" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="316695648593184" type="1994_info">
                             <param id="0" name="X">329</param>
                             <param id="1" name="Y">468</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="154828581469087" type="1994_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -821,12 +917,20 @@
                         <action behavior="Physics" id="27" name="Set enabled" sid="671946040129555" type="1994_www">
                             <param id="0" name="Mode">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="509289182711398" type="1994_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="100774560814242" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="728505704516169" type="1994_www">
                             <param id="0" name="X">278</param>
                             <param id="1" name="Y">492</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="181198448109482" type="1994_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -840,12 +944,20 @@
                         <action behavior="Physics" id="27" name="Set enabled" sid="641738359854714" type="2002_info">
                             <param id="0" name="Mode">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="816302291644585" type="2002_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="438948008028460" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="949725096102025" type="2002_info">
                             <param id="0" name="X">524</param>
                             <param id="1" name="Y">475</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="530792375745349" type="2002_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -859,12 +971,20 @@
                         <action behavior="Physics" id="27" name="Set enabled" sid="770931340758632" type="2002_www">
                             <param id="0" name="Mode">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="490027355919580" type="2002_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="920406285286691" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="148668725767808" type="2002_www">
                             <param id="0" name="X">472</param>
                             <param id="1" name="Y">496</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="958316959606603" type="2002_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -878,12 +998,20 @@
                         <action behavior="Physics" id="27" name="Set enabled" sid="962646432383090" type="2007_info">
                             <param id="0" name="Mode">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="636727330302459" type="2007_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="605428118905906" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="496930125156367" type="2007_info">
                             <param id="0" name="X">712</param>
                             <param id="1" name="Y">473</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="349789374005363" type="2007_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -897,12 +1025,20 @@
                         <action behavior="Physics" id="27" name="Set enabled" sid="494973542091815" type="2007_www">
                             <param id="0" name="Mode">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="763515881974377" type="2007_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="754744064504261" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="725298881841774" type="2007_www">
                             <param id="0" name="X">661</param>
                             <param id="1" name="Y">503</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="298024237337784" type="2007_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -916,12 +1052,20 @@
                         <action behavior="Physics" id="27" name="Set enabled" sid="344469204484150" type="2011_info">
                             <param id="0" name="Mode">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="171656945864604" type="2011_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="385219516379335" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="741056206436233" type="2011_info">
                             <param id="0" name="X">907</param>
                             <param id="1" name="Y">469</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="180296061979683" type="2011_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -935,12 +1079,20 @@
                         <action behavior="Physics" id="27" name="Set enabled" sid="892864938702009" type="2011_www">
                             <param id="0" name="Mode">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="155769369287562" type="2011_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="191529595468199" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="610770642877166" type="2011_www">
                             <param id="0" name="X">856</param>
                             <param id="1" name="Y">495</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="547383248989442" type="2011_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -954,12 +1106,20 @@
                         <action behavior="Physics" id="27" name="Set enabled" sid="607511650044297" type="2016_info">
                             <param id="0" name="Mode">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="494542690943985" type="2016_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="326215755782014" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="475509361439715" type="2016_info">
                             <param id="0" name="X">1098</param>
                             <param id="1" name="Y">466</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="344582191419599" type="2016_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -973,12 +1133,20 @@
                         <action behavior="Physics" id="27" name="Set enabled" sid="949570616782553" type="2016_www">
                             <param id="0" name="Mode">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="336256099235476" type="2016_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="785614556491824" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="504612710692117" type="2016_www">
                             <param id="0" name="X">1046</param>
                             <param id="1" name="Y">507</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="860944558517843" type="2016_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -992,12 +1160,20 @@
                         <action behavior="Bullet" id="5" name="Set enabled" sid="291250769340101" type="1988_info">
                             <param id="0" name="State">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="397919428936088" type="1988_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="291247178198842" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="419075700735533" type="1988_info">
                             <param id="0" name="X">233</param>
                             <param id="1" name="Y">420</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="582821705975226" type="1988_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -1011,12 +1187,20 @@
                         <action behavior="Bullet" id="5" name="Set enabled" sid="582467555812737" type="1988_www">
                             <param id="0" name="State">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="561852576539939" type="1988_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="941636254111075" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="936118375555327" type="1988_www">
                             <param id="0" name="X">184</param>
                             <param id="1" name="Y">384</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="610258497293108" type="1988_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -1030,12 +1214,20 @@
                         <action behavior="Bullet" id="5" name="Set enabled" sid="823643297645941" type="1995_info">
                             <param id="0" name="State">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="404237758173382" type="1995_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="542823135367984" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="174861054763806" type="1995_info">
                             <param id="0" name="X">427</param>
                             <param id="1" name="Y">423</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="927483393122623" type="1995_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -1049,12 +1241,20 @@
                         <action behavior="Bullet" id="5" name="Set enabled" sid="773090390016464" type="1995_www">
                             <param id="0" name="State">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="934251885488594" type="1995_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="884656178879547" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="682409323720505" type="1995_www">
                             <param id="0" name="X">375</param>
                             <param id="1" name="Y">399</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="627968326574843" type="1995_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -1068,12 +1268,20 @@
                         <action behavior="Bullet" id="5" name="Set enabled" sid="620686716301474" type="2004_info">
                             <param id="0" name="State">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="731220906197762" type="2004_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="694642906276869" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="991704254887589" type="2004_info">
                             <param id="0" name="X">621</param>
                             <param id="1" name="Y">425</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="276368012523703" type="2004_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -1087,12 +1295,20 @@
                         <action behavior="Bullet" id="5" name="Set enabled" sid="486562970046848" type="2004_www">
                             <param id="0" name="State">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="706461057505025" type="2004_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="974958962618491" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="174697799157468" type="2004_www">
                             <param id="0" name="X">571</param>
                             <param id="1" name="Y">401</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="829311642660767" type="2004_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -1106,12 +1322,20 @@
                         <action behavior="Bullet" id="5" name="Set enabled" sid="660773823190287" type="2008_info">
                             <param id="0" name="State">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="120488473349387" type="2008_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="426656758871779" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="506719932842185" type="2008_info">
                             <param id="0" name="X">812</param>
                             <param id="1" name="Y">427</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="597469080366619" type="2008_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -1125,12 +1349,20 @@
                         <action behavior="Bullet" id="5" name="Set enabled" sid="460242991587599" type="2008_www">
                             <param id="0" name="State">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="935205407850169" type="2008_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="114159213539118" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="654909107461062" type="2008_www">
                             <param id="0" name="X">760</param>
                             <param id="1" name="Y">395</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="308205824030211" type="2008_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -1144,12 +1376,20 @@
                         <action behavior="Bullet" id="5" name="Set enabled" sid="757920778042033" type="2015_info">
                             <param id="0" name="State">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="762021100487188" type="2015_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="610632340040422" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="405359489224249" type="2015_info">
                             <param id="0" name="X">1004</param>
                             <param id="1" name="Y">421</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="862369653675664" type="2015_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -1163,12 +1403,20 @@
                         <action behavior="Bullet" id="5" name="Set enabled" sid="339335296737836" type="2015_www">
                             <param id="0" name="State">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="523333452574063" type="2015_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="881060994024114" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="612853126518374" type="2015_www">
                             <param id="0" name="X">953</param>
                             <param id="1" name="Y">391</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="236160321116084" type="2015_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -1182,12 +1430,20 @@
                         <action behavior="Bullet" id="5" name="Set enabled" sid="323269845052548" type="2019_info">
                             <param id="0" name="State">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="354008747410329" type="2019_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="517653928328867" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="926657364256603" type="2019_info">
                             <param id="0" name="X">1195</param>
                             <param id="1" name="Y">434</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="258081870604314" type="2019_info">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -1201,12 +1457,54 @@
                         <action behavior="Bullet" id="5" name="Set enabled" sid="947492644357121" type="2019_www">
                             <param id="0" name="State">0</param>
                         </action>
+                        <action id="-13" name="Set boolean" sid="914492763387952" type="2019_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
                         <action id="-16" name="Wait" sid="421080612354581" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="530653384695275" type="2019_www">
                             <param id="0" name="X">1145</param>
                             <param id="1" name="Y">397</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="946450596241337" type="2019_www">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-group>
+        <event-group description="" sid="328573994416046" title="Mouse_Hover">
+            <sub-events>
+                <event-block sid="280034031304971">
+                    <conditions>
+                        <condition id="7" name="Cursor is over object" sid="150801099534683" type="Mouse">
+                            <param id="0" name="Object">BotonesFechas</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set cursor style" sid="579995111719658" type="Mouse">
+                            <param id="0" name="Cursor style">1</param>
+                        </action>
+                        <action id="-4" name="Set position to another object" sid="314369791588318" type="destello">
+                            <param id="0" name="Object">BotonesFechas</param>
+                            <param id="1" name="Image point (optional)">0</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="540721215798718">
+                    <conditions>
+                        <condition id="-22" name="Else" sid="141672901959631" type="System" />
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set cursor style" sid="671462849727294" type="Mouse">
+                            <param id="0" name="Cursor style">0</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="149443980126445" type="destello">
+                            <param id="0" name="X">-600</param>
+                            <param id="1" name="Y">-600</param>
                         </action>
                     </actions>
                 </event-block>

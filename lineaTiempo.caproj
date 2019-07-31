@@ -168,7 +168,7 @@
                         </frame>
                     </animation>
                     <animation framecount="1" loop="0" name="t2015" pingpong="0" repeatcount="1" repeatto="0" sid="521586950742963" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Verde_2011.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Naranja_2015.png">
                             <collision-poly>
                                 <point x="0.0124008" y="0.0259875" />
                                 <point x="0.5" y="0.00727651" />
@@ -223,6 +223,9 @@
         <object-folder name="Vinculos">
             <object-type name="1986_www" sid="338979704875463">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="250411352071294" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="424088728368514">
                         <behavior id="Physics" />
@@ -236,6 +239,9 @@
             </object-type>
             <object-type name="1986_info" sid="712294508185966">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="566009913952149" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="329571211029072">
                         <behavior id="Physics" />
@@ -260,6 +266,9 @@
             </object-type>
             <object-type name="1988_www" sid="504070891424139">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="110996487208299" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="352634650336934">
                         <behavior id="Bullet" />
@@ -284,6 +293,9 @@
             </object-type>
             <object-type name="1988_info" sid="540490038108784">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="240386883639549" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="128955246092592">
                         <behavior id="Bullet" />
@@ -308,6 +320,9 @@
             </object-type>
             <object-type name="1994_www" sid="432782912928342">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="849385158805848" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="169315421583131">
                         <behavior id="Physics" />
@@ -333,6 +348,9 @@
             </object-type>
             <object-type name="1994_info" sid="767026278661965">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="663263248553778" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="589447063928919">
                         <behavior id="Physics" />
@@ -357,6 +375,9 @@
             </object-type>
             <object-type name="2002_info" sid="376295046171193">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="882434043819330" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="169536232535836">
                         <behavior id="Physics" />
@@ -381,6 +402,9 @@
             </object-type>
             <object-type name="2002_www" sid="514797739552998">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="104218652024378" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="749906629004378">
                         <behavior id="Physics" />
@@ -405,6 +429,9 @@
             </object-type>
             <object-type name="2007_www" sid="883526522250407">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="469132713551367" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="416673323734076">
                         <behavior id="Physics" />
@@ -429,6 +456,9 @@
             </object-type>
             <object-type name="2007_info" sid="617641024476367">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="524488260194102" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="186464471120266">
                         <behavior id="Physics" />
@@ -453,6 +483,9 @@
             </object-type>
             <object-type name="2011_info" sid="104426768203518">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="805982148925999" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="172097280027042">
                         <behavior id="Physics" />
@@ -477,6 +510,9 @@
             </object-type>
             <object-type name="2011_www" sid="911224900768031">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="730518219841689" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="319374222262123">
                         <behavior id="Physics" />
@@ -501,6 +537,9 @@
             </object-type>
             <object-type name="2016_info" sid="370950253650005">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="152355899316979" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="555818030143981">
                         <behavior id="Physics" />
@@ -525,6 +564,9 @@
             </object-type>
             <object-type name="2016_www" sid="763739334500150">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="414481194754005" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="969646199018629">
                         <behavior id="Physics" />
@@ -549,6 +591,9 @@
             </object-type>
             <object-type name="2015_www" sid="941455529995015">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="995001286178218" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="686283012204775">
                         <behavior id="Bullet" />
@@ -573,6 +618,9 @@
             </object-type>
             <object-type name="2015_info" sid="991102543527756">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="784686626673710" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="625082967777445">
                         <behavior id="Bullet" />
@@ -597,6 +645,9 @@
             </object-type>
             <object-type name="2004_info" sid="500888929704968">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="142385377778220" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="380280598336224">
                         <behavior id="Bullet" />
@@ -621,6 +672,9 @@
             </object-type>
             <object-type name="2004_www" sid="764062287300244">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="665642680957702" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="548763988385490">
                         <behavior id="Bullet" />
@@ -645,6 +699,9 @@
             </object-type>
             <object-type name="1995_info" sid="674866158062501">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="176144526874787" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="253013090099495">
                         <behavior id="Bullet" />
@@ -669,6 +726,9 @@
             </object-type>
             <object-type name="1995_www" sid="719738051561966">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="118495788822017" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="390042684105832">
                         <behavior id="Bullet" />
@@ -693,6 +753,9 @@
             </object-type>
             <object-type name="2008_info" sid="492280566311026">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="785867697239739" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="303397780427116">
                         <behavior id="Bullet" />
@@ -717,6 +780,9 @@
             </object-type>
             <object-type name="2008_www" sid="355459290486314">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="264159690548747" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="346712879780852">
                         <behavior id="Bullet" />
@@ -741,6 +807,9 @@
             </object-type>
             <object-type name="2019_info" sid="633638906769428">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="834547928014776" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="231697619017467">
                         <behavior id="Bullet" />
@@ -765,6 +834,9 @@
             </object-type>
             <object-type name="2019_www" sid="693089597589614">
                 <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="423046827515745" type="boolean" />
+                </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="328396283930195">
                         <behavior id="Bullet" />
@@ -1026,7 +1098,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="315717245712547" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.480519" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_1986.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_1986.png">
                             <collision-poly>
                                 <point x="0.225249" y="0.219767" />
                                 <point x="1" y="0.0983303" />
@@ -1059,7 +1131,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="786172358870951" speed="5">
-                        <frame duration="1" hotspotX="0.480519" hotspotY="0.493506" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_1988.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_1988.png">
                             <collision-poly>
                                 <point x="0.155844" y="0.14935" />
                                 <point x="0.46104" y="0.0584415" />
@@ -1092,7 +1164,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="246222347136782" speed="5">
-                        <frame duration="1" hotspotX="0.506494" hotspotY="0.506494" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_1994.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_1994.png">
                             <collision-poly>
                                 <point x="0.103514" y="0.25085" />
                                 <point x="0.385027" y="0.0496784" />
@@ -1125,7 +1197,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="850353324661503" speed="5">
-                        <frame duration="1" hotspotX="0.493506" hotspotY="0.474026" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_1995.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_1995.png">
                             <collision-poly>
                                 <point x="0.162337" y="0.14935" />
                                 <point x="0.733767" y="0.0649351" />
@@ -1158,7 +1230,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="758558842037064" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.467532" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2002.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2002.png">
                             <collision-poly>
                                 <point x="0.155844" y="0.149351" />
                                 <point x="0.733767" y="0.0714286" />
@@ -1191,7 +1263,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="683275727801544" speed="5">
-                        <frame duration="1" hotspotX="0.487013" hotspotY="0.487013" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2004.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2004.png">
                             <collision-poly>
                                 <point x="0.161955" y="0.152847" />
                                 <point x="0.433283" y="0.0564435" />
@@ -1224,7 +1296,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="684600872342524" speed="5">
-                        <frame duration="1" hotspotX="0.512987" hotspotY="0.467532" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2007.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2007.png">
                             <collision-poly>
                                 <point x="0.155844" y="0.142857" />
                                 <point x="0.727273" y="0.064935" />
@@ -1257,7 +1329,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="994885876662371" speed="5">
-                        <frame duration="1" hotspotX="0.487013" hotspotY="0.474026" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2008.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2008.png">
                             <collision-poly>
                                 <point x="0.162337" y="0.14935" />
                                 <point x="0.733767" y="0.0649351" />
@@ -1290,7 +1362,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="459112249376953" speed="5">
-                        <frame duration="1" hotspotX="0.532468" hotspotY="0.506494" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2011.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2011.png">
                             <collision-poly>
                                 <point x="0.155844" y="0.149351" />
                                 <point x="0.733767" y="0.0714286" />
@@ -1323,7 +1395,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="576921775774706" speed="5">
-                        <frame duration="1" hotspotX="0.532468" hotspotY="0.474026" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2015.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2015.png">
                             <collision-poly>
                                 <point x="0.155844" y="0.14935" />
                                 <point x="0.727273" y="0.0714285" />
@@ -1356,16 +1428,16 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="484807733683251" speed="5">
-                        <frame duration="1" hotspotX="0.551948" hotspotY="0.467532" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2016.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2016.png">
                             <collision-poly>
-                                <point x="0.155844" y="0.142857" />
-                                <point x="0.727273" y="0.064935" />
-                                <point x="0.987013" y="0.461039" />
-                                <point x="0.915584" y="0.753247" />
-                                <point x="0.811688" y="0.87013" />
-                                <point x="0.727273" y="0.928571" />
-                                <point x="0.532467" y="0.987013" />
-                                <point x="0.0779221" y="0.753247" />
+                                <point x="0.149351" y="0.149351" />
+                                <point x="0.5" y="0.00649351" />
+                                <point x="0.850649" y="0.149351" />
+                                <point x="0.987013" y="0.5" />
+                                <point x="0.844156" y="0.844156" />
+                                <point x="0.5" y="0.987013" />
+                                <point x="0.155844" y="0.844156" />
+                                <point x="0.00649351" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -1389,7 +1461,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="993865032484849" speed="5">
-                        <frame duration="1" hotspotX="0.525974" hotspotY="0.474026" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2019.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_2019.png">
                             <collision-poly>
                                 <point x="0.162337" y="0.14935" />
                                 <point x="0.733767" y="0.0649351" />
@@ -1664,8 +1736,35 @@
                 </animation-folder>
             </object-type>
         </object-folder>
+        <object-folder name="Efectos">
+            <object-type name="destello" sid="611813658433562">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="628436495379949" speed="5">
+                        <frame duration="1" hotspotX="0.503356" hotspotY="0.505119" original-source="C:\Users\logan24\Desktop\circulo.png" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+        </object-folder>
     </object-folder>
-    <families />
+    <families>
+        <family name="BotonesFechas" plugin-id="Sprite" sid="781082159387860">
+            <members>
+                <member>btn_1986</member>
+                <member>btn_1988</member>
+                <member>btn_1994</member>
+                <member>btn_1995</member>
+                <member>btn_2002</member>
+                <member>btn_2004</member>
+                <member>btn_2007</member>
+                <member>btn_2008</member>
+                <member>btn_2011</member>
+                <member>btn_2015</member>
+                <member>btn_2016</member>
+                <member>btn_2019</member>
+            </members>
+        </family>
+    </families>
     <layout-folder>
         <layout>Principal.xml</layout>
     </layout-folder>

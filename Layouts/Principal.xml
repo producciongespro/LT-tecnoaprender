@@ -77,6 +77,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
                             <properties>
@@ -115,6 +118,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
                             <properties>
@@ -153,6 +159,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
                             <properties>
@@ -187,6 +196,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
                             <properties>
@@ -221,6 +233,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
                             <properties>
@@ -259,6 +274,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
                             <properties>
@@ -297,6 +315,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
                             <properties>
@@ -335,6 +356,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
                             <properties>
@@ -373,6 +397,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
                             <properties>
@@ -411,6 +438,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
                             <properties>
@@ -449,6 +479,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
                             <properties>
@@ -487,6 +520,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
                             <properties>
@@ -525,6 +561,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
                             <properties>
@@ -563,6 +602,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
                             <properties>
@@ -601,6 +643,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
                             <properties>
@@ -635,6 +680,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
                             <properties>
@@ -669,6 +717,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
                             <properties>
@@ -703,6 +754,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
                             <properties>
@@ -737,6 +791,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
                             <properties>
@@ -771,6 +828,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
                             <properties>
@@ -805,6 +865,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
                             <properties>
@@ -839,6 +902,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
                             <properties>
@@ -873,6 +939,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
                             <properties>
@@ -907,6 +976,9 @@
                         <initial-frame>0</initial-frame>
                         <collisions>Enabled</collisions>
                     </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
                             <properties>
@@ -1010,6 +1082,28 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
+                <instance type="destello" uid="3">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>-169</x>
+                        <y>353</y>
+                        <z>0</z>
+                        <width>130</width>
+                        <height>130</height>
+                        <depth>0</depth>
+                        <hotspotX>0.503355682</hotspotX>
+                        <hotspotY>0.505119443</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
             </instances>
             <effects />
         </layer>
@@ -1046,7 +1140,7 @@
                         <height>111</height>
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
-                        <hotspotY>0.480519474</hotspotY>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -1067,8 +1161,8 @@
                         <width>114</width>
                         <height>111</height>
                         <depth>0</depth>
-                        <hotspotX>0.506493509</hotspotX>
-                        <hotspotY>0.506493509</hotspotY>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -1090,7 +1184,7 @@
                         <height>111</height>
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
-                        <hotspotY>0.467532456</hotspotY>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -1111,8 +1205,8 @@
                         <width>114</width>
                         <height>111</height>
                         <depth>0</depth>
-                        <hotspotX>0.512987018</hotspotX>
-                        <hotspotY>0.467532456</hotspotY>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -1133,8 +1227,8 @@
                         <width>114</width>
                         <height>111</height>
                         <depth>0</depth>
-                        <hotspotX>0.532467544</hotspotX>
-                        <hotspotY>0.506493509</hotspotY>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -1149,14 +1243,14 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>1075</x>
+                        <x>1070</x>
                         <y>481</y>
                         <z>0</z>
                         <width>114</width>
                         <height>111</height>
                         <depth>0</depth>
-                        <hotspotX>0.551948071</hotspotX>
-                        <hotspotY>0.467532456</hotspotY>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -1177,8 +1271,8 @@
                         <width>114</width>
                         <height>111</height>
                         <depth>0</depth>
-                        <hotspotX>0.525974035</hotspotX>
-                        <hotspotY>0.474025965</hotspotY>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -1199,8 +1293,8 @@
                         <width>114</width>
                         <height>111</height>
                         <depth>0</depth>
-                        <hotspotX>0.532467544</hotspotX>
-                        <hotspotY>0.474025965</hotspotY>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -1221,8 +1315,8 @@
                         <width>114</width>
                         <height>111</height>
                         <depth>0</depth>
-                        <hotspotX>0.487012982</hotspotX>
-                        <hotspotY>0.474025965</hotspotY>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -1243,8 +1337,8 @@
                         <width>114</width>
                         <height>111</height>
                         <depth>0</depth>
-                        <hotspotX>0.487012982</hotspotX>
-                        <hotspotY>0.487012982</hotspotY>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -1265,8 +1359,8 @@
                         <width>114</width>
                         <height>111</height>
                         <depth>0</depth>
-                        <hotspotX>0.493506491</hotspotX>
-                        <hotspotY>0.474025965</hotspotY>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -1287,8 +1381,8 @@
                         <width>114</width>
                         <height>111</height>
                         <depth>0</depth>
-                        <hotspotX>0.480519474</hotspotX>
-                        <hotspotY>0.493506491</hotspotY>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -1384,8 +1478,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>678</x>
-                        <y>-206</y>
+                        <x>658</x>
+                        <y>-238</y>
                         <z>0</z>
                         <width>90</width>
                         <height>90</height>
