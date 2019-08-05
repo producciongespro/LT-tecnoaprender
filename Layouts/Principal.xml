@@ -161,6 +161,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <deslizador>true</deslizador>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">

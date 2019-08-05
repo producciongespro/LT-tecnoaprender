@@ -268,6 +268,7 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="110996487208299" type="boolean" />
+                    <instance-variable name="deslizador" sid="808847776363772" type="boolean" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="352634650336934">
