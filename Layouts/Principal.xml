@@ -646,6 +646,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <deslizador>true</deslizador>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
@@ -757,6 +758,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <deslizador>true</deslizador>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
@@ -831,6 +833,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <deslizador>true</deslizador>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
@@ -905,6 +908,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <deslizador>true</deslizador>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
@@ -979,6 +983,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <deslizador>true</deslizador>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
@@ -1384,6 +1389,28 @@
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
                         <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="Acercade" uid="4">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>1206</x>
+                        <y>662</y>
+                        <z>0</z>
+                        <width>140.448425293</width>
+                        <height>36.943660736</height>
+                        <depth>0</depth>
+                        <hotspotX>0.481481493</hotspotX>
+                        <hotspotY>0.508196712</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>

@@ -204,7 +204,7 @@
                 <event-block sid="230145506993995">
                     <conditions>
                         <condition id="3" name="On touched object" sid="904815767983051" type="Touch">
-                            <param id="0" name="Object">1986_info</param>
+                            <param id="0" name="Object">Acercade</param>
                         </condition>
                         <condition id="-8" name="Is boolean instance variable set" sid="355862961482599" type="1986_info">
                             <param id="0" name="Instance variable">activo</param>
@@ -219,7 +219,27 @@
                             <param id="0" name="Layer">&quot;Modal&quot;</param>
                             <param id="1" name="Visibility">1</param>
                         </action>
-                        <action id="4" name="Set animation" sid="374557719755493" type="FondoModal">
+                    </actions>
+                </event-block>
+                <event-block sid="731594234155628">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="260667862304946" type="Touch">
+                            <param id="0" name="Object">1986_info</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="126770558062645" type="1986_info">
+                            <param id="0" name="Instance variable">activo</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="658712989565665" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="958875493526291" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="605728395196470" type="FondoModal">
                             <param id="0" name="Animation">&quot;t1986&quot;</param>
                             <param id="1" name="From">1</param>
                         </action>
@@ -493,6 +513,26 @@
         </event-group>
         <event-group description="" sid="644491272739932" title="eventosBotonAL SER presionado">
             <sub-events>
+                <event-block sid="681964485062236">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="412056247147668" type="Touch">
+                            <param id="0" name="Object">Acercade</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="4" name="Set animation" sid="537009602132927" type="Acercade">
+                            <param id="0" name="Animation">&quot;botnsinpresion&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="776832549469584" type="System">
+                            <param id="0" name="Seconds">1.0</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="573780411738710" type="Acercade">
+                            <param id="0" name="Animation">&quot;botonpresion&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                    </actions>
+                </event-block>
                 <event-block sid="864318375231798">
                     <conditions>
                         <condition id="3" name="On touched object" sid="294115259638653" type="Touch">
@@ -510,30 +550,30 @@
                         </action>
                     </actions>
                 </event-block>
-                <event-block sid="570325627673103">
+                <event-block sid="101609750199387">
                     <conditions>
-                        <condition id="3" name="On touched object" sid="276785904644035" type="Touch">
+                        <condition id="3" name="On touched object" sid="243965635966385" type="Touch">
                             <param id="0" name="Object">btn_1988</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="605204500148197" type="1988_www">
+                        <condition id="-8" name="Is boolean instance variable set" sid="423865390478337" type="1988_www">
                             <param id="0" name="Instance variable">deslizador</param>
                         </condition>
                     </conditions>
                     <actions>
-                        <action id="4" name="Set animation" sid="196624906660971" type="btn_1988">
+                        <action id="4" name="Set animation" sid="493357592515320" type="btn_1988">
                             <param id="0" name="Animation">&quot;presionado&quot;</param>
                             <param id="1" name="From">1</param>
                         </action>
-                        <action behavior="Bullet" id="5" name="Set enabled" sid="826682065879204" type="1988_info">
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="718011876516521" type="1988_info">
                             <param id="0" name="State">1</param>
                         </action>
-                        <action behavior="Bullet" id="5" name="Set enabled" sid="430808225835842" type="1988_www">
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="999462712861559" type="1988_www">
                             <param id="0" name="State">1</param>
                         </action>
-                        <action id="-16" name="Wait" sid="466551870114710" type="System">
+                        <action id="-16" name="Wait" sid="608499220991117" type="System">
                             <param id="0" name="Seconds">1.0</param>
                         </action>
-                        <action id="4" name="Set animation" sid="757950455442250" type="btn_1988">
+                        <action id="4" name="Set animation" sid="292107605808462" type="btn_1988">
                             <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
                             <param id="1" name="From">1</param>
                         </action>
@@ -543,6 +583,9 @@
                     <conditions>
                         <condition id="3" name="On touched object" sid="785156273189250" type="Touch">
                             <param id="0" name="Object">btn_1995</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="819585514251375" type="1995_www">
+                            <param id="0" name="Instance variable">deslizador</param>
                         </condition>
                     </conditions>
                     <actions>
@@ -570,6 +613,9 @@
                         <condition id="3" name="On touched object" sid="406573219940991" type="Touch">
                             <param id="0" name="Object">btn_2004</param>
                         </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="297096372902989" type="2004_www">
+                            <param id="0" name="Instance variable">deslizador</param>
+                        </condition>
                     </conditions>
                     <actions>
                         <action id="4" name="Set animation" sid="568073931951973" type="btn_2004">
@@ -595,6 +641,9 @@
                     <conditions>
                         <condition id="3" name="On touched object" sid="369759634366567" type="Touch">
                             <param id="0" name="Object">btn_2008</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="895302925950378" type="2008_www">
+                            <param id="0" name="Instance variable">deslizador</param>
                         </condition>
                     </conditions>
                     <actions>
@@ -622,6 +671,9 @@
                         <condition id="3" name="On touched object" sid="763446244567911" type="Touch">
                             <param id="0" name="Object">btn_2015</param>
                         </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="187998084769030" type="2015_www">
+                            <param id="0" name="Instance variable">deslizador</param>
+                        </condition>
                     </conditions>
                     <actions>
                         <action id="4" name="Set animation" sid="181692570745877" type="btn_2015">
@@ -647,6 +699,9 @@
                     <conditions>
                         <condition id="3" name="On touched object" sid="237336764806903" type="Touch">
                             <param id="0" name="Object">btn_2019</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="269291816717559" type="2019_www">
+                            <param id="0" name="Instance variable">deslizador</param>
                         </condition>
                     </conditions>
                     <actions>
@@ -1249,6 +1304,10 @@
                         </condition>
                     </conditions>
                     <actions>
+                        <action id="-13" name="Set boolean" sid="728003846174706" type="1995_www">
+                            <param id="0" name="Instance variable">deslizador</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
                         <action behavior="Bullet" id="5" name="Set enabled" sid="773090390016464" type="1995_www">
                             <param id="0" name="State">0</param>
                         </action>
@@ -1266,6 +1325,10 @@
                         <action id="-13" name="Set boolean" sid="627968326574843" type="1995_www">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="413740504494110" type="1995_www">
+                            <param id="0" name="Instance variable">deslizador</param>
+                            <param id="1" name="Value">1</param>
                         </action>
                     </actions>
                 </event-block>
@@ -1303,6 +1366,10 @@
                         </condition>
                     </conditions>
                     <actions>
+                        <action id="-13" name="Set boolean" sid="597755129723999" type="2004_www">
+                            <param id="0" name="Instance variable">deslizador</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
                         <action behavior="Bullet" id="5" name="Set enabled" sid="486562970046848" type="2004_www">
                             <param id="0" name="State">0</param>
                         </action>
@@ -1320,6 +1387,10 @@
                         <action id="-13" name="Set boolean" sid="829311642660767" type="2004_www">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="774468231176071" type="2004_www">
+                            <param id="0" name="Instance variable">deslizador</param>
+                            <param id="1" name="Value">1</param>
                         </action>
                     </actions>
                 </event-block>
@@ -1357,6 +1428,10 @@
                         </condition>
                     </conditions>
                     <actions>
+                        <action id="-13" name="Set boolean" sid="887227955187356" type="2008_www">
+                            <param id="0" name="Instance variable">deslizador</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
                         <action behavior="Bullet" id="5" name="Set enabled" sid="460242991587599" type="2008_www">
                             <param id="0" name="State">0</param>
                         </action>
@@ -1374,6 +1449,10 @@
                         <action id="-13" name="Set boolean" sid="308205824030211" type="2008_www">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="638179953349575" type="2008_www">
+                            <param id="0" name="Instance variable">deslizador</param>
+                            <param id="1" name="Value">1</param>
                         </action>
                     </actions>
                 </event-block>
@@ -1411,6 +1490,10 @@
                         </condition>
                     </conditions>
                     <actions>
+                        <action id="-13" name="Set boolean" sid="608387330580386" type="2015_www">
+                            <param id="0" name="Instance variable">deslizador</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
                         <action behavior="Bullet" id="5" name="Set enabled" sid="339335296737836" type="2015_www">
                             <param id="0" name="State">0</param>
                         </action>
@@ -1428,6 +1511,10 @@
                         <action id="-13" name="Set boolean" sid="236160321116084" type="2015_www">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="505169221238914" type="2015_www">
+                            <param id="0" name="Instance variable">deslizador</param>
+                            <param id="1" name="Value">1</param>
                         </action>
                     </actions>
                 </event-block>
@@ -1465,6 +1552,10 @@
                         </condition>
                     </conditions>
                     <actions>
+                        <action id="-13" name="Set boolean" sid="212808142334204" type="2019_www">
+                            <param id="0" name="Instance variable">deslizador</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
                         <action behavior="Bullet" id="5" name="Set enabled" sid="947492644357121" type="2019_www">
                             <param id="0" name="State">0</param>
                         </action>
@@ -1482,6 +1573,10 @@
                         <action id="-13" name="Set boolean" sid="946450596241337" type="2019_www">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="192401848032864" type="2019_www">
+                            <param id="0" name="Instance variable">deslizador</param>
+                            <param id="1" name="Value">1</param>
                         </action>
                     </actions>
                 </event-block>
