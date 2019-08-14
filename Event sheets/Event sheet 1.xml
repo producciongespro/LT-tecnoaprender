@@ -219,8 +219,8 @@
                             <param id="0" name="Layer">&quot;Modal&quot;</param>
                             <param id="1" name="Visibility">1</param>
                         </action>
-                        <action id="4" name="Set animation" sid="415679579799192" type="FondoModal">
-                            <param id="0" name="Animation">&quot;t1986&quot;</param>
+                        <action id="4" name="Set animation" sid="415679579799192" type="creditos">
+                            <param id="0" name="Animation">&quot;creditos&quot;</param>
                             <param id="1" name="From">1</param>
                         </action>
                     </actions>

@@ -1110,6 +1110,56 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
+                <instance type="Acercade" uid="4">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>1206</x>
+                        <y>662</y>
+                        <z>0</z>
+                        <width>140.448425293</width>
+                        <height>36.943660736</height>
+                        <depth>0</depth>
+                        <hotspotX>0.481481493</hotspotX>
+                        <hotspotY>0.508196712</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="creditos" uid="6">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <instance-variables>
+                        <activa>false</activa>
+                    </instance-variables>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>-107</x>
+                        <y>-169</y>
+                        <z>0</z>
+                        <width>300</width>
+                        <height>228</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
             </instances>
             <effects />
         </layer>
@@ -1139,8 +1189,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>112</x>
-                        <y>487</y>
+                        <x>109</x>
+                        <y>418</y>
                         <z>0</z>
                         <width>114</width>
                         <height>111</height>
@@ -1389,31 +1439,6 @@
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
                         <hotspotY>0.5</hotspotY>
-                        <angle>0</angle>
-                        <opacity>1</opacity>
-                    </world>
-                </instance>
-                <instance type="Acercade" uid="4">
-                    <properties>
-                        <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
-                        <initial-frame>0</initial-frame>
-                        <collisions>Enabled</collisions>
-                    </properties>
-                    <instance-variables>
-                        <activo>false</activo>
-                    </instance-variables>
-                    <blend-mode>0</blend-mode>
-                    <effect-fallback>0</effect-fallback>
-                    <world>
-                        <x>1206</x>
-                        <y>662</y>
-                        <z>0</z>
-                        <width>140.448425293</width>
-                        <height>36.943660736</height>
-                        <depth>0</depth>
-                        <hotspotX>0.481481493</hotspotX>
-                        <hotspotY>0.508196712</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
