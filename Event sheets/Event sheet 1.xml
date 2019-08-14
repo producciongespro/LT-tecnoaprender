@@ -206,7 +206,7 @@
                         <condition id="3" name="On touched object" sid="904815767983051" type="Touch">
                             <param id="0" name="Object">Acercade</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="355862961482599" type="1986_info">
+                        <condition id="-8" name="Is boolean instance variable set" sid="355862961482599" type="Acercade">
                             <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
@@ -218,6 +218,10 @@
                         <action id="-4" name="Set layer visible" sid="717269006330517" type="System">
                             <param id="0" name="Layer">&quot;Modal&quot;</param>
                             <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="415679579799192" type="FondoModal">
+                            <param id="0" name="Animation">&quot;t1986&quot;</param>
+                            <param id="1" name="From">1</param>
                         </action>
                     </actions>
                 </event-block>
@@ -504,6 +508,30 @@
                             <param id="1" name="Visibility">1</param>
                         </action>
                         <action id="4" name="Set animation" sid="148080379424753" type="FondoModal">
+                            <param id="0" name="Animation">&quot;t2019&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="493807859605159">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="692220173960225" type="Touch">
+                            <param id="0" name="Object">2019_info</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="277578508498183" type="2019_info">
+                            <param id="0" name="Instance variable">activo</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="150522642355997" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="671603890514463" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="476741615409136" type="FondoModal">
                             <param id="0" name="Animation">&quot;t2019&quot;</param>
                             <param id="1" name="From">1</param>
                         </action>

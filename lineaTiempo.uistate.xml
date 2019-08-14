@@ -28,7 +28,7 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="0" path="object-folder/Sistema/" />
         <folder expanded="1" path="object-folder/Vinculos/" />
         <folder expanded="0" path="object-folder/Textos/" />
-        <folder expanded="1" path="object-folder/Botones/" />
+        <folder expanded="0" path="object-folder/Botones/" />
         <folder expanded="0" path="object-folder/Topes/" />
         <folder expanded="1" path="object-folder/Efectos/" />
         <folder expanded="1" path="layout-folder/" />
