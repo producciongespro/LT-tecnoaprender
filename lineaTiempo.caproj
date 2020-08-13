@@ -52,7 +52,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="352131915719937" speed="5">
-                        <frame duration="1" hotspotX="0" hotspotY="0" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Fondos\()_fondo.jpg" />
+                        <frame duration="1" hotspotX="0" hotspotY="0" original-source="C:\Users\luisc\Desktop\Materiales\Fondos\()_fondo.png" />
                     </animation>
                 </animation-folder>
             </object-type>
@@ -1147,36 +1147,14 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="btn_1986" sid="604746343181584">
+            <object-type name="btn_1985" sid="604746343181584">
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="315717245712547" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\BotonesSinSombra\Botones\()_circulo_1986.png">
-                            <collision-poly>
-                                <point x="0.225249" y="0.219767" />
-                                <point x="1" y="0.0983303" />
-                                <point x="1" y="0.735875" />
-                                <point x="1" y="1" />
-                                <point x="1" y="1" />
-                                <point x="1" y="1" />
-                                <point x="0.804605" y="1" />
-                                <point x="0.119034" y="1" />
-                            </collision-poly>
-                        </frame>
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\luisc\Desktop\Materiales\Botones\()_circulo_1985.png" />
                     </animation>
                     <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="336427912282127" speed="5">
-                        <frame duration="1" hotspotX="0.49359" hotspotY="0.487179" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Botones B\()_estado_1986.png">
-                            <collision-poly>
-                                <point x="0.438095" y="0.936893" />
-                                <point x="0.271429" y="0.592233" />
-                                <point x="0.314286" y="0.451456" />
-                                <point x="0.357143" y="0.393204" />
-                                <point x="0.438095" y="0.320388" />
-                                <point x="0.647619" y="0.262136" />
-                                <point x="0.947619" y="0.451456" />
-                                <point x="0.890476" y="0.883495" />
-                            </collision-poly>
-                        </frame>
+                        <frame duration="1" hotspotX="0.493506" hotspotY="0.487013" original-source="C:\Users\luisc\Desktop\Materiales\Botones B\()_estado_1985.png" />
                     </animation>
                 </animation-folder>
             </object-type>
@@ -1794,7 +1772,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="628436495379949" speed="5">
-                        <frame duration="1" hotspotX="0.503356" hotspotY="0.505119" original-source="C:\Users\logan24\Desktop\circulo.png" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.50505" original-source="C:\Users\luisc\Desktop\Materiales\Destello\()_Destello.png" />
                     </animation>
                 </animation-folder>
             </object-type>
@@ -1803,7 +1781,7 @@
     <families>
         <family name="BotonesFechas" plugin-id="Sprite" sid="781082159387860">
             <members>
-                <member>btn_1986</member>
+                <member>btn_1985</member>
                 <member>btn_1988</member>
                 <member>btn_1994</member>
                 <member>btn_1995</member>
