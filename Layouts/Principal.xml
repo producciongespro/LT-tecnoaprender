@@ -111,7 +111,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="1986_www" uid="48">
+                <instance type="web1985" uid="48">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -152,7 +152,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="1988_www" uid="50">
+                <instance type="web1988" uid="50">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -227,7 +227,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="1994_www" uid="52">
+                <instance type="web1993" uid="52">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -350,7 +350,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="2002_www" uid="55">
+                <instance type="web1995" uid="55">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -391,7 +391,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="2007_www" uid="56">
+                <instance type="web2004" uid="56">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -514,7 +514,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="2011_www" uid="59">
+                <instance type="web2008" uid="59">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -596,7 +596,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="2016_www" uid="61">
+                <instance type="web2015" uid="61">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -637,7 +637,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="2015_www" uid="62">
+                <instance type="web2011" uid="62">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -749,7 +749,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="2004_www" uid="65">
+                <instance type="web2002" uid="65">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -824,7 +824,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="1995_www" uid="67">
+                <instance type="web1994" uid="67">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -899,7 +899,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="2008_www" uid="69">
+                <instance type="web2007" uid="69">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -974,7 +974,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="2019_www" uid="71">
+                <instance type="web2016" uid="71">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -1155,6 +1155,47 @@
                         <height>228</height>
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="web2017" uid="24">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <instance-variables>
+                        <activo>false</activo>
+                    </instance-variables>
+                    <behavior-instances>
+                        <behavior-instance type="Physics">
+                            <properties>
+                                <immovable>No</immovable>
+                                <collision-mask>Use collision polygon</collision-mask>
+                                <prevent-rotation>No</prevent-rotation>
+                                <density>1</density>
+                                <friction>0.5</friction>
+                                <elasticity>0.2</elasticity>
+                                <linear-damping>0</linear-damping>
+                                <angular-damping>0.01</angular-damping>
+                                <bullet>No</bullet>
+                                <initial-state>Disabled</initial-state>
+                            </properties>
+                        </behavior-instance>
+                    </behavior-instances>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>960.487670898</x>
+                        <y>471.751495361</y>
+                        <z>0</z>
+                        <width>38</width>
+                        <height>26</height>
+                        <depth>0</depth>
+                        <hotspotX>0.492957741</hotspotX>
                         <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>

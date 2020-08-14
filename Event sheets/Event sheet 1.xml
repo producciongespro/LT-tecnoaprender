@@ -8,15 +8,15 @@
                 <event-block sid="507752833922809">
                     <conditions>
                         <condition id="3" name="On touched object" sid="463608765483023" type="Touch">
-                            <param id="0" name="Object">1986_www</param>
+                            <param id="0" name="Object">web1985</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="663190192553841" type="1986_www">
+                        <condition id="-8" name="Is boolean instance variable set" sid="663190192553841" type="web1985">
                             <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
                         <action id="8" name="Open URL in new window" sid="278708562153406" type="Browser">
-                            <param id="0" name="URL">&quot;http://www.fod.ac.cr/index.php?option=com_content&amp;view=article&amp;id=124&amp;Itemid=249&quot;</param>
+                            <param id="0" name="URL">&quot;http://www.mep.go.cr/&quot;</param>
                             <param id="1" name="Tag">&quot;_blank&quot;</param>
                         </action>
                     </actions>
@@ -24,9 +24,9 @@
                 <event-block sid="520704614421536">
                     <conditions>
                         <condition id="3" name="On touched object" sid="492238731301955" type="Touch">
-                            <param id="0" name="Object">1988_www</param>
+                            <param id="0" name="Object">web1988</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="637226839009177" type="1988_www">
+                        <condition id="-8" name="Is boolean instance variable set" sid="637226839009177" type="web1988">
                             <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
@@ -40,15 +40,15 @@
                 <event-block sid="932201020168529">
                     <conditions>
                         <condition id="3" name="On touched object" sid="483957474091849" type="Touch">
-                            <param id="0" name="Object">1994_www</param>
+                            <param id="0" name="Object">web1993</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="584949214841160" type="1994_www">
+                        <condition id="-8" name="Is boolean instance variable set" sid="584949214841160" type="web1993">
                             <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
                         <action id="8" name="Open URL in new window" sid="202424340348779" type="Browser">
-                            <param id="0" name="URL">&quot;http://www.cse.go.cr/sites/default/files/files/Politica%20Educativa%20hacia%20el%20Siglo%20XXI.pdf&quot;</param>
+                            <param id="0" name="URL"> &quot;https://bit.ly/32Fdwku&quot;</param>
                             <param id="1" name="Tag">&quot;_blank&quot;</param>
                         </action>
                     </actions>
@@ -56,9 +56,9 @@
                 <event-block sid="433698356609696">
                     <conditions>
                         <condition id="3" name="On touched object" sid="524737713120343" type="Touch">
-                            <param id="0" name="Object">1995_www</param>
+                            <param id="0" name="Object">web1994</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="409135736347280" type="1995_www">
+                        <condition id="-8" name="Is boolean instance variable set" sid="409135736347280" type="web1994">
                             <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
@@ -72,15 +72,15 @@
                 <event-block sid="332235044868270">
                     <conditions>
                         <condition id="3" name="On touched object" sid="244198624426839" type="Touch">
-                            <param id="0" name="Object">2002_www</param>
+                            <param id="0" name="Object">web1995</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="707942699510963" type="2002_www">
+                        <condition id="-8" name="Is boolean instance variable set" sid="707942699510963" type="web1995">
                             <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
                         <action id="8" name="Open URL in new window" sid="262223399851221" type="Browser">
-                            <param id="0" name="URL">&quot;http://cse.go.cr/sites/default/files/acuerdos/acta_14-2002.pdf&quot;</param>
+                            <param id="0" name="URL">&quot;http://www.mep.go.cr/&quot;</param>
                             <param id="1" name="Tag">&quot;_blank&quot;</param>
                         </action>
                     </actions>
@@ -88,15 +88,15 @@
                 <event-block sid="774995403596177">
                     <conditions>
                         <condition id="3" name="On touched object" sid="706638180792401" type="Touch">
-                            <param id="0" name="Object">2004_www</param>
+                            <param id="0" name="Object">web2002</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="624888221286591" type="2004_www">
+                        <condition id="-8" name="Is boolean instance variable set" sid="624888221286591" type="web2002">
                             <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
                         <action id="8" name="Open URL in new window" sid="378673195239983" type="Browser">
-                            <param id="0" name="URL">&quot;https://www.mep.go.cr/organigrama/promece&quot;</param>
+                            <param id="0" name="URL">&quot;http://cse.go.cr/sites/default/files/acuerdos/acta_14-2002.pdf&quot;</param>
                             <param id="1" name="Tag">&quot;_blank&quot;</param>
                         </action>
                     </actions>
@@ -104,15 +104,15 @@
                 <event-block sid="127029006680284">
                     <conditions>
                         <condition id="3" name="On touched object" sid="110956908883503" type="Touch">
-                            <param id="0" name="Object">2007_www</param>
+                            <param id="0" name="Object">web2004</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="973493714503493" type="2007_www">
+                        <condition id="-8" name="Is boolean instance variable set" sid="973493714503493" type="web2004">
                             <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
                         <action id="8" name="Open URL in new window" sid="493092741199173" type="Browser">
-                            <param id="0" name="URL">&quot;https://www.drea.co.cr/tags/direcci%c3%b3n-de-recursos-tecnol%c3%b3gicos&quot;</param>
+                            <param id="0" name="URL">&quot;https://www.mep.go.cr/organigrama/promece&quot;</param>
                             <param id="1" name="Tag">&quot;_blank&quot;</param>
                         </action>
                     </actions>
@@ -120,15 +120,15 @@
                 <event-block sid="294563278463183">
                     <conditions>
                         <condition id="3" name="On touched object" sid="441846030575497" type="Touch">
-                            <param id="0" name="Object">2008_www</param>
+                            <param id="0" name="Object">web2007</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="173008885435905" type="2008_www">
+                        <condition id="-8" name="Is boolean instance variable set" sid="173008885435905" type="web2007">
                             <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
                         <action id="8" name="Open URL in new window" sid="233571296207027" type="Browser">
-                            <param id="0" name="URL">&quot;https://sutel.go.cr/pagina/que-es-fonatel&quot;</param>
+                            <param id="0" name="URL">&quot;https://www.drea.co.cr/tags/direcci%c3%b3n-de-recursos-tecnol%c3%b3gicos&quot;</param>
                             <param id="1" name="Tag">&quot;_blank&quot;</param>
                         </action>
                     </actions>
@@ -136,15 +136,15 @@
                 <event-block sid="455210698117885">
                     <conditions>
                         <condition id="3" name="On touched object" sid="431245664452277" type="Touch">
-                            <param id="0" name="Object">2011_www</param>
+                            <param id="0" name="Object">web2008</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="975871645448433" type="2011_www">
+                        <condition id="-8" name="Is boolean instance variable set" sid="975871645448433" type="web2008">
                             <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
                         <action id="8" name="Open URL in new window" sid="361564007065504" type="Browser">
-                            <param id="0" name="URL">&quot;https://www.nacion.com/archivo/acuerdo-social-digital-hacia-una-sociedad-digital-inclusiva/FPQGGGDWXREFRDYO3HWNWVAJNA/story/&quot;</param>
+                            <param id="0" name="URL">&quot;https://sutel.go.cr/pagina/que-es-fonatel&quot;</param>
                             <param id="1" name="Tag">&quot;_blank&quot;</param>
                         </action>
                     </actions>
@@ -152,15 +152,15 @@
                 <event-block sid="975870769432744">
                     <conditions>
                         <condition id="3" name="On touched object" sid="461359837969028" type="Touch">
-                            <param id="0" name="Object">2015_www</param>
+                            <param id="0" name="Object">web2011</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="450280493008893" type="2015_www">
+                        <condition id="-8" name="Is boolean instance variable set" sid="450280493008893" type="web2011">
                             <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
                         <action id="8" name="Open URL in new window" sid="985888691740461" type="Browser">
-                            <param id="0" name="URL">&quot;https://www.mep.go.cr/sites/default/files/folleto-pntm.pdf&quot;</param>
+                            <param id="0" name="URL">&quot;https://bit.ly/3fR91Hh&quot;</param>
                             <param id="1" name="Tag">&quot;_blank&quot;</param>
                         </action>
                     </actions>
@@ -168,9 +168,9 @@
                 <event-block sid="594200550916581">
                     <conditions>
                         <condition id="3" name="On touched object" sid="659807853262004" type="Touch">
-                            <param id="0" name="Object">2016_www</param>
+                            <param id="0" name="Object">web2015</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="439130895704410" type="2016_www">
+                        <condition id="-8" name="Is boolean instance variable set" sid="439130895704410" type="web2015">
                             <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
@@ -184,15 +184,31 @@
                 <event-block sid="503127126839946">
                     <conditions>
                         <condition id="3" name="On touched object" sid="524394525674313" type="Touch">
-                            <param id="0" name="Object">2019_www</param>
+                            <param id="0" name="Object">web2016</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="844867451116066" type="2019_www">
+                        <condition id="-8" name="Is boolean instance variable set" sid="844867451116066" type="web2016">
                             <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
                         <action id="8" name="Open URL in new window" sid="411637502384550" type="Browser">
-                            <param id="0" name="URL">&quot;https://www.drea.co.cr/sites/default/files/Contenido/2016%2004%2025%20Resoluci%c3%b3n%20Dm-1190-04-2016%20Traslado%20del%20programa%20a%20DRTE.pdf&quot;</param>
+                            <param id="0" name="URL">&quot;https://bit.ly/2WSRFl5&quot;</param>
+                            <param id="1" name="Tag">&quot;_blank&quot;</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="237859632442360">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="647002217492822" type="Touch">
+                            <param id="0" name="Object">web2017</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="576880510610606" type="web2017">
+                            <param id="0" name="Instance variable">activo</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="8" name="Open URL in new window" sid="526772250480910" type="Browser">
+                            <param id="0" name="URL">&quot;https://bit.ly/3fOqxwa&quot;</param>
                             <param id="1" name="Tag">&quot;_blank&quot;</param>
                         </action>
                     </actions>
@@ -583,7 +599,7 @@
                         <condition id="3" name="On touched object" sid="243965635966385" type="Touch">
                             <param id="0" name="Object">btn_1988</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="423865390478337" type="1988_www">
+                        <condition id="-8" name="Is boolean instance variable set" sid="423865390478337" type="web1988">
                             <param id="0" name="Instance variable">deslizador</param>
                         </condition>
                     </conditions>
@@ -595,7 +611,7 @@
                         <action behavior="Bullet" id="5" name="Set enabled" sid="718011876516521" type="1988_info">
                             <param id="0" name="State">1</param>
                         </action>
-                        <action behavior="Bullet" id="5" name="Set enabled" sid="999462712861559" type="1988_www">
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="999462712861559" type="web1988">
                             <param id="0" name="State">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="608499220991117" type="System">
@@ -612,7 +628,7 @@
                         <condition id="3" name="On touched object" sid="785156273189250" type="Touch">
                             <param id="0" name="Object">btn_1994</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="819585514251375" type="1995_www">
+                        <condition id="-8" name="Is boolean instance variable set" sid="819585514251375" type="web1994">
                             <param id="0" name="Instance variable">deslizador</param>
                         </condition>
                     </conditions>
@@ -624,7 +640,7 @@
                         <action behavior="Bullet" id="5" name="Set enabled" sid="620070548663610" type="1995_info">
                             <param id="0" name="State">1</param>
                         </action>
-                        <action behavior="Bullet" id="5" name="Set enabled" sid="757480564204851" type="1995_www">
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="757480564204851" type="web1994">
                             <param id="0" name="State">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="671577074096962" type="System">
@@ -641,7 +657,7 @@
                         <condition id="3" name="On touched object" sid="406573219940991" type="Touch">
                             <param id="0" name="Object">btn_2002</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="297096372902989" type="2004_www">
+                        <condition id="-8" name="Is boolean instance variable set" sid="297096372902989" type="web2002">
                             <param id="0" name="Instance variable">deslizador</param>
                         </condition>
                     </conditions>
@@ -653,7 +669,7 @@
                         <action behavior="Bullet" id="5" name="Set enabled" sid="878940674241197" type="2004_info">
                             <param id="0" name="State">1</param>
                         </action>
-                        <action behavior="Bullet" id="5" name="Set enabled" sid="574180177918321" type="2004_www">
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="574180177918321" type="web2002">
                             <param id="0" name="State">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="560484368551450" type="System">
@@ -670,7 +686,7 @@
                         <condition id="3" name="On touched object" sid="369759634366567" type="Touch">
                             <param id="0" name="Object">btn_2007</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="895302925950378" type="2008_www">
+                        <condition id="-8" name="Is boolean instance variable set" sid="895302925950378" type="web2007">
                             <param id="0" name="Instance variable">deslizador</param>
                         </condition>
                     </conditions>
@@ -682,7 +698,7 @@
                         <action behavior="Bullet" id="5" name="Set enabled" sid="600319099033906" type="2008_info">
                             <param id="0" name="State">1</param>
                         </action>
-                        <action behavior="Bullet" id="5" name="Set enabled" sid="747581375892031" type="2008_www">
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="747581375892031" type="web2007">
                             <param id="0" name="State">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="373613862158691" type="System">
@@ -699,7 +715,7 @@
                         <condition id="3" name="On touched object" sid="763446244567911" type="Touch">
                             <param id="0" name="Object">btn_2011</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="187998084769030" type="2015_www">
+                        <condition id="-8" name="Is boolean instance variable set" sid="187998084769030" type="web2011">
                             <param id="0" name="Instance variable">deslizador</param>
                         </condition>
                     </conditions>
@@ -711,7 +727,7 @@
                         <action behavior="Bullet" id="5" name="Set enabled" sid="354847297453827" type="2015_info">
                             <param id="0" name="State">1</param>
                         </action>
-                        <action behavior="Bullet" id="5" name="Set enabled" sid="626318796432943" type="2015_www">
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="626318796432943" type="web2011">
                             <param id="0" name="State">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="270736306332225" type="System">
@@ -728,7 +744,7 @@
                         <condition id="3" name="On touched object" sid="237336764806903" type="Touch">
                             <param id="0" name="Object">btn_2016</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="269291816717559" type="2019_www">
+                        <condition id="-8" name="Is boolean instance variable set" sid="269291816717559" type="web2016">
                             <param id="0" name="Instance variable">deslizador</param>
                         </condition>
                     </conditions>
@@ -740,7 +756,7 @@
                         <action behavior="Bullet" id="5" name="Set enabled" sid="199206566824276" type="2019_info">
                             <param id="0" name="State">1</param>
                         </action>
-                        <action behavior="Bullet" id="5" name="Set enabled" sid="383024003871076" type="2019_www">
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="383024003871076" type="web2016">
                             <param id="0" name="State">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="543076601262309" type="System">
@@ -766,7 +782,7 @@
                         <action behavior="Physics" id="27" name="Set enabled" sid="295008760608800" type="1986_info">
                             <param id="0" name="Mode">1</param>
                         </action>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="275732147201260" type="1986_www">
+                        <action behavior="Physics" id="27" name="Set enabled" sid="275732147201260" type="web1985">
                             <param id="0" name="Mode">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="558266358105409" type="System">
@@ -792,7 +808,7 @@
                         <action behavior="Physics" id="27" name="Set enabled" sid="592819517100953" type="1994_info">
                             <param id="0" name="Mode">1</param>
                         </action>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="271315080661982" type="1994_www">
+                        <action behavior="Physics" id="27" name="Set enabled" sid="271315080661982" type="web1993">
                             <param id="0" name="Mode">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="493906356405651" type="System">
@@ -818,7 +834,7 @@
                         <action behavior="Physics" id="27" name="Set enabled" sid="618889822292137" type="2002_info">
                             <param id="0" name="Mode">1</param>
                         </action>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="516203037575752" type="2002_www">
+                        <action behavior="Physics" id="27" name="Set enabled" sid="516203037575752" type="web1995">
                             <param id="0" name="Mode">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="434261388870621" type="System">
@@ -844,7 +860,7 @@
                         <action behavior="Physics" id="27" name="Set enabled" sid="255055783131902" type="2007_info">
                             <param id="0" name="Mode">1</param>
                         </action>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="703330623408828" type="2007_www">
+                        <action behavior="Physics" id="27" name="Set enabled" sid="703330623408828" type="web2004">
                             <param id="0" name="Mode">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="635105609754664" type="System">
@@ -870,7 +886,7 @@
                         <action behavior="Physics" id="27" name="Set enabled" sid="689998487069388" type="2011_info">
                             <param id="0" name="Mode">1</param>
                         </action>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="453344273259493" type="2011_www">
+                        <action behavior="Physics" id="27" name="Set enabled" sid="453344273259493" type="web2008">
                             <param id="0" name="Mode">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="128517287750806" type="System">
@@ -896,7 +912,7 @@
                         <action behavior="Physics" id="27" name="Set enabled" sid="410263665379355" type="2016_info">
                             <param id="0" name="Mode">1</param>
                         </action>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="613344115519393" type="2016_www">
+                        <action behavior="Physics" id="27" name="Set enabled" sid="613344115519393" type="web2015">
                             <param id="0" name="Mode">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="180428619005993" type="System">
@@ -941,26 +957,26 @@
                 </event-block>
                 <event-block sid="523304373483899">
                     <conditions>
-                        <condition id="0" name="On collision with another object" sid="704203858366697" type="1986_www">
+                        <condition id="0" name="On collision with another object" sid="704203858366697" type="web1985">
                             <param id="0" name="Object">Topeinferior1</param>
                         </condition>
                     </conditions>
                     <actions>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="191940868113097" type="1986_www">
+                        <action behavior="Physics" id="27" name="Set enabled" sid="191940868113097" type="web1985">
                             <param id="0" name="Mode">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="323295000920907" type="1986_www">
+                        <action id="-13" name="Set boolean" sid="323295000920907" type="web1985">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="128249495230858" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="336797192451623" type="1986_www">
+                        <action id="-3" name="Set position" sid="336797192451623" type="web1985">
                             <param id="0" name="X">94</param>
                             <param id="1" name="Y">496</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="584433011201297" type="1986_www">
+                        <action id="-13" name="Set boolean" sid="584433011201297" type="web1985">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
                         </action>
@@ -995,26 +1011,26 @@
                 </event-block>
                 <event-block sid="110692630178983">
                     <conditions>
-                        <condition id="0" name="On collision with another object" sid="202475127653901" type="1994_www">
+                        <condition id="0" name="On collision with another object" sid="202475127653901" type="web1993">
                             <param id="0" name="Object">Topeinferior1</param>
                         </condition>
                     </conditions>
                     <actions>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="671946040129555" type="1994_www">
+                        <action behavior="Physics" id="27" name="Set enabled" sid="671946040129555" type="web1993">
                             <param id="0" name="Mode">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="509289182711398" type="1994_www">
+                        <action id="-13" name="Set boolean" sid="509289182711398" type="web1993">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="100774560814242" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="728505704516169" type="1994_www">
+                        <action id="-3" name="Set position" sid="728505704516169" type="web1993">
                             <param id="0" name="X">278</param>
                             <param id="1" name="Y">492</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="181198448109482" type="1994_www">
+                        <action id="-13" name="Set boolean" sid="181198448109482" type="web1993">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
                         </action>
@@ -1049,26 +1065,26 @@
                 </event-block>
                 <event-block sid="105105287813653">
                     <conditions>
-                        <condition id="0" name="On collision with another object" sid="940707860284860" type="2002_www">
+                        <condition id="0" name="On collision with another object" sid="940707860284860" type="web1995">
                             <param id="0" name="Object">Topeinferior1</param>
                         </condition>
                     </conditions>
                     <actions>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="770931340758632" type="2002_www">
+                        <action behavior="Physics" id="27" name="Set enabled" sid="770931340758632" type="web1995">
                             <param id="0" name="Mode">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="490027355919580" type="2002_www">
+                        <action id="-13" name="Set boolean" sid="490027355919580" type="web1995">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="920406285286691" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="148668725767808" type="2002_www">
+                        <action id="-3" name="Set position" sid="148668725767808" type="web1995">
                             <param id="0" name="X">472</param>
                             <param id="1" name="Y">496</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="958316959606603" type="2002_www">
+                        <action id="-13" name="Set boolean" sid="958316959606603" type="web1995">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
                         </action>
@@ -1103,26 +1119,26 @@
                 </event-block>
                 <event-block sid="683689400216472">
                     <conditions>
-                        <condition id="0" name="On collision with another object" sid="312855375256504" type="2007_www">
+                        <condition id="0" name="On collision with another object" sid="312855375256504" type="web2004">
                             <param id="0" name="Object">Topeinferior1</param>
                         </condition>
                     </conditions>
                     <actions>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="494973542091815" type="2007_www">
+                        <action behavior="Physics" id="27" name="Set enabled" sid="494973542091815" type="web2004">
                             <param id="0" name="Mode">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="763515881974377" type="2007_www">
+                        <action id="-13" name="Set boolean" sid="763515881974377" type="web2004">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="754744064504261" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="725298881841774" type="2007_www">
+                        <action id="-3" name="Set position" sid="725298881841774" type="web2004">
                             <param id="0" name="X">661</param>
                             <param id="1" name="Y">503</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="298024237337784" type="2007_www">
+                        <action id="-13" name="Set boolean" sid="298024237337784" type="web2004">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
                         </action>
@@ -1157,26 +1173,26 @@
                 </event-block>
                 <event-block sid="634711291272457">
                     <conditions>
-                        <condition id="0" name="On collision with another object" sid="623924829440671" type="2011_www">
+                        <condition id="0" name="On collision with another object" sid="623924829440671" type="web2008">
                             <param id="0" name="Object">Topeinferior1</param>
                         </condition>
                     </conditions>
                     <actions>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="892864938702009" type="2011_www">
+                        <action behavior="Physics" id="27" name="Set enabled" sid="892864938702009" type="web2008">
                             <param id="0" name="Mode">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="155769369287562" type="2011_www">
+                        <action id="-13" name="Set boolean" sid="155769369287562" type="web2008">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="191529595468199" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="610770642877166" type="2011_www">
+                        <action id="-3" name="Set position" sid="610770642877166" type="web2008">
                             <param id="0" name="X">856</param>
                             <param id="1" name="Y">495</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="547383248989442" type="2011_www">
+                        <action id="-13" name="Set boolean" sid="547383248989442" type="web2008">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
                         </action>
@@ -1211,26 +1227,26 @@
                 </event-block>
                 <event-block sid="832732908978825">
                     <conditions>
-                        <condition id="0" name="On collision with another object" sid="354387113786983" type="2016_www">
+                        <condition id="0" name="On collision with another object" sid="354387113786983" type="web2015">
                             <param id="0" name="Object">Topeinferior1</param>
                         </condition>
                     </conditions>
                     <actions>
-                        <action behavior="Physics" id="27" name="Set enabled" sid="949570616782553" type="2016_www">
+                        <action behavior="Physics" id="27" name="Set enabled" sid="949570616782553" type="web2015">
                             <param id="0" name="Mode">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="336256099235476" type="2016_www">
+                        <action id="-13" name="Set boolean" sid="336256099235476" type="web2015">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="785614556491824" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="504612710692117" type="2016_www">
+                        <action id="-3" name="Set position" sid="504612710692117" type="web2015">
                             <param id="0" name="X">1046</param>
                             <param id="1" name="Y">507</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="860944558517843" type="2016_www">
+                        <action id="-13" name="Set boolean" sid="860944558517843" type="web2015">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
                         </action>
@@ -1265,34 +1281,34 @@
                 </event-block>
                 <event-block sid="705173624734855">
                     <conditions>
-                        <condition id="0" name="On collision with another object" sid="666846418655212" type="1988_www">
+                        <condition id="0" name="On collision with another object" sid="666846418655212" type="web1988">
                             <param id="0" name="Object">Topesuperior1</param>
                         </condition>
                     </conditions>
                     <actions>
-                        <action id="-13" name="Set boolean" sid="362402901955074" type="1988_www">
+                        <action id="-13" name="Set boolean" sid="362402901955074" type="web1988">
                             <param id="0" name="Instance variable">deslizador</param>
                             <param id="1" name="Value">0</param>
                         </action>
-                        <action behavior="Bullet" id="5" name="Set enabled" sid="582467555812737" type="1988_www">
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="582467555812737" type="web1988">
                             <param id="0" name="State">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="561852576539939" type="1988_www">
+                        <action id="-13" name="Set boolean" sid="561852576539939" type="web1988">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="941636254111075" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="936118375555327" type="1988_www">
+                        <action id="-3" name="Set position" sid="936118375555327" type="web1988">
                             <param id="0" name="X">184</param>
                             <param id="1" name="Y">384</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="610258497293108" type="1988_www">
+                        <action id="-13" name="Set boolean" sid="610258497293108" type="web1988">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="827387627224549" type="1988_www">
+                        <action id="-13" name="Set boolean" sid="827387627224549" type="web1988">
                             <param id="0" name="Instance variable">deslizador</param>
                             <param id="1" name="Value">1</param>
                         </action>
@@ -1327,34 +1343,34 @@
                 </event-block>
                 <event-block sid="995695881309602">
                     <conditions>
-                        <condition id="0" name="On collision with another object" sid="581192897346565" type="1995_www">
+                        <condition id="0" name="On collision with another object" sid="581192897346565" type="web1994">
                             <param id="0" name="Object">Topesuperior1</param>
                         </condition>
                     </conditions>
                     <actions>
-                        <action id="-13" name="Set boolean" sid="728003846174706" type="1995_www">
+                        <action id="-13" name="Set boolean" sid="728003846174706" type="web1994">
                             <param id="0" name="Instance variable">deslizador</param>
                             <param id="1" name="Value">0</param>
                         </action>
-                        <action behavior="Bullet" id="5" name="Set enabled" sid="773090390016464" type="1995_www">
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="773090390016464" type="web1994">
                             <param id="0" name="State">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="934251885488594" type="1995_www">
+                        <action id="-13" name="Set boolean" sid="934251885488594" type="web1994">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="884656178879547" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="682409323720505" type="1995_www">
+                        <action id="-3" name="Set position" sid="682409323720505" type="web1994">
                             <param id="0" name="X">375</param>
                             <param id="1" name="Y">399</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="627968326574843" type="1995_www">
+                        <action id="-13" name="Set boolean" sid="627968326574843" type="web1994">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="413740504494110" type="1995_www">
+                        <action id="-13" name="Set boolean" sid="413740504494110" type="web1994">
                             <param id="0" name="Instance variable">deslizador</param>
                             <param id="1" name="Value">1</param>
                         </action>
@@ -1389,34 +1405,34 @@
                 </event-block>
                 <event-block sid="973954752860722">
                     <conditions>
-                        <condition id="0" name="On collision with another object" sid="265931002823418" type="2004_www">
+                        <condition id="0" name="On collision with another object" sid="265931002823418" type="web2002">
                             <param id="0" name="Object">Topesuperior1</param>
                         </condition>
                     </conditions>
                     <actions>
-                        <action id="-13" name="Set boolean" sid="597755129723999" type="2004_www">
+                        <action id="-13" name="Set boolean" sid="597755129723999" type="web2002">
                             <param id="0" name="Instance variable">deslizador</param>
                             <param id="1" name="Value">0</param>
                         </action>
-                        <action behavior="Bullet" id="5" name="Set enabled" sid="486562970046848" type="2004_www">
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="486562970046848" type="web2002">
                             <param id="0" name="State">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="706461057505025" type="2004_www">
+                        <action id="-13" name="Set boolean" sid="706461057505025" type="web2002">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="974958962618491" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="174697799157468" type="2004_www">
+                        <action id="-3" name="Set position" sid="174697799157468" type="web2002">
                             <param id="0" name="X">571</param>
                             <param id="1" name="Y">401</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="829311642660767" type="2004_www">
+                        <action id="-13" name="Set boolean" sid="829311642660767" type="web2002">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="774468231176071" type="2004_www">
+                        <action id="-13" name="Set boolean" sid="774468231176071" type="web2002">
                             <param id="0" name="Instance variable">deslizador</param>
                             <param id="1" name="Value">1</param>
                         </action>
@@ -1451,34 +1467,34 @@
                 </event-block>
                 <event-block sid="816094110156487">
                     <conditions>
-                        <condition id="0" name="On collision with another object" sid="653434094226902" type="2008_www">
+                        <condition id="0" name="On collision with another object" sid="653434094226902" type="web2007">
                             <param id="0" name="Object">Topesuperior1</param>
                         </condition>
                     </conditions>
                     <actions>
-                        <action id="-13" name="Set boolean" sid="887227955187356" type="2008_www">
+                        <action id="-13" name="Set boolean" sid="887227955187356" type="web2007">
                             <param id="0" name="Instance variable">deslizador</param>
                             <param id="1" name="Value">0</param>
                         </action>
-                        <action behavior="Bullet" id="5" name="Set enabled" sid="460242991587599" type="2008_www">
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="460242991587599" type="web2007">
                             <param id="0" name="State">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="935205407850169" type="2008_www">
+                        <action id="-13" name="Set boolean" sid="935205407850169" type="web2007">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="114159213539118" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="654909107461062" type="2008_www">
+                        <action id="-3" name="Set position" sid="654909107461062" type="web2007">
                             <param id="0" name="X">760</param>
                             <param id="1" name="Y">395</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="308205824030211" type="2008_www">
+                        <action id="-13" name="Set boolean" sid="308205824030211" type="web2007">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="638179953349575" type="2008_www">
+                        <action id="-13" name="Set boolean" sid="638179953349575" type="web2007">
                             <param id="0" name="Instance variable">deslizador</param>
                             <param id="1" name="Value">1</param>
                         </action>
@@ -1513,34 +1529,34 @@
                 </event-block>
                 <event-block sid="736994855478830">
                     <conditions>
-                        <condition id="0" name="On collision with another object" sid="709324133998224" type="2015_www">
+                        <condition id="0" name="On collision with another object" sid="709324133998224" type="web2011">
                             <param id="0" name="Object">Topesuperior1</param>
                         </condition>
                     </conditions>
                     <actions>
-                        <action id="-13" name="Set boolean" sid="608387330580386" type="2015_www">
+                        <action id="-13" name="Set boolean" sid="608387330580386" type="web2011">
                             <param id="0" name="Instance variable">deslizador</param>
                             <param id="1" name="Value">0</param>
                         </action>
-                        <action behavior="Bullet" id="5" name="Set enabled" sid="339335296737836" type="2015_www">
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="339335296737836" type="web2011">
                             <param id="0" name="State">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="523333452574063" type="2015_www">
+                        <action id="-13" name="Set boolean" sid="523333452574063" type="web2011">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="881060994024114" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="612853126518374" type="2015_www">
+                        <action id="-3" name="Set position" sid="612853126518374" type="web2011">
                             <param id="0" name="X">953</param>
                             <param id="1" name="Y">391</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="236160321116084" type="2015_www">
+                        <action id="-13" name="Set boolean" sid="236160321116084" type="web2011">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="505169221238914" type="2015_www">
+                        <action id="-13" name="Set boolean" sid="505169221238914" type="web2011">
                             <param id="0" name="Instance variable">deslizador</param>
                             <param id="1" name="Value">1</param>
                         </action>
@@ -1575,34 +1591,34 @@
                 </event-block>
                 <event-block sid="298381784703949">
                     <conditions>
-                        <condition id="0" name="On collision with another object" sid="986412769827024" type="2019_www">
+                        <condition id="0" name="On collision with another object" sid="986412769827024" type="web2016">
                             <param id="0" name="Object">Topesuperior1</param>
                         </condition>
                     </conditions>
                     <actions>
-                        <action id="-13" name="Set boolean" sid="212808142334204" type="2019_www">
+                        <action id="-13" name="Set boolean" sid="212808142334204" type="web2016">
                             <param id="0" name="Instance variable">deslizador</param>
                             <param id="1" name="Value">0</param>
                         </action>
-                        <action behavior="Bullet" id="5" name="Set enabled" sid="947492644357121" type="2019_www">
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="947492644357121" type="web2016">
                             <param id="0" name="State">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="914492763387952" type="2019_www">
+                        <action id="-13" name="Set boolean" sid="914492763387952" type="web2016">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="421080612354581" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="530653384695275" type="2019_www">
+                        <action id="-3" name="Set position" sid="530653384695275" type="web2016">
                             <param id="0" name="X">1145</param>
                             <param id="1" name="Y">397</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="946450596241337" type="2019_www">
+                        <action id="-13" name="Set boolean" sid="946450596241337" type="web2016">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="192401848032864" type="2019_www">
+                        <action id="-13" name="Set boolean" sid="192401848032864" type="web2016">
                             <param id="0" name="Instance variable">deslizador</param>
                             <param id="1" name="Value">1</param>
                         </action>
