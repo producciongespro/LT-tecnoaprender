@@ -1190,7 +1190,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>83.01839447</x>
-                        <y>473.635498047</y>
+                        <y>474</y>
                         <z>0</z>
                         <width>98</width>
                         <height>98</height>
@@ -1201,7 +1201,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="btn_1994" uid="14">
+                <instance type="btn_1993" uid="14">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -1211,8 +1211,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>236.670135498</x>
-                        <y>472.67086792</y>
+                        <x>233.670135498</x>
+                        <y>474</y>
                         <z>0</z>
                         <width>98</width>
                         <height>98</height>
@@ -1223,7 +1223,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="btn_2002" uid="16">
+                <instance type="btn_1995" uid="16">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -1234,7 +1234,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>385.279296875</x>
-                        <y>466.050354004</y>
+                        <y>474</y>
                         <z>0</z>
                         <width>98</width>
                         <height>98</height>
@@ -1245,7 +1245,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="btn_2007" uid="18">
+                <instance type="btn_2004" uid="18">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -1256,7 +1256,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>534.286437988</x>
-                        <y>471.211669922</y>
+                        <y>474</y>
                         <z>0</z>
                         <width>98</width>
                         <height>98</height>
@@ -1267,7 +1267,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="btn_2011" uid="20">
+                <instance type="btn_2008" uid="20">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -1277,8 +1277,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>686.782287598</x>
-                        <y>473.132110596</y>
+                        <x>685.782287598</x>
+                        <y>474</y>
                         <z>0</z>
                         <width>98</width>
                         <height>98</height>
@@ -1289,7 +1289,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="btn_2016" uid="22">
+                <instance type="btn_2015" uid="22">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -1300,7 +1300,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>832.340820313</x>
-                        <y>475.324890137</y>
+                        <y>474</y>
                         <z>0</z>
                         <width>98</width>
                         <height>98</height>
@@ -1311,7 +1311,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="btn_2019" uid="23">
+                <instance type="btn_2016" uid="23">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -1322,7 +1322,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>911.985778809</x>
-                        <y>368.631988525</y>
+                        <y>368</y>
                         <z>0</z>
                         <width>98</width>
                         <height>98</height>
@@ -1333,7 +1333,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="btn_2015" uid="21">
+                <instance type="btn_2011" uid="21">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -1344,7 +1344,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>765.928466797</x>
-                        <y>370.025421143</y>
+                        <y>368</y>
                         <z>0</z>
                         <width>98</width>
                         <height>98</height>
@@ -1355,7 +1355,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="btn_2008" uid="19">
+                <instance type="btn_2007" uid="19">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -1366,7 +1366,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>610.643005371</x>
-                        <y>368.008178711</y>
+                        <y>368</y>
                         <z>0</z>
                         <width>98</width>
                         <height>98</height>
@@ -1377,7 +1377,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="btn_2004" uid="17">
+                <instance type="btn_2002" uid="17">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -1388,7 +1388,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>459.170410156</x>
-                        <y>368.007080078</y>
+                        <y>368</y>
                         <z>0</z>
                         <width>98</width>
                         <height>98</height>
@@ -1399,7 +1399,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="btn_1995" uid="15">
+                <instance type="btn_1994" uid="15">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -1410,7 +1410,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>306.225860596</x>
-                        <y>370.781005859</y>
+                        <y>368</y>
                         <z>0</z>
                         <width>98</width>
                         <height>98</height>
@@ -1432,7 +1432,51 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>161.297698975</x>
-                        <y>365.22277832</y>
+                        <y>368</y>
+                        <z>0</z>
+                        <width>98</width>
+                        <height>98</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="btn2017" uid="8">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>985.355163574</x>
+                        <y>474</y>
+                        <z>0</z>
+                        <width>98</width>
+                        <height>98</height>
+                        <depth>0</depth>
+                        <hotspotX>0.5</hotspotX>
+                        <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="btn2020" uid="9">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>1066.493774414</x>
+                        <y>368</y>
                         <z>0</z>
                         <width>98</width>
                         <height>98</height>

@@ -81,6 +81,7 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="1" path="animation-folder/btn_1986_pres/" />
         <folder expanded="1" path="animation-folder/btn_1985/" />
         <folder expanded="1" path="animation-folder/btn_1988/" />
+        <folder expanded="1" path="animation-folder/btn_1993/" />
         <folder expanded="1" path="animation-folder/btn_1994/" />
         <folder expanded="1" path="animation-folder/btn_1995/" />
         <folder expanded="1" path="animation-folder/btn_2002/" />
@@ -90,7 +91,6 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="1" path="animation-folder/btn_2011/" />
         <folder expanded="1" path="animation-folder/btn_2015/" />
         <folder expanded="1" path="animation-folder/btn_2016/" />
-        <folder expanded="1" path="animation-folder/btn_2019/" />
         <folder expanded="1" path="animation-folder/btn_1988_pres/" />
         <folder expanded="1" path="animation-folder/btn_1994_pres/" />
         <folder expanded="1" path="animation-folder/btn_1995_pres/" />
@@ -103,6 +103,8 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="1" path="animation-folder/btn_2016_pres/" />
         <folder expanded="1" path="animation-folder/btn_2019_pres/" />
         <folder expanded="1" path="animation-folder/bonon_1986/" />
+        <folder expanded="1" path="animation-folder/btn2017/" />
+        <folder expanded="1" path="animation-folder/btn2020/" />
         <folder expanded="1" path="animation-folder/Topeinferior1/" />
         <folder expanded="1" path="animation-folder/Topesuperior1/" />
         <folder expanded="1" path="animation-folder/destello/" />
