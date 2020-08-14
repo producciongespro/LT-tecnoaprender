@@ -40,31 +40,32 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="1" path="animation-folder/Principal/" />
         <folder expanded="1" path="animation-folder/FondoModal/" />
         <folder expanded="1" path="animation-folder/web1985/" />
-        <folder expanded="1" path="animation-folder/1986_info/" />
+        <folder expanded="1" path="animation-folder/info1985/" />
         <folder expanded="1" path="animation-folder/web1988/" />
-        <folder expanded="1" path="animation-folder/1988_info/" />
+        <folder expanded="1" path="animation-folder/info1988/" />
         <folder expanded="1" path="animation-folder/web1993/" />
-        <folder expanded="1" path="animation-folder/1994_info/" />
-        <folder expanded="1" path="animation-folder/2002_info/" />
+        <folder expanded="1" path="animation-folder/info1993/" />
+        <folder expanded="1" path="animation-folder/ibfo1995/" />
         <folder expanded="1" path="animation-folder/web1995/" />
         <folder expanded="1" path="animation-folder/web2004/" />
-        <folder expanded="1" path="animation-folder/2007_info/" />
-        <folder expanded="1" path="animation-folder/2011_info/" />
+        <folder expanded="1" path="animation-folder/info2004/" />
+        <folder expanded="1" path="animation-folder/info2008/" />
         <folder expanded="1" path="animation-folder/web2008/" />
-        <folder expanded="1" path="animation-folder/2016_info/" />
+        <folder expanded="1" path="animation-folder/info2015/" />
         <folder expanded="1" path="animation-folder/web2015/" />
         <folder expanded="1" path="animation-folder/web2011/" />
-        <folder expanded="1" path="animation-folder/2015_info/" />
-        <folder expanded="1" path="animation-folder/2004_info/" />
+        <folder expanded="1" path="animation-folder/info2011/" />
+        <folder expanded="1" path="animation-folder/info2002/" />
         <folder expanded="1" path="animation-folder/web2002/" />
-        <folder expanded="1" path="animation-folder/1995_info/" />
+        <folder expanded="1" path="animation-folder/info1994/" />
         <folder expanded="1" path="animation-folder/web1994/" />
-        <folder expanded="1" path="animation-folder/2008_info/" />
+        <folder expanded="1" path="animation-folder/info2007/" />
         <folder expanded="1" path="animation-folder/web2007/" />
-        <folder expanded="1" path="animation-folder/2019_info/" />
+        <folder expanded="1" path="animation-folder/info2016/" />
         <folder expanded="1" path="animation-folder/web2016/" />
         <folder expanded="1" path="animation-folder/Acercade/" />
         <folder expanded="1" path="animation-folder/web2017/" />
+        <folder expanded="1" path="animation-folder/info2017/" />
         <folder expanded="1" path="animation-folder/text_1994/" />
         <folder expanded="1" path="animation-folder/text_2007/" />
         <folder expanded="1" path="animation-folder/text_2016/" />

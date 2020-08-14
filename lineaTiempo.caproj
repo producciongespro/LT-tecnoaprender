@@ -249,7 +249,7 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="1986_info" sid="712294508185966">
+            <object-type name="info1985" sid="712294508185966">
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="566009913952149" type="boolean" />
@@ -304,7 +304,7 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="1988_info" sid="540490038108784">
+            <object-type name="info1988" sid="540490038108784">
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="240386883639549" type="boolean" />
@@ -359,7 +359,7 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="1994_info" sid="767026278661965">
+            <object-type name="info1993" sid="767026278661965">
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="663263248553778" type="boolean" />
@@ -386,7 +386,7 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="2002_info" sid="376295046171193">
+            <object-type name="ibfo1995" sid="376295046171193">
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="882434043819330" type="boolean" />
@@ -467,7 +467,7 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="2007_info" sid="617641024476367">
+            <object-type name="info2004" sid="617641024476367">
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="524488260194102" type="boolean" />
@@ -494,7 +494,7 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="2011_info" sid="104426768203518">
+            <object-type name="info2008" sid="104426768203518">
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="805982148925999" type="boolean" />
@@ -548,7 +548,7 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="2016_info" sid="370950253650005">
+            <object-type name="info2015" sid="370950253650005">
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="152355899316979" type="boolean" />
@@ -630,7 +630,7 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="2015_info" sid="991102543527756">
+            <object-type name="info2011" sid="991102543527756">
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="784686626673710" type="boolean" />
@@ -657,7 +657,7 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="2004_info" sid="500888929704968">
+            <object-type name="info2002" sid="500888929704968">
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="142385377778220" type="boolean" />
@@ -712,7 +712,7 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="1995_info" sid="674866158062501">
+            <object-type name="info1994" sid="674866158062501">
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="176144526874787" type="boolean" />
@@ -767,7 +767,7 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="2008_info" sid="492280566311026">
+            <object-type name="info2007" sid="492280566311026">
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="785867697239739" type="boolean" />
@@ -822,7 +822,7 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="2019_info" sid="633638906769428">
+            <object-type name="info2016" sid="633638906769428">
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="834547928014776" type="boolean" />
@@ -935,6 +935,33 @@
                                 <point x="0.492958" y="0.95" />
                                 <point x="0.140845" y="0.9" />
                                 <point x="0.028169" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="info2017" sid="804401165216638">
+                <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="482359315556403" type="boolean" />
+                </instance-variables>
+                <behaviors>
+                    <behavior-type name="Physics" sid="500225735372546">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="932468203362221" speed="5">
+                        <frame duration="1" hotspotX="0.506329" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.v.png">
+                            <collision-poly>
+                                <point x="0.113924" y="0.0499998" />
+                                <point x="0.49367" y="0.0499998" />
+                                <point x="0.86076" y="0.1" />
+                                <point x="0.987342" y="0.5" />
+                                <point x="0.86076" y="0.9" />
+                                <point x="0.49367" y="0.95" />
+                                <point x="0.113924" y="0.95" />
+                                <point x="0.0126582" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
