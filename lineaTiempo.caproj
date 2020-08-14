@@ -72,7 +72,7 @@
                         </frame>
                     </animation>
                     <animation framecount="1" loop="0" name="t1988" pingpong="0" repeatcount="1" repeatto="0" sid="347184825962568" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Naranja_1988.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\xampp\htdocs\LT-tecnoaprender\Assets-V3\Cuadros Info\()_cuadro_info_Naranja_1988.png">
                             <collision-poly>
                                 <point x="0.0124008" y="0.0259875" />
                                 <point x="0.5" y="0.00727651" />
@@ -84,7 +84,7 @@
                         </frame>
                     </animation>
                     <animation framecount="1" loop="0" name="t1994" pingpong="0" repeatcount="1" repeatto="0" sid="770369942721118" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Azul_1994.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\xampp\htdocs\LT-tecnoaprender\Assets-V3\Cuadros Info\()_cuadro_info_Morado_1994.png">
                             <collision-poly>
                                 <point x="0.0124008" y="0.0259875" />
                                 <point x="0.5" y="0.00727651" />
@@ -96,7 +96,7 @@
                         </frame>
                     </animation>
                     <animation framecount="1" loop="0" name="t1995" pingpong="0" repeatcount="1" repeatto="0" sid="380257376494644" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Morado_1995.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\xampp\htdocs\LT-tecnoaprender\Assets-V3\Cuadros Info\()_cuadro_info_Verde_1995.png">
                             <collision-poly>
                                 <point x="0.0124008" y="0.0259875" />
                                 <point x="0.5" y="0.00727651" />
@@ -108,7 +108,7 @@
                         </frame>
                     </animation>
                     <animation framecount="1" loop="0" name="t2002" pingpong="0" repeatcount="1" repeatto="0" sid="119820097918809" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Verde_2002.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\xampp\htdocs\LT-tecnoaprender\Assets-V3\Cuadros Info\()_cuadro_info_Naranja_2002.png">
                             <collision-poly>
                                 <point x="0.0124008" y="0.0259875" />
                                 <point x="0.5" y="0.00727651" />
@@ -120,7 +120,7 @@
                         </frame>
                     </animation>
                     <animation framecount="1" loop="0" name="t2004" pingpong="0" repeatcount="1" repeatto="0" sid="608020063450585" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Naranja_2004.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\xampp\htdocs\LT-tecnoaprender\Assets-V3\Cuadros Info\()_cuadro_info_Azul_2004.png">
                             <collision-poly>
                                 <point x="0.0124008" y="0.0259875" />
                                 <point x="0.5" y="0.00727651" />
@@ -132,7 +132,7 @@
                         </frame>
                     </animation>
                     <animation framecount="1" loop="0" name="t2007" pingpong="0" repeatcount="1" repeatto="0" sid="850239258248982" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Azul_2007.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\xampp\htdocs\LT-tecnoaprender\Assets-V3\Cuadros Info\()_cuadro_info_Morado_2007.png">
                             <collision-poly>
                                 <point x="0.0124008" y="0.0259875" />
                                 <point x="0.5" y="0.00727651" />
@@ -144,7 +144,7 @@
                         </frame>
                     </animation>
                     <animation framecount="1" loop="0" name="t2008" pingpong="0" repeatcount="1" repeatto="0" sid="435058456877945" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Morado_2008.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\xampp\htdocs\LT-tecnoaprender\Assets-V3\Cuadros Info\()_cuadro_info_Verde_2008.png">
                             <collision-poly>
                                 <point x="0.0114087" y="0.0239085" />
                                 <point x="0.5" y="0.00727651" />
@@ -180,7 +180,7 @@
                         </frame>
                     </animation>
                     <animation framecount="1" loop="0" name="t2016" pingpong="0" repeatcount="1" repeatto="0" sid="257078132511920" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\Cuadros Info\()_cuadro_info_Azul_2016.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\xampp\htdocs\LT-tecnoaprender\Assets-V3\Cuadros Info\()_cuadro_info_Morado_2016-b.png">
                             <collision-poly>
                                 <point x="0.0124008" y="0.0259875" />
                                 <point x="0.5" y="0.00727651" />
@@ -200,6 +200,18 @@
                                 <point x="0.986607" y="0.971933" />
                                 <point x="0.5" y="0.992723" />
                                 <point x="0.0114087" y="0.976092" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="t2020" pingpong="0" repeatcount="1" repeatto="0" sid="654190541660311" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\xampp\htdocs\LT-tecnoaprender\Assets-V3\Cuadros Info\()_cuadro_info_Verde_2020-b.png">
+                            <collision-poly>
+                                <point x="0.0124008" y="0.0259875" />
+                                <point x="0.5" y="0.00727651" />
+                                <point x="0.987599" y="0.0259875" />
+                                <point x="0.987599" y="0.974012" />
+                                <point x="0.5" y="0.992723" />
+                                <point x="0.0124008" y="0.974012" />
                             </collision-poly>
                         </frame>
                     </animation>

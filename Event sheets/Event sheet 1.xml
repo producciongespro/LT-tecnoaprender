@@ -176,7 +176,7 @@
                     </conditions>
                     <actions>
                         <action id="8" name="Open URL in new window" sid="917532622911748" type="Browser">
-                            <param id="0" name="URL">&quot;https://www.drea.co.cr/sites/default/files/Contenido/2016%2004%2025%20Resoluci%c3%b3n%20Dm-1190-04-2016%20Traslado%20del%20programa%20a%20DRTE.pdf&quot;</param>
+                            <param id="0" name="URL">&quot;https://www.mep.go.cr/sites/default/files/folleto-pntm.pdf&quot;</param>
                             <param id="1" name="Tag">&quot;_blank&quot;</param>
                         </action>
                     </actions>
