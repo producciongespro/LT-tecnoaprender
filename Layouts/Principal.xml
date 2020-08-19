@@ -79,7 +79,6 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
-                        <posX>0</posX>
                         <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
@@ -122,7 +121,6 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
-                        <posX>0</posX>
                         <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
@@ -166,6 +164,7 @@
                     <instance-variables>
                         <activo>false</activo>
                         <deslizador>true</deslizador>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
@@ -203,6 +202,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
@@ -240,7 +240,6 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
-                        <posX>0</posX>
                         <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
@@ -262,8 +261,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>213.393707275</x>
-                        <y>482.77053833</y>
+                        <x>213.393997192</x>
+                        <y>483</y>
                         <z>0</z>
                         <width>38</width>
                         <height>26</height>
@@ -283,7 +282,6 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
-                        <posX>0</posX>
                         <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
@@ -326,6 +324,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
@@ -367,6 +366,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
@@ -408,6 +408,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
@@ -449,6 +450,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
@@ -490,6 +492,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
@@ -531,6 +534,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
@@ -572,6 +576,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
@@ -592,8 +597,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>852.778442383</x>
-                        <y>495.628204346</y>
+                        <x>851.364685059</x>
+                        <y>491.628204346</y>
                         <z>0</z>
                         <width>38</width>
                         <height>26</height>
@@ -613,6 +618,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
@@ -655,6 +661,7 @@
                     <instance-variables>
                         <activo>false</activo>
                         <deslizador>true</deslizador>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
@@ -692,6 +699,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
@@ -729,6 +737,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
@@ -767,6 +776,7 @@
                     <instance-variables>
                         <activo>false</activo>
                         <deslizador>true</deslizador>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
@@ -804,6 +814,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
@@ -842,6 +853,7 @@
                     <instance-variables>
                         <activo>false</activo>
                         <deslizador>true</deslizador>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
@@ -879,6 +891,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
@@ -917,6 +930,7 @@
                     <instance-variables>
                         <activo>false</activo>
                         <deslizador>true</deslizador>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
@@ -954,6 +968,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
@@ -992,6 +1007,7 @@
                     <instance-variables>
                         <activo>false</activo>
                         <deslizador>true</deslizador>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Bullet">
@@ -1177,6 +1193,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
@@ -1218,6 +1235,7 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">

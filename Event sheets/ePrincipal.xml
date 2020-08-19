@@ -951,9 +951,8 @@
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="217914735895993" type="info1985">
-                            <param id="0" name="X">info1985.posX</param>
-                            <param id="1" name="Y">info1985.posY</param>
+                        <action id="-2" name="Set Y" sid="217914735895993" type="info1985">
+                            <param id="0" name="Y">info1985.posY</param>
                         </action>
                     </actions>
                 </event-block>
@@ -974,9 +973,8 @@
                         <action id="-16" name="Wait" sid="128249495230858" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="336797192451623" type="web1985">
-                            <param id="0" name="X">web1985.posX</param>
-                            <param id="1" name="Y">web1985.posY</param>
+                        <action id="-2" name="Set Y" sid="336797192451623" type="web1985">
+                            <param id="0" name="Y">web1985.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="584433011201297" type="web1985">
                             <param id="0" name="Instance variable">activo</param>
@@ -1055,9 +1053,8 @@
                         <action id="-16" name="Wait" sid="136444977884231" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="316695648593184" type="info1993">
-                            <param id="0" name="X">info1993.X</param>
-                            <param id="1" name="Y">info1993.Y</param>
+                        <action id="-2" name="Set Y" sid="316695648593184" type="info1993">
+                            <param id="0" name="Y">info1993.Y</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="154828581469087" type="info1993">
                             <param id="0" name="Instance variable">activo</param>
@@ -1082,9 +1079,8 @@
                         <action id="-16" name="Wait" sid="100774560814242" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="728505704516169" type="web1993">
-                            <param id="0" name="X">web1993.X</param>
-                            <param id="1" name="Y">web1993.Y</param>
+                        <action id="-2" name="Set Y" sid="728505704516169" type="web1993">
+                            <param id="0" name="Y">web1993.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="181198448109482" type="web1993">
                             <param id="0" name="Instance variable">activo</param>
@@ -1724,33 +1720,17 @@
                         <condition id="-2" name="On start of layout" sid="282883995566518" type="System" />
                     </conditions>
                     <actions>
-                        <action id="-10" name="Set value" sid="267056401498201" type="info1985">
-                            <param id="0" name="Instance variable">posX</param>
-                            <param id="1" name="Value">info1985.X</param>
-                        </action>
                         <action id="-10" name="Set value" sid="338815646137812" type="info1985">
                             <param id="0" name="Instance variable">posY</param>
                             <param id="1" name="Value">info1985.Y</param>
-                        </action>
-                        <action id="-10" name="Set value" sid="814874952738011" type="web1985">
-                            <param id="0" name="Instance variable">posX</param>
-                            <param id="1" name="Value">web1985.X</param>
                         </action>
                         <action id="-10" name="Set value" sid="449110614944915" type="web1985">
                             <param id="0" name="Instance variable">posY</param>
                             <param id="1" name="Value">web1985.Y</param>
                         </action>
-                        <action id="-10" name="Set value" sid="584794598744216" type="info1993">
-                            <param id="0" name="Instance variable">posX</param>
-                            <param id="1" name="Value">info1993.X</param>
-                        </action>
                         <action id="-10" name="Set value" sid="803785264900729" type="info1993">
                             <param id="0" name="Instance variable">posY</param>
                             <param id="1" name="Value">info1993.Y</param>
-                        </action>
-                        <action id="-10" name="Set value" sid="859904367420589" type="web1993">
-                            <param id="0" name="Instance variable">posX</param>
-                            <param id="1" name="Value">web1993.X</param>
                         </action>
                         <action id="-10" name="Set value" sid="347102375497158" type="web1993">
                             <param id="0" name="Instance variable">posY</param>

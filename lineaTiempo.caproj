@@ -250,7 +250,6 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="250411352071294" type="boolean" />
-                    <instance-variable name="posX" sid="150213298557494" type="number" />
                     <instance-variable name="posY" sid="172620348821858" type="number" />
                 </instance-variables>
                 <behaviors>
@@ -268,7 +267,6 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="566009913952149" type="boolean" />
-                    <instance-variable name="posX" sid="385144226499863" type="number" />
                     <instance-variable name="posY" sid="958714720871211" type="number" />
                 </instance-variables>
                 <behaviors>
@@ -298,6 +296,7 @@
                 <instance-variables>
                     <instance-variable name="activo" sid="110996487208299" type="boolean" />
                     <instance-variable name="deslizador" sid="808847776363772" type="boolean" />
+                    <instance-variable name="posY" sid="195449499756784" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="352634650336934">
@@ -325,6 +324,7 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="240386883639549" type="boolean" />
+                    <instance-variable name="posY" sid="881522640997873" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="128955246092592">
@@ -352,7 +352,6 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="849385158805848" type="boolean" />
-                    <instance-variable name="posX" sid="301998891186683" type="number" />
                     <instance-variable name="posY" sid="528129047456668" type="number" />
                 </instance-variables>
                 <behaviors>
@@ -382,7 +381,6 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="663263248553778" type="boolean" />
-                    <instance-variable name="posX" sid="507406452561609" type="number" />
                     <instance-variable name="posY" sid="579815841707853" type="number" />
                 </instance-variables>
                 <behaviors>
@@ -411,6 +409,7 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="882434043819330" type="boolean" />
+                    <instance-variable name="posY" sid="837567535399803" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="169536232535836">
@@ -438,6 +437,7 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="104218652024378" type="boolean" />
+                    <instance-variable name="posY" sid="589010498332222" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="749906629004378">
@@ -465,6 +465,7 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="469132713551367" type="boolean" />
+                    <instance-variable name="posY" sid="641619258491237" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="416673323734076">
@@ -492,6 +493,7 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="524488260194102" type="boolean" />
+                    <instance-variable name="posY" sid="919943972009357" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="186464471120266">
@@ -519,6 +521,7 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="805982148925999" type="boolean" />
+                    <instance-variable name="posY" sid="588012784434832" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="172097280027042">
@@ -546,6 +549,7 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="730518219841689" type="boolean" />
+                    <instance-variable name="posY" sid="467142421799438" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="319374222262123">
@@ -573,6 +577,7 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="152355899316979" type="boolean" />
+                    <instance-variable name="posY" sid="322239930226523" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="555818030143981">
@@ -600,6 +605,7 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="414481194754005" type="boolean" />
+                    <instance-variable name="posY" sid="599210616476290" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="969646199018629">
@@ -628,6 +634,7 @@
                 <instance-variables>
                     <instance-variable name="activo" sid="995001286178218" type="boolean" />
                     <instance-variable name="deslizador" sid="102796635408825" type="boolean" />
+                    <instance-variable name="posY" sid="983917035141185" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="686283012204775">
@@ -655,6 +662,7 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="784686626673710" type="boolean" />
+                    <instance-variable name="posY" sid="880581538237621" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="625082967777445">
@@ -682,6 +690,7 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="142385377778220" type="boolean" />
+                    <instance-variable name="posY" sid="613495476359029" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="380280598336224">
@@ -710,6 +719,7 @@
                 <instance-variables>
                     <instance-variable name="activo" sid="665642680957702" type="boolean" />
                     <instance-variable name="deslizador" sid="275038224142748" type="boolean" />
+                    <instance-variable name="posY" sid="680040850710778" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="548763988385490">
@@ -737,6 +747,7 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="176144526874787" type="boolean" />
+                    <instance-variable name="posY" sid="107661257615256" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="253013090099495">
@@ -765,6 +776,7 @@
                 <instance-variables>
                     <instance-variable name="activo" sid="118495788822017" type="boolean" />
                     <instance-variable name="deslizador" sid="925901428046301" type="boolean" />
+                    <instance-variable name="posY" sid="963273419154142" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="390042684105832">
@@ -792,6 +804,7 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="785867697239739" type="boolean" />
+                    <instance-variable name="posY" sid="604927256186028" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="303397780427116">
@@ -820,6 +833,7 @@
                 <instance-variables>
                     <instance-variable name="activo" sid="264159690548747" type="boolean" />
                     <instance-variable name="deslizador" sid="866107337310689" type="boolean" />
+                    <instance-variable name="posY" sid="428265024188075" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="346712879780852">
@@ -847,6 +861,7 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="834547928014776" type="boolean" />
+                    <instance-variable name="posY" sid="292987125417600" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="231697619017467">
@@ -875,6 +890,7 @@
                 <instance-variables>
                     <instance-variable name="activo" sid="423046827515745" type="boolean" />
                     <instance-variable name="deslizador" sid="493881787828050" type="boolean" />
+                    <instance-variable name="posY" sid="111210815137891" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Bullet" sid="328396283930195">
@@ -938,6 +954,7 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="503665796692407" type="boolean" />
+                    <instance-variable name="posY" sid="177182091802412" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="494090189158938">
@@ -965,6 +982,7 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="482359315556403" type="boolean" />
+                    <instance-variable name="posY" sid="410719453723552" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="500225735372546">
