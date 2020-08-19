@@ -2,7 +2,7 @@
 <c2layout>
     <name>Principal</name>
     <sid>953055489224989</sid>
-    <event-sheet>Event sheet 1</event-sheet>
+    <event-sheet>ePrincipal</event-sheet>
     <size>
         <width>1280</width>
         <height>720</height>
@@ -79,6 +79,8 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posX>0</posX>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
@@ -120,6 +122,8 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posX>0</posX>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
@@ -236,6 +240,8 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posX>0</posX>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">
@@ -277,6 +283,8 @@
                     </properties>
                     <instance-variables>
                         <activo>false</activo>
+                        <posX>0</posX>
+                        <posY>0</posY>
                     </instance-variables>
                     <behavior-instances>
                         <behavior-instance type="Physics">

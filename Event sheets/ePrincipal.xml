@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <c2eventsheet>
     <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
-    <name>Event sheet 1</name>
+    <name>ePrincipal</name>
     <events>
         <event-group description="" sid="287386454427066" title="vinculos banderines WWW">
             <sub-events>
@@ -881,7 +881,7 @@
                         </condition>
                     </conditions>
                     <actions>
-                        <action id="4" name="Set animation" sid="695190549845023" type="btn_2015">
+                        <action id="4" name="Set animation" sid="642682655492983" type="btn_2015">
                             <param id="0" name="Animation">&quot;presionado&quot;</param>
                             <param id="1" name="From">1</param>
                         </action>
@@ -894,7 +894,33 @@
                         <action id="-16" name="Wait" sid="180428619005993" type="System">
                             <param id="0" name="Seconds">1.0</param>
                         </action>
-                        <action id="4" name="Set animation" sid="170587138095785" type="btn_2015">
+                        <action id="4" name="Set animation" sid="399791521302118" type="btn_2015">
+                            <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="390298299657709">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="114770398352297" type="Touch">
+                            <param id="0" name="Object">btn2017</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="4" name="Set animation" sid="695190549845023" type="btn2017">
+                            <param id="0" name="Animation">&quot;presionado&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="748649301292082" type="info2017">
+                            <param id="0" name="Mode">1</param>
+                        </action>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="486420362318047" type="web2017">
+                            <param id="0" name="Mode">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="543033712203216" type="System">
+                            <param id="0" name="Seconds">1.0</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="170587138095785" type="btn2017">
                             <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
                             <param id="1" name="From">1</param>
                         </action>
@@ -926,8 +952,8 @@
                             <param id="1" name="Value">0</param>
                         </action>
                         <action id="-3" name="Set position" sid="217914735895993" type="info1985">
-                            <param id="0" name="X">104.756</param>
-                            <param id="1" name="Y">476.613</param>
+                            <param id="0" name="X">info1985.posX</param>
+                            <param id="1" name="Y">info1985.posY</param>
                         </action>
                     </actions>
                 </event-block>
@@ -949,10 +975,64 @@
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="336797192451623" type="web1985">
+                            <param id="0" name="X">web1985.posX</param>
+                            <param id="1" name="Y">web1985.posY</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="584433011201297" type="web1985">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="988964675203195">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="634280852110068" type="info2017">
+                            <param id="0" name="Object">Topeinferior1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="698573506632498" type="info2017">
+                            <param id="0" name="Mode">0</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="287527592251629" type="info2017">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="535741421597766" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="640501696490196" type="info2017">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="252615497678810" type="info2017">
+                            <param id="0" name="X">104.756</param>
+                            <param id="1" name="Y">476.613</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="382006287476686">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="725896895832533" type="web2017">
+                            <param id="0" name="Object">Topeinferior1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Physics" id="27" name="Set enabled" sid="836903059546315" type="web2017">
+                            <param id="0" name="Mode">0</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="272717049602768" type="web2017">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="655288006117273" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-3" name="Set position" sid="535408600535764" type="web2017">
                             <param id="0" name="X">94</param>
                             <param id="1" name="Y">496</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="584433011201297" type="web1985">
+                        <action id="-13" name="Set boolean" sid="710427900476408" type="web2017">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
                         </action>
@@ -976,8 +1056,8 @@
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="316695648593184" type="info1993">
-                            <param id="0" name="X">256.086</param>
-                            <param id="1" name="Y">471.691</param>
+                            <param id="0" name="X">info1993.X</param>
+                            <param id="1" name="Y">info1993.Y</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="154828581469087" type="info1993">
                             <param id="0" name="Instance variable">activo</param>
@@ -1003,8 +1083,8 @@
                             <param id="0" name="Seconds">4.0</param>
                         </action>
                         <action id="-3" name="Set position" sid="728505704516169" type="web1993">
-                            <param id="0" name="X">278</param>
-                            <param id="1" name="Y">492</param>
+                            <param id="0" name="X">web1993.X</param>
+                            <param id="1" name="Y">web1993.Y</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="181198448109482" type="web1993">
                             <param id="0" name="Instance variable">activo</param>
@@ -1636,6 +1716,49 @@
                 </event-block>
             </sub-events>
         </event-group>
-        <event-group description="" sid="748926364681247" title="Iniciar" />
+        <event-group description="" sid="748926364681247" title="Iniciar">
+            <sub-events>
+                <comment>Cargar posiciones iniciales de los banderines</comment>
+                <event-block sid="428933259124816">
+                    <conditions>
+                        <condition id="-2" name="On start of layout" sid="282883995566518" type="System" />
+                    </conditions>
+                    <actions>
+                        <action id="-10" name="Set value" sid="267056401498201" type="info1985">
+                            <param id="0" name="Instance variable">posX</param>
+                            <param id="1" name="Value">info1985.X</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="338815646137812" type="info1985">
+                            <param id="0" name="Instance variable">posY</param>
+                            <param id="1" name="Value">info1985.Y</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="814874952738011" type="web1985">
+                            <param id="0" name="Instance variable">posX</param>
+                            <param id="1" name="Value">web1985.X</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="449110614944915" type="web1985">
+                            <param id="0" name="Instance variable">posY</param>
+                            <param id="1" name="Value">web1985.Y</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="584794598744216" type="info1993">
+                            <param id="0" name="Instance variable">posX</param>
+                            <param id="1" name="Value">info1993.X</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="803785264900729" type="info1993">
+                            <param id="0" name="Instance variable">posY</param>
+                            <param id="1" name="Value">info1993.Y</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="859904367420589" type="web1993">
+                            <param id="0" name="Instance variable">posX</param>
+                            <param id="1" name="Value">web1993.X</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="347102375497158" type="web1993">
+                            <param id="0" name="Instance variable">posY</param>
+                            <param id="1" name="Value">web1993.Y</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-group>
     </events>
 </c2eventsheet>

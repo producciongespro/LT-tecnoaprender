@@ -30,6 +30,7 @@
     </window-size>
     <pixel-rounding>0</pixel-rounding>
     <preview-effects>1</preview-effects>
+    <first-layout>Principal</first-layout>
     <use-loader-layout>0</use-loader-layout>
     <configuration-settings>
         <prop name="Clear background">Yes</prop>
@@ -42,7 +43,7 @@
         <prop name="Pause on unfocus">No</prop>
         <prop name="Physics engine">Box2D asm.js</prop>
         <prop name="Preload sounds">Yes</prop>
-        <prop name="Preview browser">Firefox</prop>
+        <prop name="Preview browser">Chrome</prop>
         <prop name="Sampling">Linear</prop>
         <prop name="Use high-DPI display">Yes</prop>
     </configuration-settings>
@@ -249,6 +250,8 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="250411352071294" type="boolean" />
+                    <instance-variable name="posX" sid="150213298557494" type="number" />
+                    <instance-variable name="posY" sid="172620348821858" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="424088728368514">
@@ -265,6 +268,8 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="566009913952149" type="boolean" />
+                    <instance-variable name="posX" sid="385144226499863" type="number" />
+                    <instance-variable name="posY" sid="958714720871211" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="329571211029072">
@@ -347,6 +352,8 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="849385158805848" type="boolean" />
+                    <instance-variable name="posX" sid="301998891186683" type="number" />
+                    <instance-variable name="posY" sid="528129047456668" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="169315421583131">
@@ -375,6 +382,8 @@
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="663263248553778" type="boolean" />
+                    <instance-variable name="posX" sid="507406452561609" type="number" />
+                    <instance-variable name="posY" sid="579815841707853" type="number" />
                 </instance-variables>
                 <behaviors>
                     <behavior-type name="Physics" sid="589447063928919">
@@ -1680,7 +1689,7 @@
         <layout>Principal.xml</layout>
     </layout-folder>
     <event-folder>
-        <event-sheet>Event sheet 1.xml</event-sheet>
+        <event-sheet>ePrincipal.xml</event-sheet>
     </event-folder>
     <global-instances>
         <global-instance type="Touch" uid="1">
