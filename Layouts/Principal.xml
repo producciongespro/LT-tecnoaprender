@@ -315,7 +315,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="ibfo1995" uid="54">
+                <instance type="info1995" uid="54">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>

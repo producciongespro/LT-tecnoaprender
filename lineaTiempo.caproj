@@ -405,7 +405,7 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="ibfo1995" sid="376295046171193">
+            <object-type name="info1995" sid="376295046171193">
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="882434043819330" type="boolean" />
