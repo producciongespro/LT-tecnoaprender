@@ -184,15 +184,31 @@
                 <event-block sid="503127126839946">
                     <conditions>
                         <condition id="3" name="On touched object" sid="524394525674313" type="Touch">
-                            <param id="0" name="Object">web2016</param>
+                            <param id="0" name="Object">web2016Ciudadania</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="844867451116066" type="web2016">
+                        <condition id="-8" name="Is boolean instance variable set" sid="844867451116066" type="web2016Ciudadania">
                             <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
                     <actions>
                         <action id="8" name="Open URL in new window" sid="411637502384550" type="Browser">
                             <param id="0" name="URL">&quot;https://bit.ly/2WSRFl5&quot;</param>
+                            <param id="1" name="Tag">&quot;_blank&quot;</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="461191393696718">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="521153172856447" type="Touch">
+                            <param id="0" name="Object">web2016Innovacion</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="217729957930658" type="web2016Innovacion">
+                            <param id="0" name="Instance variable">activo</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="8" name="Open URL in new window" sid="348709871879127" type="Browser">
+                            <param id="0" name="URL">&quot;https://www.drea.co.cr/sites/default/files/Contenido/2016%2004%2025%20Resoluci%c3%b3n%20Dm-1190-04-2016%20Traslado%20del%20programa%20a%20DRTE.pdf&quot;</param>
                             <param id="1" name="Tag">&quot;_blank&quot;</param>
                         </action>
                     </actions>
@@ -547,9 +563,9 @@
                 <event-block sid="615417690485164">
                     <conditions>
                         <condition id="3" name="On touched object" sid="811333025746805" type="Touch">
-                            <param id="0" name="Object">info2016</param>
+                            <param id="0" name="Object">info2016Ciudadania</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="514044701702638" type="info2016">
+                        <condition id="-8" name="Is boolean instance variable set" sid="514044701702638" type="info2016Ciudadania">
                             <param id="0" name="Instance variable">activo</param>
                         </condition>
                     </conditions>
@@ -563,7 +579,31 @@
                             <param id="1" name="Visibility">1</param>
                         </action>
                         <action id="4" name="Set animation" sid="148080379424753" type="FondoModal">
-                            <param id="0" name="Animation">&quot;t2016&quot;</param>
+                            <param id="0" name="Animation">&quot;t2016Ciudadania&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="140733141325144">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="711846533593192" type="Touch">
+                            <param id="0" name="Object">info2016innovacion</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="322650007412765" type="info2016innovacion">
+                            <param id="0" name="Instance variable">activo</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="288086775194715" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="140046993390524" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="433865577762193" type="FondoModal">
+                            <param id="0" name="Animation">&quot;t2016Innovacion&quot;</param>
                             <param id="1" name="From">1</param>
                         </action>
                     </actions>
@@ -822,7 +862,7 @@
                         <condition id="3" name="On touched object" sid="237336764806903" type="Touch">
                             <param id="0" name="Object">btn_2016</param>
                         </condition>
-                        <condition id="-8" name="Is boolean instance variable set" sid="269291816717559" type="web2016">
+                        <condition id="-8" name="Is boolean instance variable set" sid="269291816717559" type="web2016Ciudadania">
                             <param id="0" name="Instance variable">deslizador</param>
                         </condition>
                     </conditions>
@@ -831,10 +871,16 @@
                             <param id="0" name="Animation">&quot;presionado&quot;</param>
                             <param id="1" name="From">1</param>
                         </action>
-                        <action behavior="Bullet" id="5" name="Set enabled" sid="199206566824276" type="info2016">
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="199206566824276" type="info2016Ciudadania">
                             <param id="0" name="State">1</param>
                         </action>
-                        <action behavior="Bullet" id="5" name="Set enabled" sid="383024003871076" type="web2016">
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="383024003871076" type="web2016Ciudadania">
+                            <param id="0" name="State">1</param>
+                        </action>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="869165726434258" type="info2016innovacion">
+                            <param id="0" name="State">1</param>
+                        </action>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="409117140007063" type="web2016Innovacion">
                             <param id="0" name="State">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="543076601262309" type="System">
@@ -1754,25 +1800,57 @@
                 </event-block>
                 <event-block sid="684099523988456">
                     <conditions>
-                        <condition id="0" name="On collision with another object" sid="851762167871977" type="info2016">
+                        <condition id="0" name="On collision with another object" sid="851762167871977" type="info2016Ciudadania">
                             <param id="0" name="Object">Topesuperior1</param>
                         </condition>
                     </conditions>
                     <actions>
-                        <action behavior="Bullet" id="5" name="Set enabled" sid="323269845052548" type="info2016">
+                        <action id="-15" name="Set visible" sid="358575596935066" type="info2016Ciudadania">
+                            <param id="0" name="Visibility">1</param>
+                        </action>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="323269845052548" type="info2016Ciudadania">
                             <param id="0" name="State">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="354008747410329" type="info2016">
+                        <action id="-13" name="Set boolean" sid="354008747410329" type="info2016Ciudadania">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="517653928328867" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-2" name="Set Y" sid="207920049989050" type="info2016">
-                            <param id="0" name="Y">info2016.posY</param>
+                        <action id="-2" name="Set Y" sid="207920049989050" type="info2016Ciudadania">
+                            <param id="0" name="Y">info2016Ciudadania.posY</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="258081870604314" type="info2016">
+                        <action id="-13" name="Set boolean" sid="258081870604314" type="info2016Ciudadania">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                        <action id="-15" name="Set visible" sid="279814058850785" type="info2016Ciudadania">
+                            <param id="0" name="Visibility">0</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="841571049912619">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="494632352374694" type="info2016innovacion">
+                            <param id="0" name="Object">Topesuperior2</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="745074985029672" type="info2016innovacion">
+                            <param id="0" name="State">0</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="911251157134201" type="info2016innovacion">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="522676065533651" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-2" name="Set Y" sid="377203931819252" type="info2016innovacion">
+                            <param id="0" name="Y">info2016innovacion.posY</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="380152816663856" type="info2016innovacion">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
                         </action>
@@ -1780,33 +1858,73 @@
                 </event-block>
                 <event-block sid="298381784703949">
                     <conditions>
-                        <condition id="0" name="On collision with another object" sid="986412769827024" type="web2016">
+                        <condition id="0" name="On collision with another object" sid="986412769827024" type="web2016Ciudadania">
                             <param id="0" name="Object">Topesuperior1</param>
                         </condition>
                     </conditions>
                     <actions>
-                        <action id="-13" name="Set boolean" sid="212808142334204" type="web2016">
+                        <action id="-15" name="Set visible" sid="115781519572323" type="web2016Ciudadania">
+                            <param id="0" name="Visibility">1</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="212808142334204" type="web2016Ciudadania">
                             <param id="0" name="Instance variable">deslizador</param>
                             <param id="1" name="Value">0</param>
                         </action>
-                        <action behavior="Bullet" id="5" name="Set enabled" sid="947492644357121" type="web2016">
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="947492644357121" type="web2016Ciudadania">
                             <param id="0" name="State">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="914492763387952" type="web2016">
+                        <action id="-13" name="Set boolean" sid="914492763387952" type="web2016Ciudadania">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">1</param>
                         </action>
                         <action id="-16" name="Wait" sid="421080612354581" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-2" name="Set Y" sid="772565806291450" type="web2016">
-                            <param id="0" name="Y">web2016.posY</param>
+                        <action id="-2" name="Set Y" sid="772565806291450" type="web2016Ciudadania">
+                            <param id="0" name="Y">web2016Ciudadania.posY</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="946450596241337" type="web2016">
+                        <action id="-13" name="Set boolean" sid="946450596241337" type="web2016Ciudadania">
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
                         </action>
-                        <action id="-13" name="Set boolean" sid="192401848032864" type="web2016">
+                        <action id="-13" name="Set boolean" sid="192401848032864" type="web2016Ciudadania">
+                            <param id="0" name="Instance variable">deslizador</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action id="-15" name="Set visible" sid="953984833994532" type="web2016Ciudadania">
+                            <param id="0" name="Visibility">0</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="746213714290369">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="123333736900863" type="web2016Innovacion">
+                            <param id="0" name="Object">Topesuperior2</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-13" name="Set boolean" sid="898795955989351" type="web2016Innovacion">
+                            <param id="0" name="Instance variable">deslizador</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                        <action behavior="Bullet" id="5" name="Set enabled" sid="409635513309790" type="web2016Innovacion">
+                            <param id="0" name="State">0</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="508297892696405" type="web2016Innovacion">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="181488467312288" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="-2" name="Set Y" sid="376694183484343" type="web2016Innovacion">
+                            <param id="0" name="Y">web2016Innovacion.posY</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="568690440804935" type="web2016Innovacion">
+                            <param id="0" name="Instance variable">activo</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="354754729740027" type="web2016Innovacion">
                             <param id="0" name="Instance variable">deslizador</param>
                             <param id="1" name="Value">1</param>
                         </action>
@@ -1944,13 +2062,21 @@
                             <param id="0" name="Instance variable">posY</param>
                             <param id="1" name="Value">web2015.Y</param>
                         </action>
-                        <action id="-10" name="Set value" sid="621309144033939" type="info2016">
+                        <action id="-10" name="Set value" sid="621309144033939" type="info2016Ciudadania">
                             <param id="0" name="Instance variable">posY</param>
-                            <param id="1" name="Value">info2016.Y</param>
+                            <param id="1" name="Value">info2016Ciudadania.Y</param>
                         </action>
-                        <action id="-10" name="Set value" sid="809653037716592" type="web2016">
+                        <action id="-10" name="Set value" sid="809653037716592" type="web2016Ciudadania">
                             <param id="0" name="Instance variable">posY</param>
-                            <param id="1" name="Value">web2016.Y</param>
+                            <param id="1" name="Value">web2016Ciudadania.Y</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="146971666795480" type="info2016innovacion">
+                            <param id="0" name="Instance variable">posY</param>
+                            <param id="1" name="Value">info2016innovacion.Y</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="121921498914111" type="web2016Innovacion">
+                            <param id="0" name="Instance variable">posY</param>
+                            <param id="1" name="Value">web2016Innovacion.Y</param>
                         </action>
                         <action id="-10" name="Set value" sid="800786132913519" type="info2017">
                             <param id="0" name="Instance variable">posY</param>

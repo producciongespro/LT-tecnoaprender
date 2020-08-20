@@ -180,7 +180,7 @@
                             </collision-poly>
                         </frame>
                     </animation>
-                    <animation framecount="1" loop="0" name="t2016" pingpong="0" repeatcount="1" repeatto="0" sid="257078132511920" speed="5">
+                    <animation framecount="1" loop="0" name="t2016Ciudadania" pingpong="0" repeatcount="1" repeatto="0" sid="257078132511920" speed="5">
                         <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\xampp\htdocs\LT-tecnoaprender\Assets-V3\Cuadros Info\()_cuadro_info_Morado_2016-b.png">
                             <collision-poly>
                                 <point x="0.0124008" y="0.0259875" />
@@ -249,6 +249,18 @@
                                 <point x="0.987599" y="0.974012" />
                                 <point x="0.5" y="0.992723" />
                                 <point x="0.0124008" y="0.974012" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="t2016Innovacion" pingpong="0" repeatcount="1" repeatto="0" sid="843115657807251" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\xampp\htdocs\LT-tecnoaprender\Assets-V3\Cuadros Info\()_cuadro_info_Morado_2016-innovacion.png">
+                            <collision-poly>
+                                <point x="0.0114087" y="0.0239085" />
+                                <point x="0.5" y="0.00727651" />
+                                <point x="0.986607" y="0.0280665" />
+                                <point x="0.986607" y="0.971933" />
+                                <point x="0.5" y="0.992723" />
+                                <point x="0.0114087" y="0.976092" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -881,7 +893,7 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="info2016" sid="633638906769428">
+            <object-type name="info2016Ciudadania" sid="633638906769428">
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="834547928014776" type="boolean" />
@@ -909,7 +921,7 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="web2016" sid="693089597589614">
+            <object-type name="web2016Ciudadania" sid="693089597589614">
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="423046827515745" type="boolean" />
@@ -1165,6 +1177,63 @@
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="451197001714795" speed="5">
                         <frame duration="1" hotspotX="0.5" hotspotY="0.493671" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.n.png" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="web2016Innovacion" sid="152551879519191">
+                <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="799029683925075" type="boolean" />
+                    <instance-variable name="deslizador" sid="895596846746677" type="boolean" />
+                    <instance-variable name="posY" sid="124666828294702" type="number" />
+                </instance-variables>
+                <behaviors>
+                    <behavior-type name="Bullet" sid="582658658666513">
+                        <behavior id="Bullet" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="972545725177021" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.507042" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.m.png">
+                            <collision-poly>
+                                <point x="0.1" y="0.859155" />
+                                <point x="0.0499998" y="0.507042" />
+                                <point x="0.0499998" y="0.126761" />
+                                <point x="0.5" y="0.014085" />
+                                <point x="0.95" y="0.126761" />
+                                <point x="0.95" y="0.507042" />
+                                <point x="0.9" y="0.859155" />
+                                <point x="0.5" y="0.971831" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="info2016innovacion" sid="694437167205406">
+                <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="137999511250348" type="boolean" />
+                    <instance-variable name="posY" sid="596226354791157" type="number" />
+                </instance-variables>
+                <behaviors>
+                    <behavior-type name="Bullet" sid="255855215465918">
+                        <behavior id="Bullet" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="287641506622020" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.487179" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.m.png">
+                            <collision-poly>
+                                <point x="0.0499998" y="0.884615" />
+                                <point x="0.0499998" y="0.5" />
+                                <point x="0.1" y="0.128205" />
+                                <point x="0.5" y="0.012821" />
+                                <point x="0.9" y="0.128205" />
+                                <point x="0.95" y="0.5" />
+                                <point x="0.95" y="0.884615" />
+                                <point x="0.5" y="0.98718" />
+                            </collision-poly>
+                        </frame>
                     </animation>
                 </animation-folder>
             </object-type>
@@ -1831,6 +1900,19 @@
                 </behaviors>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="179182261934837" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Topesuperior2" sid="185425479213227">
+                <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Physics" sid="293053341650988">
+                        <behavior id="Physics" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="133523481596516" speed="5">
                         <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
                     </animation>
                 </animation-folder>
