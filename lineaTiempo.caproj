@@ -1006,6 +1006,177 @@
                     </animation>
                 </animation-folder>
             </object-type>
+            <object-type name="web2020Modelo" sid="891035437524362">
+                <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="188635131473281" type="boolean" />
+                    <instance-variable name="deslizador" sid="758295298378698" type="boolean" />
+                    <instance-variable name="posY" sid="642152037263070" type="number" />
+                </instance-variables>
+                <behaviors>
+                    <behavior-type name="Bullet" sid="469436282375088">
+                        <behavior id="Bullet" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="302935853340446" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.507042" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.n.png">
+                            <collision-poly>
+                                <point x="0.1" y="0.859155" />
+                                <point x="0.0499998" y="0.507042" />
+                                <point x="0.0499998" y="0.126761" />
+                                <point x="0.5" y="0.014085" />
+                                <point x="0.95" y="0.126761" />
+                                <point x="0.95" y="0.507042" />
+                                <point x="0.9" y="0.859155" />
+                                <point x="0.5" y="0.971831" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="info2020Modelo" sid="839516052874605">
+                <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="995702511525207" type="boolean" />
+                    <instance-variable name="posY" sid="153146554008649" type="number" />
+                </instance-variables>
+                <behaviors>
+                    <behavior-type name="Bullet" sid="244615348854886">
+                        <behavior id="Bullet" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="108782296973463" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.493671" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.n.png">
+                            <collision-poly>
+                                <point x="0.0499998" y="0.886076" />
+                                <point x="0.0499998" y="0.50633" />
+                                <point x="0.1" y="0.13924" />
+                                <point x="0.5" y="0.012658" />
+                                <point x="0.9" y="0.13924" />
+                                <point x="0.95" y="0.50633" />
+                                <point x="0.95" y="0.886076" />
+                                <point x="0.5" y="0.987342" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="web2020Politica" sid="981021265492609">
+                <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="897818038867438" type="boolean" />
+                    <instance-variable name="deslizador" sid="221955477293540" type="boolean" />
+                    <instance-variable name="posY" sid="840117977851056" type="number" />
+                </instance-variables>
+                <behaviors>
+                    <behavior-type name="Bullet" sid="872281318055837">
+                        <behavior id="Bullet" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="624331721471453" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.507042" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.n.png">
+                            <collision-poly>
+                                <point x="0.1" y="0.859155" />
+                                <point x="0.0499998" y="0.507042" />
+                                <point x="0.0499998" y="0.126761" />
+                                <point x="0.5" y="0.014085" />
+                                <point x="0.95" y="0.126761" />
+                                <point x="0.95" y="0.507042" />
+                                <point x="0.9" y="0.859155" />
+                                <point x="0.5" y="0.971831" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="web2020Red" sid="348982807949004">
+                <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="612414656341636" type="boolean" />
+                    <instance-variable name="deslizador" sid="433304476701820" type="boolean" />
+                    <instance-variable name="posY" sid="496874261814698" type="number" />
+                </instance-variables>
+                <behaviors>
+                    <behavior-type name="Bullet" sid="334101554833895">
+                        <behavior id="Bullet" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="164666573263510" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.507042" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\www.n.png">
+                            <collision-poly>
+                                <point x="0.1" y="0.859155" />
+                                <point x="0.0499998" y="0.507042" />
+                                <point x="0.0499998" y="0.126761" />
+                                <point x="0.5" y="0.014085" />
+                                <point x="0.95" y="0.126761" />
+                                <point x="0.95" y="0.507042" />
+                                <point x="0.9" y="0.859155" />
+                                <point x="0.5" y="0.971831" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="info2020Politica" sid="345997243913179">
+                <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="797423514041028" type="boolean" />
+                    <instance-variable name="posY" sid="814333605082415" type="number" />
+                </instance-variables>
+                <behaviors>
+                    <behavior-type name="Bullet" sid="490124521301698">
+                        <behavior id="Bullet" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="310848813502811" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.493671" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.n.png">
+                            <collision-poly>
+                                <point x="0.0499998" y="0.886076" />
+                                <point x="0.0499998" y="0.50633" />
+                                <point x="0.1" y="0.13924" />
+                                <point x="0.5" y="0.012658" />
+                                <point x="0.9" y="0.13924" />
+                                <point x="0.95" y="0.50633" />
+                                <point x="0.95" y="0.886076" />
+                                <point x="0.5" y="0.987342" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="info2020Red" sid="449688275298141">
+                <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="activo" sid="733627142340645" type="boolean" />
+                    <instance-variable name="posY" sid="954111315171591" type="number" />
+                </instance-variables>
+                <behaviors>
+                    <behavior-type name="Bullet" sid="906329601483682">
+                        <behavior id="Bullet" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="451197001714795" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.493671" original-source="C:\wamp\www\LT-tecnoaprender\img\Diseño\II version\Materiales\vinculos\info.n.png">
+                            <collision-poly>
+                                <point x="0.0499998" y="0.886076" />
+                                <point x="0.0499998" y="0.50633" />
+                                <point x="0.1" y="0.13924" />
+                                <point x="0.5" y="0.012658" />
+                                <point x="0.9" y="0.13924" />
+                                <point x="0.95" y="0.50633" />
+                                <point x="0.95" y="0.886076" />
+                                <point x="0.5" y="0.987342" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
         </object-folder>
         <object-folder name="Textos">
             <object-type name="text_1994" sid="511052133736435">

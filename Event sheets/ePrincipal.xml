@@ -926,6 +926,62 @@
                         </action>
                     </actions>
                 </event-block>
+                <event-block sid="523647519672391">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="768457529381378" type="Touch">
+                            <param id="0" name="Object">btn2020</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="4" name="Set animation" sid="782797650593354" type="btn2020">
+                            <param id="0" name="Animation">&quot;presionado&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                        <action id="-15" name="Set visible" sid="521832904211954" type="info2020Modelo">
+                            <param id="0" name="Visibility">1</param>
+                        </action>
+                        <action id="-15" name="Set visible" sid="552389735109628" type="info2020Politica">
+                            <param id="0" name="Visibility">1</param>
+                        </action>
+                        <action id="-15" name="Set visible" sid="259661880407733" type="info2020Red">
+                            <param id="0" name="Visibility">1</param>
+                        </action>
+                        <action id="-15" name="Set visible" sid="101502244334530" type="web2020Modelo">
+                            <param id="0" name="Visibility">1</param>
+                        </action>
+                        <action id="-15" name="Set visible" sid="897453671475145" type="web2020Politica">
+                            <param id="0" name="Visibility">1</param>
+                        </action>
+                        <action id="-15" name="Set visible" sid="322413331156661" type="web2020Red">
+                            <param id="0" name="Visibility">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="149338234640601" type="System">
+                            <param id="0" name="Seconds">4.0</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="506710394259838" type="btn2020">
+                            <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                        <action id="-15" name="Set visible" sid="946613008310916" type="info2020Modelo">
+                            <param id="0" name="Visibility">0</param>
+                        </action>
+                        <action id="-15" name="Set visible" sid="188095304386134" type="info2020Politica">
+                            <param id="0" name="Visibility">0</param>
+                        </action>
+                        <action id="-15" name="Set visible" sid="350555921834465" type="info2020Red">
+                            <param id="0" name="Visibility">0</param>
+                        </action>
+                        <action id="-15" name="Set visible" sid="133310569594667" type="web2020Modelo">
+                            <param id="0" name="Visibility">0</param>
+                        </action>
+                        <action id="-15" name="Set visible" sid="244655377516285" type="web2020Politica">
+                            <param id="0" name="Visibility">0</param>
+                        </action>
+                        <action id="-15" name="Set visible" sid="827201553440612" type="web2020Red">
+                            <param id="0" name="Visibility">0</param>
+                        </action>
+                    </actions>
+                </event-block>
             </sub-events>
         </event-group>
         <event-group description="" sid="832874026761669" title="Colisiones">
