@@ -1003,9 +1003,8 @@
                             <param id="0" name="Instance variable">activo</param>
                             <param id="1" name="Value">0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="252615497678810" type="info2017">
-                            <param id="0" name="X">104.756</param>
-                            <param id="1" name="Y">476.613</param>
+                        <action id="-2" name="Set Y" sid="228703721548604" type="info2017">
+                            <param id="0" name="Y">info2017.posY</param>
                         </action>
                     </actions>
                 </event-block>
@@ -1026,9 +1025,8 @@
                         <action id="-16" name="Wait" sid="655288006117273" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="535408600535764" type="web2017">
-                            <param id="0" name="X">94</param>
-                            <param id="1" name="Y">496</param>
+                        <action id="-2" name="Set Y" sid="262295193914447" type="web2017">
+                            <param id="0" name="Y">web2017.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="710427900476408" type="web2017">
                             <param id="0" name="Instance variable">activo</param>
@@ -1053,8 +1051,8 @@
                         <action id="-16" name="Wait" sid="136444977884231" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-2" name="Set Y" sid="316695648593184" type="info1993">
-                            <param id="0" name="Y">info1993.Y</param>
+                        <action id="-2" name="Set Y" sid="393443355597002" type="info1993">
+                            <param id="0" name="Y">info1993.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="154828581469087" type="info1993">
                             <param id="0" name="Instance variable">activo</param>
@@ -1105,9 +1103,8 @@
                         <action id="-16" name="Wait" sid="438948008028460" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="949725096102025" type="info1995">
-                            <param id="0" name="X">524</param>
-                            <param id="1" name="Y">475</param>
+                        <action id="-2" name="Set Y" sid="576307759909149" type="info1995">
+                            <param id="0" name="Y">info1995.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="530792375745349" type="info1995">
                             <param id="0" name="Instance variable">activo</param>
@@ -1132,9 +1129,8 @@
                         <action id="-16" name="Wait" sid="920406285286691" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="148668725767808" type="web1995">
-                            <param id="0" name="X">472</param>
-                            <param id="1" name="Y">496</param>
+                        <action id="-2" name="Set Y" sid="656971247670422" type="web1995">
+                            <param id="0" name="Y">web1995.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="958316959606603" type="web1995">
                             <param id="0" name="Instance variable">activo</param>
@@ -1159,9 +1155,8 @@
                         <action id="-16" name="Wait" sid="605428118905906" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="496930125156367" type="info2004">
-                            <param id="0" name="X">712</param>
-                            <param id="1" name="Y">473</param>
+                        <action id="-2" name="Set Y" sid="319412801193127" type="info2004">
+                            <param id="0" name="Y">info2004.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="349789374005363" type="info2004">
                             <param id="0" name="Instance variable">activo</param>
@@ -1186,9 +1181,8 @@
                         <action id="-16" name="Wait" sid="754744064504261" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="725298881841774" type="web2004">
-                            <param id="0" name="X">661</param>
-                            <param id="1" name="Y">503</param>
+                        <action id="-2" name="Set Y" sid="143207528015755" type="web2004">
+                            <param id="0" name="Y">web2004.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="298024237337784" type="web2004">
                             <param id="0" name="Instance variable">activo</param>
@@ -1213,9 +1207,8 @@
                         <action id="-16" name="Wait" sid="385219516379335" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="741056206436233" type="info2008">
-                            <param id="0" name="X">907</param>
-                            <param id="1" name="Y">469</param>
+                        <action id="-2" name="Set Y" sid="162714919376192" type="info2008">
+                            <param id="0" name="Y">info2008.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="180296061979683" type="info2008">
                             <param id="0" name="Instance variable">activo</param>
@@ -1240,9 +1233,8 @@
                         <action id="-16" name="Wait" sid="191529595468199" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="610770642877166" type="web2008">
-                            <param id="0" name="X">856</param>
-                            <param id="1" name="Y">495</param>
+                        <action id="-2" name="Set Y" sid="471018064896404" type="web2008">
+                            <param id="0" name="Y">web2008.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="547383248989442" type="web2008">
                             <param id="0" name="Instance variable">activo</param>
@@ -1267,9 +1259,8 @@
                         <action id="-16" name="Wait" sid="326215755782014" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="475509361439715" type="info2015">
-                            <param id="0" name="X">1098</param>
-                            <param id="1" name="Y">466</param>
+                        <action id="-2" name="Set Y" sid="991724649175728" type="info2015">
+                            <param id="0" name="Y">info2015.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="344582191419599" type="info2015">
                             <param id="0" name="Instance variable">activo</param>
@@ -1294,9 +1285,8 @@
                         <action id="-16" name="Wait" sid="785614556491824" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="504612710692117" type="web2015">
-                            <param id="0" name="X">1046</param>
-                            <param id="1" name="Y">507</param>
+                        <action id="-2" name="Set Y" sid="369980929971966" type="web2015">
+                            <param id="0" name="Y">web2015.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="860944558517843" type="web2015">
                             <param id="0" name="Instance variable">activo</param>
@@ -1321,9 +1311,8 @@
                         <action id="-16" name="Wait" sid="291247178198842" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="419075700735533" type="info1988">
-                            <param id="0" name="X">233</param>
-                            <param id="1" name="Y">420</param>
+                        <action id="-2" name="Set Y" sid="360537068187917" type="info1988">
+                            <param id="0" name="Y">info1988.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="582821705975226" type="info1988">
                             <param id="0" name="Instance variable">activo</param>
@@ -1352,9 +1341,8 @@
                         <action id="-16" name="Wait" sid="941636254111075" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="936118375555327" type="web1988">
-                            <param id="0" name="X">184</param>
-                            <param id="1" name="Y">384</param>
+                        <action id="-2" name="Set Y" sid="882527567421284" type="web1988">
+                            <param id="0" name="Y">web1988.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="610258497293108" type="web1988">
                             <param id="0" name="Instance variable">activo</param>
@@ -1383,9 +1371,8 @@
                         <action id="-16" name="Wait" sid="542823135367984" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="174861054763806" type="info1994">
-                            <param id="0" name="X">427</param>
-                            <param id="1" name="Y">423</param>
+                        <action id="-2" name="Set Y" sid="851937610885378" type="info1994">
+                            <param id="0" name="Y">info1994.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="927483393122623" type="info1994">
                             <param id="0" name="Instance variable">activo</param>
@@ -1414,9 +1401,8 @@
                         <action id="-16" name="Wait" sid="884656178879547" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="682409323720505" type="web1994">
-                            <param id="0" name="X">375</param>
-                            <param id="1" name="Y">399</param>
+                        <action id="-2" name="Set Y" sid="410115333788415" type="web1994">
+                            <param id="0" name="Y">web1994.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="627968326574843" type="web1994">
                             <param id="0" name="Instance variable">activo</param>
@@ -1445,9 +1431,8 @@
                         <action id="-16" name="Wait" sid="694642906276869" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="991704254887589" type="info2002">
-                            <param id="0" name="X">621</param>
-                            <param id="1" name="Y">425</param>
+                        <action id="-2" name="Set Y" sid="506442403398957" type="info2002">
+                            <param id="0" name="Y">info2002.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="276368012523703" type="info2002">
                             <param id="0" name="Instance variable">activo</param>
@@ -1476,9 +1461,8 @@
                         <action id="-16" name="Wait" sid="974958962618491" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="174697799157468" type="web2002">
-                            <param id="0" name="X">571</param>
-                            <param id="1" name="Y">401</param>
+                        <action id="-2" name="Set Y" sid="936580544393803" type="web2002">
+                            <param id="0" name="Y">web2002.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="829311642660767" type="web2002">
                             <param id="0" name="Instance variable">activo</param>
@@ -1507,9 +1491,8 @@
                         <action id="-16" name="Wait" sid="426656758871779" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="506719932842185" type="info2007">
-                            <param id="0" name="X">812</param>
-                            <param id="1" name="Y">427</param>
+                        <action id="-2" name="Set Y" sid="690596540837317" type="info2007">
+                            <param id="0" name="Y">info2007.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="597469080366619" type="info2007">
                             <param id="0" name="Instance variable">activo</param>
@@ -1538,9 +1521,8 @@
                         <action id="-16" name="Wait" sid="114159213539118" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="654909107461062" type="web2007">
-                            <param id="0" name="X">760</param>
-                            <param id="1" name="Y">395</param>
+                        <action id="-2" name="Set Y" sid="407349212458360" type="web2007">
+                            <param id="0" name="Y">web2007.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="308205824030211" type="web2007">
                             <param id="0" name="Instance variable">activo</param>
@@ -1569,9 +1551,8 @@
                         <action id="-16" name="Wait" sid="610632340040422" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="405359489224249" type="info2011">
-                            <param id="0" name="X">1004</param>
-                            <param id="1" name="Y">421</param>
+                        <action id="-2" name="Set Y" sid="184523630402439" type="info2011">
+                            <param id="0" name="Y">info2011.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="862369653675664" type="info2011">
                             <param id="0" name="Instance variable">activo</param>
@@ -1600,9 +1581,8 @@
                         <action id="-16" name="Wait" sid="881060994024114" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="612853126518374" type="web2011">
-                            <param id="0" name="X">953</param>
-                            <param id="1" name="Y">391</param>
+                        <action id="-2" name="Set Y" sid="792457463911321" type="web2011">
+                            <param id="0" name="Y">web2011.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="236160321116084" type="web2011">
                             <param id="0" name="Instance variable">activo</param>
@@ -1631,9 +1611,8 @@
                         <action id="-16" name="Wait" sid="517653928328867" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="926657364256603" type="info2016">
-                            <param id="0" name="X">1195</param>
-                            <param id="1" name="Y">434</param>
+                        <action id="-2" name="Set Y" sid="207920049989050" type="info2016">
+                            <param id="0" name="Y">info2016.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="258081870604314" type="info2016">
                             <param id="0" name="Instance variable">activo</param>
@@ -1662,9 +1641,8 @@
                         <action id="-16" name="Wait" sid="421080612354581" type="System">
                             <param id="0" name="Seconds">4.0</param>
                         </action>
-                        <action id="-3" name="Set position" sid="530653384695275" type="web2016">
-                            <param id="0" name="X">1145</param>
-                            <param id="1" name="Y">397</param>
+                        <action id="-2" name="Set Y" sid="772565806291450" type="web2016">
+                            <param id="0" name="Y">web2016.posY</param>
                         </action>
                         <action id="-13" name="Set boolean" sid="946450596241337" type="web2016">
                             <param id="0" name="Instance variable">activo</param>
