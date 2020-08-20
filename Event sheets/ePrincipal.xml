@@ -213,6 +213,45 @@
                         </action>
                     </actions>
                 </event-block>
+                <event-block sid="123049006044593">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="596644838152120" type="Touch">
+                            <param id="0" name="Object">web2020Modelo</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="8" name="Open URL in new window" sid="207820264254595" type="Browser">
+                            <param id="0" name="URL">&quot;https://bit.ly/30ySYaH&quot;</param>
+                            <param id="1" name="Tag">&quot;_blank&quot;</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="316693171961331">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="722401609551097" type="Touch">
+                            <param id="0" name="Object">web2020Politica</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="8" name="Open URL in new window" sid="364875089136066" type="Browser">
+                            <param id="0" name="URL">&quot;https://bit.ly/2UYRLGZ&quot;</param>
+                            <param id="1" name="Tag">&quot;_blank&quot;</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="411389238744482">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="244091951269004" type="Touch">
+                            <param id="0" name="Object">web2020Red</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="8" name="Open URL in new window" sid="321502587810058" type="Browser">
+                            <param id="0" name="URL">&quot;https://bit.ly/2RFCCti&quot;</param>
+                            <param id="1" name="Tag">&quot;_blank&quot;</param>
+                        </action>
+                    </actions>
+                </event-block>
             </sub-events>
         </event-group>
         <event-group description="" sid="807105211513286" title="vinculos bandines INFO">
