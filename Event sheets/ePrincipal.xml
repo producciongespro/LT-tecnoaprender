@@ -568,6 +568,69 @@
                         </action>
                     </actions>
                 </event-block>
+                <event-block sid="406826967620894">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="310155649921987" type="Touch">
+                            <param id="0" name="Object">info2020Modelo</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="920151996356289" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="287756063274535" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="813150140891996" type="FondoModal">
+                            <param id="0" name="Animation">&quot;t2020Modelo&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="711360937337238">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="472245452207212" type="Touch">
+                            <param id="0" name="Object">info2020Politica</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="859531473138501" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="199837834291859" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="670512255975907" type="FondoModal">
+                            <param id="0" name="Animation">&quot;t2020Politica&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="660678154309476">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="350432832877430" type="Touch">
+                            <param id="0" name="Object">info2020Red</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="874572502668895" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="866076619957936" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="711020154086458" type="FondoModal">
+                            <param id="0" name="Animation">&quot;t2020Red&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                    </actions>
+                </event-block>
             </sub-events>
         </event-group>
         <event-group description="" sid="644491272739932" title="eventosBotonAL SER presionado">
