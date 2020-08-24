@@ -315,7 +315,7 @@
                             <param id="1" name="Visibility">1</param>
                         </action>
                         <action id="4" name="Set animation" sid="605728395196470" type="FondoModal">
-                            <param id="0" name="Animation">&quot;t1986&quot;</param>
+                            <param id="0" name="Animation">&quot;t1985&quot;</param>
                             <param id="1" name="From">1</param>
                         </action>
                     </actions>
