@@ -950,7 +950,7 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="Acercade" sid="923744789866941">
+            <object-type name="btnAcercade" sid="923744789866941">
                 <plugin id="Sprite" />
                 <instance-variables>
                     <instance-variable name="activo" sid="356092799162232" type="boolean" />
