@@ -706,7 +706,7 @@
                 <event-block sid="513149707799830">
                     <conditions>
                         <condition id="3" name="On touched object" sid="487598147649392" type="Touch">
-                            <param id="0" name="Object">creditos</param>
+                            <param id="0" name="Object">btnCerrarCreditos</param>
                         </condition>
                     </conditions>
                     <actions>
@@ -2110,6 +2110,10 @@
                         <action id="-10" name="Set value" sid="994471957216717" type="web2017">
                             <param id="0" name="Instance variable">posY</param>
                             <param id="1" name="Value">web2017.Y</param>
+                        </action>
+                        <action behavior="Pin" id="0" name="Pin to object" sid="633054895136637" type="btnCerrarCreditos">
+                            <param id="0" name="Pin to">creditos</param>
+                            <param id="1" name="Mode">0</param>
                         </action>
                     </actions>
                 </event-block>

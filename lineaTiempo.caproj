@@ -19,6 +19,7 @@
     <used-behaviors>
         <behavior author="Scirra" id="Bullet" version="1">Bullet</behavior>
         <behavior author="Scirra" id="Physics" version="1">Physics</behavior>
+        <behavior author="Scirra" id="Pin" version="1">Pin</behavior>
     </used-behaviors>
     <used-effects />
     <configurations>
@@ -1873,6 +1874,19 @@
                     </animation>
                     <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="294536000218741" speed="5">
                         <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\xampp\htdocs\LT-tecnoaprender\Assets-V3\Botones B\()_estado_2020.png" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="btnCerrarCreditos" sid="418759177689942">
+                <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Pin" sid="651547511108922">
+                        <behavior id="Pin" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="736091179146560" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\Luis chc\Downloads\close.png" />
                     </animation>
                 </animation-folder>
             </object-type>
