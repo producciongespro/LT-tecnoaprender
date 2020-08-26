@@ -560,6 +560,30 @@
                         </action>
                     </actions>
                 </event-block>
+                <event-block sid="396918867480796">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="870909624938442" type="Touch">
+                            <param id="0" name="Object">info2017</param>
+                        </condition>
+                        <condition id="-8" name="Is boolean instance variable set" sid="865758319490515" type="info2017">
+                            <param id="0" name="Instance variable">activo</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-4" name="Set layer visible" sid="748020951789997" type="System">
+                            <param id="0" name="Layer">&quot;Sombra&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="-4" name="Set layer visible" sid="320302721665036" type="System">
+                            <param id="0" name="Layer">&quot;Modal&quot;</param>
+                            <param id="1" name="Visibility">1</param>
+                        </action>
+                        <action id="4" name="Set animation" sid="970482458999497" type="FondoModal">
+                            <param id="0" name="Animation">&quot;t2017&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                    </actions>
+                </event-block>
                 <event-block sid="615417690485164">
                     <conditions>
                         <condition id="3" name="On touched object" sid="811333025746805" type="Touch">
